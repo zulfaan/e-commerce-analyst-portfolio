@@ -7,6 +7,7 @@ from selenium import webdriver
 import pandas as pd
 import luigi
 import time
+import os
 
 
 class ExtractTokpedExsportData(luigi.Task):
@@ -14,7 +15,10 @@ class ExtractTokpedExsportData(luigi.Task):
         pass # Tidak ada task yang diperlukan
     
     def output(self):
-        return luigi.LocalTarget('extract-raw-data/exsport_tokped_raw.csv') # MTempat penyimpanan data yang diekstrak
+        BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract-raw-data"))
+        OUTPUT_PATH = os.path.join(BASE_DIR, "exsport_tokped_raw.csv")
+        
+        return luigi.LocalTarget(OUTPUT_PATH) # Tempat penyimpanan data yang diekstrak
 
 
     def run(self):
@@ -126,3 +130,98 @@ class ExtractTokpedExsportData(luigi.Task):
         finally:
             driver.quit() # Menutup browser
 
+
+class ExtractTokpedStockExsportData(luigi.Task):
+    def requires(self):
+        return ExtractTokpedExsportData() # Task yang diperlukan
+    
+    def output(self):
+        BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract-raw-data"))
+        OUTPUT_PATH = os.path.join(BASE_DIR, "exsport_stock_tokped.csv")
+
+        return luigi.LocalTarget(OUTPUT_PATH) # Tempat penyimpanan data yang diekstrak
+
+
+    def run(self):
+        extract_data = pd.read_csv(self.input().path) # Membaca file CSV yang diekstrak sebelumnya
+        pages = extract_data['product_link'].tolist() # Mengambil kolom product_link dan mengonversinya ke dalam list
+
+        options = webdriver.ChromeOptions()
+        options.add_argument('--disable-blink-features=AutomationControlled') # Menonaktifkan fitur otomatisasi
+        options.add_experimental_option('useAutomationExtension', False) # Menonaktifkan ekstensi otomatisasi
+        options.add_experimental_option("excludeSwitches", ["enable-automation"]) # Mengecualikan switch otomatisasi
+        driver = webdriver.Chrome(options=options) # Membuat instance dari webdriver Chrome
+
+        stock_data = [] # List untuk menyimpan data produk
+
+        try:
+            for page in pages: # Iterasi setiap link produk
+                url = page.format(page) # Membuat URL untuk halaman saat ini
+                driver.get(url) # Mengakses URL
+
+                # Menunggu hingga elemen body muncul
+                WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.TAG_NAME, 'body'))
+                )
+
+                # Menggulir halaman untuk memuat lebih banyak produk
+                for _ in range(5):
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);") # Menggulir ke bawah
+                    time.sleep(2) # Menunggu 2 detik
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight / 2);") # Menggulir ke atas
+                    time.sleep(2) # Menunggu 2 detik
+
+                # Mengambil elemen produk
+                product_containers = driver.find_elements(By.CSS_SELECTOR, "[id='main-pdp-container']")
+
+                for container in product_containers: # Iterasi setiap elemen produk
+                    try:
+                        name = container.find_element(By.CSS_SELECTOR, "[data-testid='lblPDPDetailProductName']").text # Mengambil nama produk
+                    except:
+                        name = None # Jika gagal, set nama menjadi None
+
+                    # Mengambil stock jual produk dari elemen
+                    try:
+                        stock_elem = container.find_element(By.CSS_SELECTOR, "[data-testid='stock-label']")  # Mencari elemen stok
+                        stock_text = stock_elem.text.strip()  # Mengambil teks dan menghapus spasi ekstra
+                        
+                        # Mengambil angka stok setelah "Stok Total: "
+                        stock = stock_text.split(":")[-1].strip()  
+                    except:
+                        stock = None  # Jika gagal, set stok menjadi None
+
+                    # Mengambil kategori produk dari elemen
+                    try:
+                        # Mencari elemen etalase berdasarkan class
+                        etalase_elem = container.find_element(By.CSS_SELECTOR, "li.css-1i6xy22 a b")
+                        etalase = etalase_elem.text.strip()  # Mengambil teks dari elemen <b>
+                    except:
+                        etalase = None  # Jika gagal, set etalase menjadi None
+
+                    try:
+                        # Mencari deskripsi produk
+                        description_elem = container.find_element(By.CSS_SELECTOR, "data-testid='lblPDPDescriptionProduk'")
+                        text_description = description_elem.text.strip()  # Mengambil teks deskripsi produk
+                    except:
+                        text_description = None  # Jika gagal, set deskripsi menjadi None
+
+                    # Menambahkan data produk ke dalam list product_data
+                    stock_data.append({
+                        'name_product': name,
+                        'stock': stock,
+                        'kategori': etalase,
+                        'description': text_description
+                    })
+
+            # Mengonversi list product_data ke dalam DataFrame
+            exsport_stock_tokped_df = pd.DataFrame(stock_data)
+
+            # Menyimpan DataFrame ke dalam file CSV
+
+            exsport_stock_tokped_df.to_csv(self.output().path, index=False)
+
+        except Exception as e:
+            print(f"Terjadi kesalahan: {e}") # Menampilkan pesan kesalahan jika terjadi kesalahan
+        
+        finally:
+            driver.quit() # Menutup browser
