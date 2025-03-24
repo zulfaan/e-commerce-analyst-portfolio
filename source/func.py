@@ -1,6 +1,20 @@
 import pandas as pd
 import random
 
+def extract_category(name_product):
+    name_lower = name_product.lower()
+    if any (keyword in name_lower for keyword in ['laptop', 'sleeve']):
+        return 'TAS LAPTOP'
+    elif any (keyword in name_lower for keyword in ['sling bag', 'sling pouch']):
+        return 'TAS SLING BAG'
+    elif any (keyword in name_lower for keyword in ['backpack', 'rucksack']):
+        return 'TAS BACKPACK'
+    elif any (keyword in name_lower for keyword in ['pouch']):
+        return 'TAS POUCH'
+    elif any (keyword in name_lower for keyword in ['tote bag']):
+        return 'TAS TOTE BAG'
+    else:
+        return 'SEMUA ETALASE'
 
 def extract_color(name_product):
     color_list = [
