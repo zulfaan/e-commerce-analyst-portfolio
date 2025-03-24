@@ -58,15 +58,18 @@ def extract_color(name_product):
 def generate_product_id(index):
     letters = "ETWS"  # Menggunakan ETWS secara berurutan
     numbers = ''.join(random.choices("0123456789", k=3))  # 3 angka acak
+    product_id = letters + numbers
     
-    return letters + numbers
+    return product_id
 
 def generate_color_id(index):
-    letters = "ECLR"  # Menggunakan ECLR secara berurutan
-    numbers = ''.join(random.choices("0123456789", k=3))  # 3 angka acak
-    
-    return letters + numbers
+    letters = "ECLR"
+    numbers = ''.join(random.choices("0123456789", k=3))  # 3 angka acak  
+    category_id = letters + numbers  
+    return category_id
 
 def generate_category_id(index):
-    letters = "ECAT" # Menggunakan ECAT secara berurutan
+    letters = "ECAT"
     numbers = ''.join(random.choices("0123456789", k=3))  # 3 angka acak  
+    category_id = letters + numbers  
+    return category_id
