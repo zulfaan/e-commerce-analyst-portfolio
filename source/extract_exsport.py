@@ -338,16 +338,14 @@ class ExtractTokpedStockExsportData(luigi.Task):
 
         dummy_data = []
         for i in range(num_products):
-            name_product = fake.sentence(nb_words=3).replace(".", "")  # Nama produk acak tanpa titik
+            name_product = extract_data['name_product'][i]
             stock = random.randint(0, 50)  # Stok antara 0-50
-            description = fake.sentence(nb_words=10)  # Deskripsi produk singkat
             kategori = extract_category(name_product)  # Menentukan kategori berdasarkan nama produk
             
             dummy_data.append({
                 "name_product": name_product,
                 "stock": stock,
-                "description": description,
-                "kategori": kategori
+                "category": kategori
             })
 
         # Konversi ke DataFrame dan simpan ke CSV

@@ -28,15 +28,15 @@ class TransformTokpedExportData(luigi.Task):
         # Transformasi data
         # Ekstrak color dari nama produk
         df_color = {
-            'color_id' : [generate_color_id(i) for i in range(len(df_product['name'].apply(extract_color).dropna().unique()))],
-            'color' : df_product['name'].apply(extract_color).dropna().unique()
+            'color_id' : [generate_color_id(i) for i in range(len(df_product['name_product'].apply(extract_color).dropna().unique()))],
+            'color' : df_product['name_product'].apply(extract_color).unique()
         }
         df_color = pd.DataFrame(df_color)
 
         # Ekstrak kategori dari stock
         df_category = {
-            'category_id' : [generate_category_id(i) for i in range(len(df_stock['category'].dropna().unique()))],
-            'category' : df_stock['category'].str.upper().dropna().unique()
+            'category_id' : [generate_category_id(i) for i in range(len(df_stock['category'].unique()))],
+            'category' : df_stock['category'].str.upper().unique()
         }
         df_category = pd.DataFrame(df_category)
 
@@ -70,7 +70,7 @@ class TransformTokpedExportData(luigi.Task):
         df_stock = df_stock.merge(df_color, on='color', how='left')
         df_stock['stock'] = df_stock['stock'].fillna('0')
         df_stock['stock'] = df_stock['stock'].str.replace('Sisa', '').str.strip().astype(int)
-        df_stock = df_stock[['product_id', 'category_id', 'color_id', 'stock', 'description']]
+        df_stock = df_stock[['product_id', 'category_id', 'color_id', 'stock']]
 
         # Menyimpan data
         os.makedirs('transform-data', exist_ok=True)
