@@ -1,0 +1,1001 @@
+customer_id,name,age,gender,location,browsing_history,purchase_history
+CSTM28388,Koko Mandasari,27,Laki-laki,Tomohon,ECAT190,ETWS756
+CSTM08617,Tania Hana Salahudin,18,Perempuan,Kota Administrasi Jakarta Barat,"ECAT190, ECAT563, ECAT220","ETWS233, ETWS402"
+CSTM46166,Calista Mansur,39,Perempuan,Pekanbaru,ECAT772,"ETWS263, ETWS304"
+CSTM27548,Cakrabirawa Agustina,33,Laki-laki,Padang Sidempuan,"ECAT220, ECAT563",ETWS402
+CSTM63120,Cakrajiya Pranawa Uwais,33,Laki-laki,Sorong,ECAT563,"ETWS885, ETWS193"
+CSTM49502,Cici Oktaviani,35,Perempuan,Salatiga,"ECAT220, ECAT141","ETWS504, ETWS228"
+CSTM97454,Gangsa Puspasari,21,Laki-laki,Depok,ECAT141,ETWS571
+CSTM75102,Tari Dinda Hakim,35,Perempuan,Banda Aceh,"ECAT220, ECAT772, ECAT563",ETWS885
+CSTM59012,Paramita Purwanto Hartati,33,Perempuan,Batu,ECAT460,"ETWS029, ETWS686"
+CSTM26638,Zulaikha Ismail Lazuardi,26,Perempuan,Palembang,ECAT563,"ETWS157, ETWS271"
+CSTM09655,Ghani Arta Suryono,22,Laki-laki,Ambon,ECAT141,"ETWS448, ETWS186"
+CSTM13746,Candrakanta Zulaika,19,Laki-laki,Ternate,"ECAT190, ECAT141",ETWS805
+CSTM61025,Gina Artanto Mardhiyah,24,Perempuan,Subulussalam,"ECAT772, ECAT563, ECAT220",ETWS798
+CSTM99567,Mahesa Wulandari,20,Laki-laki,Sungai Penuh,ECAT190,ETWS233
+CSTM74997,Gilang Purwanti,24,Laki-laki,Solok,"ECAT141, ECAT772, ECAT563","ETWS732, ETWS149"
+CSTM06092,Hamima Mustofa Gunawan,28,Perempuan,Kota Administrasi Jakarta Selatan,"ECAT772, ECAT190","ETWS808, ETWS785"
+CSTM73133,Prakosa Enteng Utama,20,Laki-laki,Parepare,"ECAT220, ECAT772, ECAT190",ETWS848
+CSTM01320,Garang Andriani,32,Laki-laki,Sabang,"ECAT563, ECAT220",ETWS547
+CSTM24442,Darmana Permata,38,Laki-laki,Cirebon,ECAT460,"ETWS224, ETWS409"
+CSTM09461,Oliva Adika Sudiati,23,Perempuan,Kotamobagu,"ECAT563, ECAT460",ETWS219
+CSTM77524,Jane Rahmawati,32,Perempuan,Sawahlunto,ECAT141,ETWS409
+CSTM75994,Ismail Yulianti,17,Laki-laki,Bekasi,"ECAT460, ECAT220, ECAT141","ETWS756, ETWS939"
+CSTM31824,Ratna Uyainah,17,Perempuan,Makassar,"ECAT220, ECAT460","ETWS756, ETWS827"
+CSTM51871,Zulaikha Raditya Laksmiwati,28,Perempuan,Sungai Penuh,ECAT141,ETWS901
+CSTM47646,Umay Kacung Pangestu,29,Laki-laki,Balikpapan,"ECAT460, ECAT772","ETWS362, ETWS714"
+CSTM40507,Maryadi Saragih,25,Laki-laki,Magelang,"ECAT141, ECAT220, ECAT772",ETWS279
+CSTM55568,Karya Vivi Mustofa,21,Laki-laki,Padang,"ECAT772, ECAT220, ECAT190","ETWS975, ETWS448"
+CSTM90211,Dinda Ajimin Padmasari,19,Perempuan,Tegal,ECAT141,"ETWS818, ETWS289"
+CSTM86871,Vega Agnes Maheswara,31,Laki-laki,Probolinggo,"ECAT190, ECAT141, ECAT772","ETWS069, ETWS604"
+CSTM40173,Michelle Cengkir Haryanti,31,Perempuan,Samarinda,ECAT460,"ETWS831, ETWS504"
+CSTM40072,Jail Vero Rajasa,17,Laki-laki,Tebingtinggi,"ECAT772, ECAT460, ECAT190",ETWS504
+CSTM26777,Clara Yosef Suartini,33,Perempuan,Samarinda,ECAT460,"ETWS786, ETWS823"
+CSTM51770,Ade Prasetyo,27,Perempuan,Banjarbaru,"ECAT772, ECAT141, ECAT220",ETWS592
+CSTM40841,Dinda Hardana Prasetyo,37,Perempuan,Bandung,ECAT772,ETWS926
+CSTM02356,Darmaji Situmorang,20,Laki-laki,Salatiga,ECAT460,"ETWS444, ETWS848"
+CSTM35394,Azalea Hamima Namaga,31,Perempuan,Bandar Lampung,ECAT772,"ETWS288, ETWS815"
+CSTM16728,Gamani Vanesa Simbolon,31,Laki-laki,Bau-Bau,"ECAT220, ECAT563, ECAT460",ETWS818
+CSTM46652,Panca Shakila Lazuardi,18,Laki-laki,Cilegon,"ECAT772, ECAT190",ETWS288
+CSTM98779,Radika Wijayanti,32,Laki-laki,Serang,"ECAT190, ECAT141",ETWS574
+CSTM51360,Cager Tampubolon,17,Laki-laki,Balikpapan,"ECAT220, ECAT141, ECAT190",ETWS205
+CSTM10127,Bancar Eluh Saragih,33,Laki-laki,Banjar,ECAT460,ETWS017
+CSTM26995,Prasetyo Suartini,36,Laki-laki,Palangkaraya,"ECAT190, ECAT772, ECAT460","ETWS209, ETWS696"
+CSTM77640,Oni Zulkarnain,30,Perempuan,Malang,"ECAT190, ECAT460, ECAT772","ETWS913, ETWS309"
+CSTM31055,Simon Septi Budiman,34,Laki-laki,Padangpanjang,"ECAT190, ECAT563","ETWS220, ETWS347"
+CSTM22472,Salimah Utami,18,Perempuan,Sibolga,"ECAT190, ECAT563, ECAT220",ETWS258
+CSTM27084,Daniswara Farida,39,Laki-laki,Banjarbaru,ECAT563,"ETWS673, ETWS673"
+CSTM18226,Lili Saka Waskita,24,Perempuan,Padang Sidempuan,"ECAT190, ECAT220, ECAT772",ETWS454
+CSTM93437,Panji Cager Kuswoyo,26,Laki-laki,Kupang,ECAT460,"ETWS016, ETWS143"
+CSTM67465,Patricia Saptono,28,Perempuan,Palembang,"ECAT190, ECAT563, ECAT772","ETWS616, ETWS753"
+CSTM41906,Respati Wibowo,26,Laki-laki,Makassar,"ECAT772, ECAT141",ETWS136
+CSTM29796,Jatmiko Virman Kuswoyo,22,Laki-laki,Batu,ECAT772,ETWS673
+CSTM29809,Lulut Siregar,30,Laki-laki,Banjar,"ECAT220, ECAT772, ECAT460",ETWS149
+CSTM99422,Nurul Simanjuntak,18,Perempuan,Tanjungbalai,ECAT190,ETWS069
+CSTM17629,Ratih Haryanto,33,Perempuan,Mojokerto,ECAT141,"ETWS571, ETWS403"
+CSTM81688,Kunthara Bajragin Dongoran,23,Laki-laki,Dumai,ECAT190,ETWS383
+CSTM69207,Leo Hidayat,17,Laki-laki,Pangkalpinang,ECAT563,ETWS394
+CSTM26349,Aurora Kairav Wastuti,23,Perempuan,Gorontalo,"ECAT772, ECAT563","ETWS309, ETWS362"
+CSTM80514,Tugiman Chelsea Mandala,22,Laki-laki,Tasikmalaya,ECAT190,ETWS200
+CSTM09944,Dono Anggraini,24,Laki-laki,Meulaboh,ECAT190,"ETWS753, ETWS386"
+CSTM11143,Jaswadi Suwarno,21,Laki-laki,Metro,"ECAT190, ECAT220, ECAT772","ETWS409, ETWS460"
+CSTM53034,Ophelia Estiawan Widiastuti,26,Perempuan,Palembang,"ECAT190, ECAT220, ECAT772","ETWS998, ETWS114"
+CSTM88383,Malika Cakrawala Wahyuni,17,Perempuan,Tual,"ECAT460, ECAT220, ECAT190",ETWS101
+CSTM44935,Rudi Michelle Tarihoran,22,Laki-laki,Bandung,"ECAT141, ECAT220, ECAT460",ETWS753
+CSTM54739,Eka Wage Jailani,36,Perempuan,Padangpanjang,"ECAT141, ECAT220","ETWS756, ETWS152"
+CSTM57956,Paris Wasita,32,Perempuan,Kediri,"ECAT772, ECAT190, ECAT563",ETWS665
+CSTM74508,Julia Pradipta,40,Perempuan,Kota Administrasi Jakarta Timur,"ECAT220, ECAT563, ECAT772","ETWS157, ETWS139"
+CSTM89196,Siska Kenzie Puspita,31,Perempuan,Depok,"ECAT141, ECAT563","ETWS696, ETWS805"
+CSTM02954,Karya Genta Zulkarnain,29,Laki-laki,Banjarmasin,"ECAT460, ECAT190, ECAT563",ETWS200
+CSTM05004,Perkasa Hutapea,38,Laki-laki,Tanjungbalai,ECAT563,"ETWS031, ETWS815"
+CSTM02083,Septi Kuswoyo,24,Perempuan,Tanjungpinang,"ECAT220, ECAT772, ECAT141","ETWS263, ETWS450"
+CSTM56047,Anita Tedi Padmasari,32,Perempuan,Pekanbaru,"ECAT772, ECAT460",ETWS818
+CSTM17478,Lasmanto Prastuti,32,Laki-laki,Surakarta,ECAT460,ETWS986
+CSTM05700,Ivan Prasetya Andriani,18,Laki-laki,Mataram,"ECAT563, ECAT190",ETWS441
+CSTM49919,Putu Balangga Marbun,22,Laki-laki,Cilegon,"ECAT190, ECAT772, ECAT563",ETWS477
+CSTM78322,Gasti Rina Irawan,36,Perempuan,Tangerang Selatan,ECAT563,"ETWS157, ETWS885"
+CSTM51778,Rahman Budiyanto,30,Laki-laki,Cimahi,"ECAT772, ECAT220",ETWS038
+CSTM65208,Langgeng Waluyo,17,Laki-laki,Salatiga,ECAT141,"ETWS735, ETWS335"
+CSTM80367,Fitria Zulkarnain,31,Perempuan,Purwokerto,ECAT772,ETWS735
+CSTM57829,Cahyadi Firmansyah,23,Laki-laki,Tarakan,"ECAT563, ECAT190","ETWS448, ETWS710"
+CSTM38293,Setya Vera Lailasari,26,Laki-laki,Balikpapan,ECAT190,"ETWS663, ETWS945"
+CSTM35668,Zaenab Suryono,39,Perempuan,Padangpanjang,ECAT141,ETWS303
+CSTM01483,Cahyono Timbul Wahyuni,39,Laki-laki,Banjarmasin,"ECAT220, ECAT190, ECAT563","ETWS157, ETWS710"
+CSTM30982,Winda Mangunsong,19,Perempuan,Medan,"ECAT141, ECAT460, ECAT190","ETWS233, ETWS409"
+CSTM19048,Jarwadi Febi Rahayu,32,Laki-laki,Pasuruan,"ECAT190, ECAT772, ECAT141","ETWS354, ETWS883"
+CSTM51892,Olivia Rajasa,28,Perempuan,Pematangsiantar,"ECAT141, ECAT220","ETWS100, ETWS753"
+CSTM69869,Gaduh Raisa Manullang,34,Laki-laki,Malang,ECAT141,ETWS441
+CSTM15736,Usyi Digdaya Mandala,24,Perempuan,Batam,ECAT190,ETWS224
+CSTM43360,Devi Mandasari,39,Perempuan,Pagaralam,"ECAT772, ECAT190","ETWS063, ETWS088"
+CSTM68534,Vivi Prasetyo,26,Perempuan,Padangpanjang,"ECAT220, ECAT190, ECAT141",ETWS665
+CSTM35509,Nrima Suryatmi,38,Laki-laki,Langsa,"ECAT563, ECAT460",ETWS031
+CSTM44666,Hana Galiono Januar,31,Perempuan,Semarang,"ECAT190, ECAT563, ECAT772","ETWS798, ETWS818"
+CSTM06203,Dalima Hasna Yuliarti,26,Perempuan,Langsa,ECAT220,"ETWS592, ETWS735"
+CSTM00245,Dimas Rina Widiastuti,31,Laki-laki,Langsa,"ECAT220, ECAT460","ETWS402, ETWS153"
+CSTM73745,Cayadi Candrakanta Sudiati,16,Laki-laki,Ambon,"ECAT460, ECAT141",ETWS697
+CSTM58806,Elvina Reza Dabukke,24,Perempuan,Dumai,"ECAT190, ECAT460, ECAT563","ETWS188, ETWS362"
+CSTM37916,Rahmi Raisa Manullang,38,Perempuan,Kediri,"ECAT141, ECAT772",ETWS395
+CSTM33290,Jasmani Habibi,36,Laki-laki,Medan,"ECAT772, ECAT220",ETWS883
+CSTM58244,Gawati Zahra Mahendra,39,Perempuan,Probolinggo,ECAT141,"ETWS073, ETWS455"
+CSTM83963,Viman Irma Gunawan,20,Laki-laki,Banjarbaru,"ECAT220, ECAT772, ECAT190","ETWS848, ETWS748"
+CSTM00602,Rini Sabri Hutasoit,24,Perempuan,Palopo,ECAT772,ETWS236
+CSTM54044,Putri Iswahyudi,32,Perempuan,Tanjungbalai,"ECAT141, ECAT220","ETWS665, ETWS031"
+CSTM48348,Gina Maulana,32,Perempuan,Batu,"ECAT772, ECAT190",ETWS205
+CSTM25913,Omar Rajasa,23,Laki-laki,Kota Administrasi Jakarta Pusat,"ECAT563, ECAT772, ECAT220","ETWS097, ETWS394"
+CSTM66334,Samiah Makara Simanjuntak,20,Perempuan,Pematangsiantar,ECAT190,ETWS708
+CSTM64288,Harsaya Baktiono Rahmawati,31,Laki-laki,Singkawang,"ECAT563, ECAT141, ECAT220","ETWS669, ETWS986"
+CSTM49715,Victoria Prasetyo,19,Perempuan,Bogor,"ECAT141, ECAT460","ETWS279, ETWS330"
+CSTM88155,Tira Jarwi Januar,40,Perempuan,Palangkaraya,"ECAT220, ECAT190, ECAT460",ETWS663
+CSTM91463,Jarwa Paulin Gunawan,35,Laki-laki,Cilegon,ECAT141,"ETWS756, ETWS883"
+CSTM07347,Endah Bambang Budiman,30,Perempuan,Pekalongan,ECAT772,ETWS732
+CSTM00866,Anggabaya Cawuk Pradipta,20,Laki-laki,Meulaboh,"ECAT563, ECAT460, ECAT141","ETWS396, ETWS926"
+CSTM97826,Queen Hilda Siregar,28,Perempuan,Tasikmalaya,"ECAT563, ECAT772, ECAT190",ETWS696
+CSTM45911,Yulia Martana Yolanda,17,Perempuan,Medan,"ECAT563, ECAT772, ECAT190",ETWS031
+CSTM41771,Cinta Cinthia Hutasoit,24,Perempuan,Cimahi,"ECAT460, ECAT772","ETWS547, ETWS304"
+CSTM98230,Akarsana Panca Namaga,32,Laki-laki,Ambon,"ECAT141, ECAT190, ECAT772","ETWS748, ETWS710"
+CSTM78036,Laksana Hidayat,23,Laki-laki,Tarakan,ECAT563,ETWS818
+CSTM69691,Ihsan Garang Sihombing,27,Laki-laki,Ternate,ECAT141,ETWS984
+CSTM41616,Bakti Darmana Adriansyah,38,Laki-laki,Bukittinggi,ECAT460,"ETWS258, ETWS895"
+CSTM90396,Bakiadi Budiman,35,Laki-laki,Pagaralam,ECAT141,ETWS686
+CSTM20690,Luhung Utami,40,Laki-laki,Yogyakarta,"ECAT772, ECAT141","ETWS409, ETWS089"
+CSTM78591,Prayitna Nilam Winarsih,29,Laki-laki,Singkawang,"ECAT141, ECAT460","ETWS684, ETWS874"
+CSTM56457,Carub Rachel Hutagalung,18,Laki-laki,Kota Administrasi Jakarta Utara,ECAT141,ETWS871
+CSTM08356,Edward Yuniar,38,Laki-laki,Tanjungpinang,"ECAT141, ECAT460, ECAT563",ETWS157
+CSTM24980,Mariadi Mardhiyah,39,Laki-laki,Padang,"ECAT141, ECAT563, ECAT460",ETWS883
+CSTM41082,Wage Makara Yuliarti,16,Laki-laki,Tanjungbalai,"ECAT190, ECAT772","ETWS416, ETWS901"
+CSTM66534,Hani Yunita Zulaika,26,Perempuan,Pematangsiantar,"ECAT563, ECAT141, ECAT460","ETWS570, ETWS403"
+CSTM35141,Safina Puspa Rahimah,20,Perempuan,Probolinggo,ECAT220,ETWS696
+CSTM71650,Ida Vega Haryanti,34,Perempuan,Cimahi,ECAT563,"ETWS673, ETWS388"
+CSTM96769,Dian Palastri,28,Perempuan,Semarang,"ECAT190, ECAT460","ETWS850, ETWS779"
+CSTM82138,Almira Iswahyudi,22,Perempuan,Kota Administrasi Jakarta Barat,"ECAT141, ECAT460, ECAT190","ETWS876, ETWS450"
+CSTM99966,Ira Saefullah,34,Perempuan,Kendari,ECAT141,ETWS519
+CSTM06199,Bahuwirya Wijaya,37,Laki-laki,Purwokerto,"ECAT190, ECAT563",ETWS779
+CSTM62696,Sarah Dongoran,20,Perempuan,Ambon,"ECAT460, ECAT220, ECAT190",ETWS263
+CSTM92980,Ida Widodo,28,Perempuan,Tebingtinggi,"ECAT563, ECAT460, ECAT772",ETWS188
+CSTM68784,Ani Bakda Padmasari,20,Perempuan,Bukittinggi,"ECAT190, ECAT772","ETWS057, ETWS919"
+CSTM49274,Irnanto Karna Napitupulu,29,Laki-laki,Tarakan,"ECAT141, ECAT460",ETWS400
+CSTM03724,Kanda Sihombing,31,Laki-laki,Bekasi,"ECAT772, ECAT141",ETWS718
+CSTM41760,Bahuraksa Gatot Purnawati,39,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT772, ECAT563","ETWS471, ETWS391"
+CSTM08338,Qori Daryani Gunawan,33,Perempuan,Mataram,"ECAT190, ECAT563","ETWS755, ETWS035"
+CSTM84275,Zamira Mangunsong,17,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT220, ECAT190",ETWS057
+CSTM24991,Darmana Ardianto,20,Laki-laki,Kota Administrasi Jakarta Barat,ECAT772,"ETWS450, ETWS604"
+CSTM72156,Purwadi Aurora Mandasari,29,Laki-laki,Kotamobagu,"ECAT220, ECAT460",ETWS409
+CSTM49874,Vicky Zelda Lailasari,20,Perempuan,Bekasi,"ECAT772, ECAT563","ETWS674, ETWS591"
+CSTM24028,Vicky Pranowo,17,Perempuan,Banjarbaru,ECAT460,"ETWS541, ETWS755"
+CSTM41738,Eluh Pradipta,18,Laki-laki,Salatiga,ECAT190,ETWS818
+CSTM74761,Fitriani Jono Sihombing,36,Perempuan,Padang,"ECAT772, ECAT220",ETWS718
+CSTM60787,Mahdi Rama Latupono,19,Laki-laki,Semarang,"ECAT220, ECAT563",ETWS471
+CSTM40778,Rachel Gaiman Namaga,18,Perempuan,Surabaya,"ECAT563, ECAT141",ETWS149
+CSTM28839,Ida Kurniawan,34,Perempuan,Kota Administrasi Jakarta Utara,"ECAT190, ECAT220","ETWS513, ETWS690"
+CSTM08376,Uchita Nasyiah,31,Perempuan,Denpasar,"ECAT772, ECAT141",ETWS857
+CSTM03274,Warsa Jarwa Yulianti,26,Laki-laki,Pekalongan,"ECAT460, ECAT190",ETWS617
+CSTM31310,Ismail Irsad Uwais,35,Laki-laki,Surakarta,"ECAT563, ECAT190, ECAT460",ETWS700
+CSTM71226,Salsabila Kemal Nainggolan,24,Perempuan,Bontang,"ECAT190, ECAT141, ECAT220","ETWS845, ETWS513"
+CSTM59754,Patricia Ihsan Prastuti,19,Perempuan,Batu,ECAT190,ETWS361
+CSTM69600,Mustofa Darijan Mulyani,16,Laki-laki,Surabaya,ECAT220,"ETWS901, ETWS017"
+CSTM20581,Vicky Salimah Zulaika,32,Perempuan,Tidore Kepulauan,"ECAT563, ECAT772",ETWS620
+CSTM25239,Agnes Ayu Rahmawati,22,Perempuan,Bekasi,"ECAT460, ECAT563","ETWS188, ETWS582"
+CSTM74501,Aisyah Sihotang,33,Perempuan,Payakumbuh,"ECAT190, ECAT220",ETWS383
+CSTM43511,Paramita Dalimin Padmasari,29,Perempuan,Payakumbuh,"ECAT563, ECAT460",ETWS220
+CSTM69347,Bajragin Keisha Laksmiwati,37,Laki-laki,Depok,ECAT190,ETWS193
+CSTM01404,Tania Kuswoyo,31,Perempuan,Kota Administrasi Jakarta Utara,"ECAT563, ECAT460, ECAT141",ETWS679
+CSTM59508,Dwi Anggraini,33,Laki-laki,Tegal,"ECAT460, ECAT220","ETWS620, ETWS220"
+CSTM79539,Agnes Ulya Sirait,19,Perempuan,Tidore Kepulauan,ECAT772,"ETWS587, ETWS394"
+CSTM02274,Yosef Marwata Rahimah,24,Laki-laki,Jayapura,"ECAT460, ECAT141, ECAT190",ETWS696
+CSTM24749,Dadi Mila Hartati,40,Laki-laki,Tarakan,"ECAT460, ECAT563",ETWS157
+CSTM22703,Cinthia Saefullah,21,Perempuan,Batam,"ECAT772, ECAT460","ETWS439, ETWS073"
+CSTM09198,Mila Puspasari,18,Perempuan,Surakarta,"ECAT190, ECAT220",ETWS881
+CSTM49868,Rika Tasdik Tarihoran,24,Perempuan,Bitung,"ECAT772, ECAT460, ECAT141",ETWS679
+CSTM32699,Humaira Saka Kuswoyo,40,Perempuan,Tasikmalaya,"ECAT220, ECAT772","ETWS043, ETWS242"
+CSTM91799,Fitriani Santoso,35,Perempuan,Bau-Bau,"ECAT190, ECAT772, ECAT563",ETWS487
+CSTM21127,Sadina Margana Nainggolan,16,Perempuan,Pontianak,"ECAT220, ECAT563","ETWS400, ETWS083"
+CSTM21184,Ilyas Mandasari,17,Laki-laki,Batam,"ECAT141, ECAT190, ECAT563",ETWS848
+CSTM79161,Vega Kuswoyo,39,Laki-laki,Bengkulu,ECAT220,ETWS673
+CSTM92642,Lidya Permata,39,Perempuan,Tidore Kepulauan,ECAT220,ETWS985
+CSTM23195,Tiara Nilam Tamba,35,Perempuan,Subulussalam,"ECAT190, ECAT460, ECAT772","ETWS480, ETWS402"
+CSTM41225,Qori Ade Kusumo,30,Perempuan,Samarinda,"ECAT220, ECAT563, ECAT460","ETWS975, ETWS442"
+CSTM64450,Patricia Maryanto Sudiati,36,Perempuan,Bandar Lampung,"ECAT190, ECAT460, ECAT220","ETWS035, ETWS708"
+CSTM71088,Argono Usada,23,Laki-laki,Pekanbaru,"ECAT772, ECAT563, ECAT190",ETWS258
+CSTM92234,Cinthia Balangga Najmudin,23,Perempuan,Jayapura,ECAT141,"ETWS288, ETWS043"
+CSTM80060,Lantar Adriansyah,25,Laki-laki,Pasuruan,"ECAT772, ECAT220",ETWS279
+CSTM91355,Aurora Padmasari,21,Perempuan,Tual,"ECAT141, ECAT190, ECAT563","ETWS574, ETWS686"
+CSTM95376,Ami Setiawan,23,Perempuan,Tomohon,"ECAT460, ECAT141, ECAT220",ETWS409
+CSTM44657,Zalindra Kasim Wijaya,38,Perempuan,Cilegon,"ECAT190, ECAT563, ECAT141","ETWS367, ETWS986"
+CSTM31100,Umaya Mandasari,34,Laki-laki,Meulaboh,"ECAT772, ECAT190, ECAT563","ETWS035, ETWS898"
+CSTM61251,Cakrawala Safitri,30,Laki-laki,Serang,"ECAT772, ECAT460, ECAT141",ETWS818
+CSTM24495,Danu Safitri,34,Laki-laki,Cimahi,ECAT563,"ETWS103, ETWS084"
+CSTM69211,Jefri Hidayanto,38,Laki-laki,Ternate,"ECAT220, ECAT772, ECAT141","ETWS460, ETWS805"
+CSTM76221,Karya Pangeran Oktaviani,27,Laki-laki,Depok,"ECAT460, ECAT563","ETWS362, ETWS805"
+CSTM21927,Gandewa Widiastuti,39,Laki-laki,Tangerang Selatan,"ECAT220, ECAT460, ECAT563",ETWS710
+CSTM27704,Okta Wasita,19,Laki-laki,Kota Administrasi Jakarta Timur,ECAT141,"ETWS083, ETWS673"
+CSTM06071,Malika Puspasari,32,Perempuan,Tanjungpinang,"ECAT220, ECAT190",ETWS871
+CSTM59382,Jasmin Calista Nurdiyanti,34,Perempuan,Pagaralam,ECAT220,"ETWS362, ETWS674"
+CSTM98856,Chelsea Hidayat,24,Perempuan,Tanjungpinang,ECAT460,"ETWS913, ETWS157"
+CSTM40888,Mahesa Raisa Hassanah,16,Laki-laki,Banjarmasin,"ECAT772, ECAT220",ETWS998
+CSTM13253,Rahayu Pangestu,39,Perempuan,Mojokerto,"ECAT190, ECAT220",ETWS895
+CSTM82322,Widya Kartika Siregar,26,Perempuan,Pasuruan,"ECAT772, ECAT460, ECAT141",ETWS883
+CSTM15401,Ihsan Novitasari,38,Laki-laki,Jayapura,"ECAT563, ECAT190, ECAT220",ETWS043
+CSTM10570,Emas Paiman Prayoga,34,Laki-laki,Singkawang,"ECAT460, ECAT220, ECAT772","ETWS065, ETWS460"
+CSTM13930,Balidin Fitria Purnawati,23,Laki-laki,Tebingtinggi,"ECAT190, ECAT220","ETWS684, ETWS674"
+CSTM41238,Cici Joko Simbolon,35,Perempuan,Padang,ECAT190,ETWS224
+CSTM15778,Vega Mulya Hutagalung,25,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT563, ECAT141",ETWS315
+CSTM78916,Lukita Ana Nurdiyanti,24,Laki-laki,Jayapura,ECAT190,"ETWS256, ETWS334"
+CSTM40186,Sari Ibrani Simbolon,26,Perempuan,Blitar,"ECAT190, ECAT460, ECAT563","ETWS305, ETWS094"
+CSTM59724,Gantar Mansur,19,Laki-laki,Tanjungpinang,ECAT563,ETWS032
+CSTM75172,Simon Napitupulu,40,Laki-laki,Cirebon,"ECAT460, ECAT141, ECAT220",ETWS436
+CSTM81064,Hairyanto Damanik,28,Laki-laki,Bukittinggi,"ECAT141, ECAT563, ECAT460","ETWS689, ETWS985"
+CSTM52734,Faizah Candra Hakim,21,Perempuan,Palu,ECAT141,"ETWS403, ETWS069"
+CSTM71111,Banawi Tari Anggraini,32,Laki-laki,Yogyakarta,"ECAT563, ECAT460, ECAT141","ETWS848, ETWS471"
+CSTM41725,Citra Lili Hutasoit,17,Perempuan,Malang,"ECAT190, ECAT460, ECAT563",ETWS161
+CSTM77146,Latika Nurul Wastuti,19,Perempuan,Pekanbaru,ECAT563,ETWS205
+CSTM89485,Yani Halim,40,Perempuan,Ambon,"ECAT220, ECAT460, ECAT563","ETWS251, ETWS555"
+CSTM49564,Bakijan Oni Hutapea,35,Laki-laki,Semarang,"ECAT563, ECAT220","ETWS871, ETWS197"
+CSTM53782,Prayitna Jane Yuliarti,19,Laki-laki,Pematangsiantar,"ECAT220, ECAT460, ECAT190","ETWS753, ETWS818"
+CSTM79414,Paramita Gadang Rajata,35,Perempuan,Pasuruan,ECAT220,"ETWS533, ETWS830"
+CSTM50656,Satya Wage Astuti,28,Laki-laki,Sibolga,"ECAT141, ECAT460","ETWS714, ETWS672"
+CSTM25859,Lintang Salahudin,19,Perempuan,Bekasi,ECAT460,"ETWS394, ETWS686"
+CSTM63940,Dirja Danu Haryanto,25,Laki-laki,Solok,ECAT190,"ETWS652, ETWS582"
+CSTM18313,Ajeng Ibrahim Siregar,26,Perempuan,Pagaralam,"ECAT772, ECAT460","ETWS035, ETWS450"
+CSTM34684,Padmi Nuraini,38,Perempuan,Sukabumi,"ECAT220, ECAT772, ECAT563",ETWS714
+CSTM63931,Icha Firmansyah,31,Perempuan,Magelang,"ECAT220, ECAT190","ETWS455, ETWS200"
+CSTM12095,Dinda Wahyudin,24,Perempuan,Pangkalpinang,"ECAT460, ECAT563, ECAT141",ETWS017
+CSTM55066,Pandu Gaduh Zulkarnain,30,Laki-laki,Batam,"ECAT220, ECAT460, ECAT141","ETWS220, ETWS673"
+CSTM77432,Wulan Dongoran,21,Perempuan,Pagaralam,ECAT141,"ETWS710, ETWS871"
+CSTM90952,Raditya Suci Habibi,30,Laki-laki,Pagaralam,"ECAT563, ECAT772, ECAT220",ETWS288
+CSTM05165,Ajiman Vino Nurdiyanti,17,Laki-laki,Cirebon,"ECAT563, ECAT772","ETWS679, ETWS721"
+CSTM68238,Tiara Lestari,21,Perempuan,Kota Administrasi Jakarta Selatan,ECAT460,"ETWS220, ETWS673"
+CSTM86955,Atma Nova Maheswara,40,Laki-laki,Kendari,"ECAT220, ECAT190, ECAT141",ETWS561
+CSTM49871,Eva Wacana,28,Perempuan,Surakarta,"ECAT220, ECAT563","ETWS139, ETWS851"
+CSTM41696,Elma Pudjiastuti,16,Perempuan,Lubuklinggau,"ECAT460, ECAT772, ECAT220",ETWS361
+CSTM95878,Hadi Utama,39,Laki-laki,Palangkaraya,ECAT220,"ETWS283, ETWS304"
+CSTM39865,Rika Jaga Hastuti,29,Perempuan,Ternate,ECAT563,ETWS965
+CSTM39492,Ibrani Pangestu,18,Laki-laki,Tarakan,ECAT141,ETWS441
+CSTM95750,Jayadi Sarah Gunarto,37,Laki-laki,Tidore Kepulauan,"ECAT563, ECAT772, ECAT460",ETWS053
+CSTM03088,Prabu Jati Rahayu,26,Laki-laki,Tanjungbalai,"ECAT772, ECAT563",ETWS975
+CSTM83651,Jatmiko Vivi Anggriawan,26,Laki-laki,Sukabumi,"ECAT460, ECAT772, ECAT141","ETWS954, ETWS450"
+CSTM30380,Jono Cakrawala Oktaviani,35,Laki-laki,Serang,ECAT190,"ETWS303, ETWS571"
+CSTM10302,Najwa Suartini,28,Perempuan,Ternate,"ECAT772, ECAT220, ECAT563","ETWS130, ETWS901"
+CSTM63658,Hesti Wasita,18,Perempuan,Cirebon,"ECAT190, ECAT141, ECAT563","ETWS251, ETWS402"
+CSTM39442,Devi Winarno,24,Perempuan,Ternate,"ECAT141, ECAT563","ETWS256, ETWS251"
+CSTM91009,Aswani Saputra,39,Laki-laki,Batam,"ECAT772, ECAT141, ECAT190",ETWS161
+CSTM26309,Vanesa Alambana Safitri,22,Perempuan,Bandung,"ECAT141, ECAT220","ETWS263, ETWS073"
+CSTM24158,Zulaikha Panji Mayasari,34,Perempuan,Denpasar,"ECAT563, ECAT190",ETWS818
+CSTM27097,Muhammad Anita Andriani,32,Laki-laki,Bontang,"ECAT563, ECAT141, ECAT772","ETWS177, ETWS251"
+CSTM78618,Pangeran Handayani,19,Laki-laki,Salatiga,"ECAT772, ECAT220",ETWS889
+CSTM18811,Dwi Putu Usamah,19,Laki-laki,Medan,"ECAT220, ECAT563, ECAT190",ETWS362
+CSTM24202,Michelle Prasetyo,40,Perempuan,Sibolga,"ECAT772, ECAT190, ECAT460","ETWS528, ETWS157"
+CSTM46649,Prayoga Pudjiastuti,31,Laki-laki,Probolinggo,"ECAT772, ECAT460","ETWS397, ETWS871"
+CSTM92570,Karsana Hartati,24,Laki-laki,Bima,ECAT460,"ETWS617, ETWS083"
+CSTM22411,Bella Ira Sinaga,40,Perempuan,Pontianak,"ECAT220, ECAT190, ECAT772",ETWS124
+CSTM06245,Galuh Nuraini,40,Laki-laki,Pagaralam,ECAT141,ETWS883
+CSTM96518,Natalia Ani Najmudin,26,Perempuan,Gorontalo,ECAT220,"ETWS143, ETWS103"
+CSTM48670,Pranawa Palastri,30,Laki-laki,Surakarta,ECAT141,"ETWS450, ETWS053"
+CSTM15843,Virman Nadia Hastuti,17,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT141, ECAT220","ETWS300, ETWS627"
+CSTM48496,Gabriella Maryadi Firmansyah,27,Perempuan,Madiun,ECAT563,ETWS394
+CSTM84800,Widya Marbun,25,Perempuan,Banjar,"ECAT772, ECAT190, ECAT141","ETWS774, ETWS224"
+CSTM37912,Wira Kunthara Tampubolon,27,Laki-laki,Binjai,"ECAT563, ECAT460","ETWS640, ETWS149"
+CSTM39044,Usyi Aswani Megantara,16,Perempuan,Sukabumi,"ECAT460, ECAT563, ECAT141","ETWS426, ETWS753"
+CSTM94254,Umar Ratih Prasetyo,32,Laki-laki,Dumai,"ECAT563, ECAT220",ETWS690
+CSTM24764,Lembah Yuniar,29,Laki-laki,Makassar,"ECAT563, ECAT190",ETWS555
+CSTM79224,Jabal Karen Sihombing,23,Laki-laki,Padang,"ECAT220, ECAT141","ETWS101, ETWS547"
+CSTM97800,Kajen Vero Maheswara,22,Laki-laki,Tanjungpinang,"ECAT220, ECAT460","ETWS509, ETWS532"
+CSTM41653,Kasim Karsa Hidayat,27,Laki-laki,Semarang,"ECAT190, ECAT220, ECAT141","ETWS721, ETWS236"
+CSTM11989,Ajiono Daru Pudjiastuti,25,Laki-laki,Jayapura,ECAT141,ETWS258
+CSTM62525,Kiandra Kamila Nainggolan,25,Perempuan,Cilegon,ECAT220,"ETWS455, ETWS756"
+CSTM17654,Ellis Fathonah Halim,33,Perempuan,Tegal,"ECAT220, ECAT141, ECAT190",ETWS304
+CSTM76837,Yuliana Habibi,35,Perempuan,Bima,"ECAT772, ECAT563, ECAT460",ETWS710
+CSTM91887,Hasta Prabowo,35,Laki-laki,Kendari,ECAT220,ETWS679
+CSTM63632,Ina Mariadi Safitri,16,Perempuan,Balikpapan,"ECAT772, ECAT220, ECAT141","ETWS101, ETWS268"
+CSTM03829,Luhung Ajiono Kurniawan,39,Laki-laki,Palu,"ECAT460, ECAT772, ECAT190",ETWS735
+CSTM27859,Damu Legawa Utami,33,Laki-laki,Bengkulu,ECAT220,ETWS149
+CSTM20331,Wirda Suartini,32,Perempuan,Blitar,"ECAT190, ECAT460, ECAT772",ETWS224
+CSTM23747,Okta Padmasari,17,Laki-laki,Lubuklinggau,"ECAT141, ECAT563",ETWS986
+CSTM70233,Cecep Vera Lestari,34,Laki-laki,Bogor,"ECAT563, ECAT141, ECAT220","ETWS497, ETWS802"
+CSTM43179,Jindra Uwais,27,Laki-laki,Magelang,"ECAT220, ECAT141, ECAT460","ETWS157, ETWS220"
+CSTM69595,Lamar Halima Padmasari,34,Laki-laki,Sawahlunto,"ECAT460, ECAT772",ETWS827
+CSTM02195,Daniswara Laksmiwati,25,Laki-laki,Kota Administrasi Jakarta Pusat,"ECAT141, ECAT460, ECAT772",ETWS157
+CSTM10893,Lala Setiawan,27,Perempuan,Balikpapan,"ECAT220, ECAT772",ETWS388
+CSTM96304,Laras Balijan Wulandari,18,Perempuan,Pangkalpinang,"ECAT190, ECAT141",ETWS454
+CSTM85997,Paris Rudi Mahendra,28,Perempuan,Salatiga,"ECAT141, ECAT190, ECAT563",ETWS895
+CSTM27732,Mala Ardianto,18,Perempuan,Malang,"ECAT190, ECAT220, ECAT460","ETWS575, ETWS818"
+CSTM66802,Aisyah Sabrina Zulkarnain,26,Perempuan,Balikpapan,"ECAT772, ECAT190, ECAT460",ETWS416
+CSTM66648,Kartika Ajiman Hartati,37,Perempuan,Lubuklinggau,"ECAT220, ECAT563, ECAT141","ETWS177, ETWS600"
+CSTM07580,Shania Marbun,21,Perempuan,Palembang,"ECAT772, ECAT563, ECAT460",ETWS289
+CSTM77693,Ina Gunawan,24,Perempuan,Lubuklinggau,"ECAT563, ECAT190, ECAT220","ETWS388, ETWS188"
+CSTM02997,Jayeng Pangestu,24,Laki-laki,Cimahi,ECAT563,ETWS031
+CSTM68567,Tirta Tampubolon,36,Laki-laki,Manado,"ECAT460, ECAT772, ECAT563","ETWS975, ETWS897"
+CSTM92341,Yani Najib Ramadan,30,Perempuan,Pagaralam,ECAT460,"ETWS409, ETWS975"
+CSTM43544,Reza Sihombing,21,Laki-laki,Bima,"ECAT563, ECAT460, ECAT772","ETWS748, ETWS033"
+CSTM85001,Safina Irawan,27,Perempuan,Palangkaraya,"ECAT190, ECAT220, ECAT563",ETWS205
+CSTM43321,Ellis Narpati,22,Perempuan,Batu,ECAT141,ETWS835
+CSTM59061,Wani Tarihoran,16,Perempuan,Lubuklinggau,ECAT460,ETWS748
+CSTM64843,Rendy Nadine Anggraini,28,Laki-laki,Prabumulih,"ECAT220, ECAT563",ETWS506
+CSTM97771,Clara Prayoga,40,Perempuan,Bandar Lampung,ECAT772,"ETWS163, ETWS895"
+CSTM72142,Nalar Cemeti Simbolon,32,Laki-laki,Bau-Bau,"ECAT141, ECAT772",ETWS805
+CSTM34496,Teguh Setiawan,22,Laki-laki,Surabaya,"ECAT220, ECAT563",ETWS304
+CSTM47325,Surya Halim Hakim,16,Laki-laki,Palembang,ECAT190,ETWS130
+CSTM02974,Wani Wibowo,19,Perempuan,Bau-Bau,ECAT563,ETWS043
+CSTM30360,Raihan Rahmawati,40,Laki-laki,Meulaboh,"ECAT141, ECAT563, ECAT190","ETWS808, ETWS830"
+CSTM92651,Bakda Harimurti Tarihoran,23,Laki-laki,Ambon,"ECAT220, ECAT190, ECAT772",ETWS684
+CSTM64970,Paiman Jaswadi Narpati,28,Laki-laki,Blitar,ECAT220,ETWS669
+CSTM15677,Dirja Pranowo,40,Laki-laki,Tasikmalaya,"ECAT460, ECAT772","ETWS193, ETWS710"
+CSTM82833,Lantar Baktiono Rahimah,29,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT563, ECAT772, ECAT141",ETWS876
+CSTM70264,Bakiadi Maria Purnawati,20,Laki-laki,Solok,ECAT563,ETWS271
+CSTM11942,Nova Siregar,26,Perempuan,Madiun,"ECAT772, ECAT190","ETWS582, ETWS613"
+CSTM94648,Amalia Adriansyah,29,Perempuan,Pangkalpinang,"ECAT772, ECAT460, ECAT563",ETWS304
+CSTM37679,Kurnia Thamrin,20,Laki-laki,Subulussalam,"ECAT563, ECAT772","ETWS001, ETWS533"
+CSTM80058,Artawan Aditya Suryono,17,Laki-laki,Tegal,ECAT220,"ETWS158, ETWS362"
+CSTM09254,Rachel Halimah,31,Perempuan,Kendari,"ECAT460, ECAT190, ECAT563",ETWS689
+CSTM91512,Kani Simbolon,38,Perempuan,Tomohon,"ECAT563, ECAT772, ECAT220","ETWS617, ETWS830"
+CSTM90586,Maida Wijayanti,39,Perempuan,Kota Administrasi Jakarta Timur,"ECAT220, ECAT772, ECAT460","ETWS477, ETWS450"
+CSTM80223,Ulva Tina Irawan,18,Perempuan,Tarakan,"ECAT460, ECAT220",ETWS570
+CSTM05055,Qori Bakiadi Anggraini,40,Perempuan,Madiun,"ECAT220, ECAT563, ECAT190","ETWS845, ETWS684"
+CSTM99569,Juli Marwata Gunawan,23,Perempuan,Prabumulih,"ECAT190, ECAT563, ECAT460","ETWS640, ETWS354"
+CSTM76953,Erik Tedi Mardhiyah,19,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT563, ECAT190, ECAT460",ETWS130
+CSTM28738,Dagel Yuniar,17,Laki-laki,Banda Aceh,"ECAT190, ECAT220, ECAT772",ETWS895
+CSTM26739,Akarsana Prabowo,32,Laki-laki,Kupang,"ECAT141, ECAT772",ETWS224
+CSTM10261,Nadia Jasmin Firgantoro,30,Perempuan,Salatiga,"ECAT220, ECAT141, ECAT563","ETWS454, ETWS103"
+CSTM81010,Victoria Natsir,36,Perempuan,Payakumbuh,"ECAT772, ECAT563",ETWS851
+CSTM57512,Kani Hardiansyah,29,Perempuan,Ambon,ECAT190,"ETWS043, ETWS753"
+CSTM73155,Kunthara Martani Aryani,18,Laki-laki,Purwokerto,ECAT772,"ETWS541, ETWS895"
+CSTM26346,Lalita Saadat Tampubolon,28,Perempuan,Balikpapan,"ECAT460, ECAT563, ECAT772",ETWS126
+CSTM62000,Lala Adriansyah,40,Perempuan,Kendari,"ECAT190, ECAT563",ETWS267
+CSTM13292,Aslijan Situmorang,27,Laki-laki,Semarang,"ECAT772, ECAT141, ECAT563","ETWS017, ETWS114"
+CSTM49020,Jane Winarsih,26,Perempuan,Mataram,"ECAT460, ECAT220, ECAT563",ETWS748
+CSTM37212,Violet Damu Siregar,37,Perempuan,Jayapura,ECAT190,"ETWS571, ETWS830"
+CSTM30035,Dewi Caraka Maulana,22,Perempuan,Padang,"ECAT190, ECAT220","ETWS853, ETWS035"
+CSTM68402,Yuni Ardianto,20,Perempuan,Blitar,"ECAT460, ECAT190",ETWS402
+CSTM21848,Yance Hamzah Mulyani,32,Perempuan,Binjai,"ECAT220, ECAT563",ETWS448
+CSTM43348,Salwa Wani Sudiati,24,Perempuan,Batu,"ECAT460, ECAT141, ECAT190","ETWS164, ETWS426"
+CSTM91160,Widya Lazuardi,35,Perempuan,Blitar,"ECAT220, ECAT460, ECAT141",ETWS224
+CSTM35167,Adhiarja Tampubolon,38,Laki-laki,Singkawang,ECAT190,"ETWS053, ETWS603"
+CSTM45438,Nova Laksita,26,Perempuan,Yogyakarta,"ECAT190, ECAT141, ECAT772",ETWS697
+CSTM56031,Jatmiko Kuswandari,38,Laki-laki,Pasuruan,ECAT460,ETWS509
+CSTM53248,Yuni Asmianto Fujiati,18,Perempuan,Kota Administrasi Jakarta Utara,"ECAT220, ECAT772, ECAT563",ETWS271
+CSTM61847,Tugiman Rafi Purwanti,19,Laki-laki,Kediri,"ECAT460, ECAT772","ETWS057, ETWS714"
+CSTM81418,Ratih Martani Kurniawan,38,Perempuan,Jambi,"ECAT772, ECAT141, ECAT563",ETWS427
+CSTM82957,Jagaraga Wacana,18,Laki-laki,Palu,"ECAT220, ECAT141",ETWS848
+CSTM14528,Rina Panji Laksita,28,Perempuan,Gorontalo,"ECAT563, ECAT220","ETWS309, ETWS057"
+CSTM42458,Endah Utama Dongoran,21,Perempuan,Gorontalo,"ECAT220, ECAT141",ETWS362
+CSTM90554,Ajimat Prasetya,30,Laki-laki,Dumai,"ECAT220, ECAT563","ETWS149, ETWS686"
+CSTM60688,Gilda Sitorus,30,Perempuan,Magelang,ECAT141,"ETWS362, ETWS455"
+CSTM84801,Rahmi Prasasta,27,Perempuan,Pekalongan,ECAT772,"ETWS591, ETWS456"
+CSTM73543,Darimin Rusman Dongoran,19,Laki-laki,Sorong,"ECAT141, ECAT220, ECAT460",ETWS263
+CSTM02100,Karya Asirwada Palastri,34,Laki-laki,Pontianak,ECAT141,"ETWS885, ETWS696"
+CSTM15276,Kamaria Dabukke,22,Perempuan,Mataram,"ECAT190, ECAT772, ECAT220",ETWS928
+CSTM37290,Lurhur Yunita Sihombing,20,Laki-laki,Dumai,ECAT772,"ETWS391, ETWS197"
+CSTM60792,Bakti Karimah Damanik,25,Laki-laki,Surakarta,"ECAT220, ECAT563, ECAT772",ETWS097
+CSTM66996,Wulan Ellis Marpaung,35,Perempuan,Denpasar,"ECAT190, ECAT220, ECAT460","ETWS857, ETWS928"
+CSTM54775,Salwa Laksmiwati,30,Perempuan,Metro,"ECAT563, ECAT772, ECAT460","ETWS570, ETWS617"
+CSTM60856,Paulin Firmansyah,22,Perempuan,Bandung,"ECAT220, ECAT141",ETWS998
+CSTM42612,Maida Adinata Hariyah,17,Perempuan,Manado,ECAT141,"ETWS756, ETWS901"
+CSTM39247,Azalea Jasmani Tamba,33,Perempuan,Malang,"ECAT190, ECAT141, ECAT772","ETWS899, ETWS409"
+CSTM79960,Prabawa Prima Wulandari,35,Laki-laki,Banjarmasin,ECAT772,ETWS734
+CSTM93422,Daliman Oktaviani,35,Laki-laki,Dumai,"ECAT220, ECAT772",ETWS152
+CSTM49165,Viktor Firmansyah,24,Laki-laki,Bandar Lampung,"ECAT190, ECAT772, ECAT141","ETWS710, ETWS696"
+CSTM52132,Oni Purwanti,37,Perempuan,Kota Administrasi Jakarta Selatan,"ECAT460, ECAT220","ETWS082, ETWS057"
+CSTM54870,Rafi Ramadan,30,Laki-laki,Sawahlunto,"ECAT190, ECAT772","ETWS640, ETWS361"
+CSTM89610,Queen Saadat Hardiansyah,31,Perempuan,Cimahi,ECAT563,ETWS220
+CSTM99591,Latif Rahayu Samosir,21,Laki-laki,Batam,"ECAT220, ECAT460, ECAT141",ETWS871
+CSTM48075,Almira Galar Saputra,35,Perempuan,Prabumulih,"ECAT190, ECAT141",ETWS409
+CSTM67882,Caraka Tira Putra,38,Laki-laki,Mojokerto,"ECAT220, ECAT772, ECAT141","ETWS394, ETWS895"
+CSTM46988,Kartika Mursinin Suwarno,16,Perempuan,Tarakan,ECAT772,"ETWS309, ETWS665"
+CSTM71196,Balapati Mayasari,34,Laki-laki,Tegal,ECAT141,"ETWS570, ETWS236"
+CSTM45072,Prayogo Anggraini,35,Laki-laki,Batam,ECAT141,"ETWS442, ETWS753"
+CSTM80608,Citra Kurniawan,34,Perempuan,Padang,ECAT190,"ETWS205, ETWS033"
+CSTM31365,Mala Aris Riyanti,38,Perempuan,Sukabumi,"ECAT460, ECAT563, ECAT772",ETWS057
+CSTM81382,Cawisadi Usamah,29,Laki-laki,Balikpapan,"ECAT563, ECAT460, ECAT190","ETWS887, ETWS613"
+CSTM10610,Kemba Rajata,34,Laki-laki,Serang,ECAT190,"ETWS975, ETWS073"
+CSTM04258,Prasetya Opung Budiman,36,Laki-laki,Bitung,"ECAT190, ECAT563","ETWS975, ETWS205"
+CSTM06800,Fitria Nyana Purnawati,33,Perempuan,Pematangsiantar,"ECAT563, ECAT141",ETWS436
+CSTM99958,Vanesa Permadi,19,Perempuan,Kota Administrasi Jakarta Utara,"ECAT772, ECAT563",ETWS874
+CSTM99370,Amalia Gasti Sihombing,24,Perempuan,Sibolga,ECAT772,"ETWS205, ETWS397"
+CSTM54148,Agus Baktiadi Winarno,25,Laki-laki,Pasuruan,"ECAT563, ECAT190, ECAT460",ETWS315
+CSTM38531,Prabu Salwa Purwanti,20,Laki-laki,Gorontalo,"ECAT190, ECAT772, ECAT460","ETWS263, ETWS441"
+CSTM31553,Endah Siregar,35,Perempuan,Purwokerto,"ECAT772, ECAT220, ECAT190",ETWS402
+CSTM38536,Garda Asmadi Anggraini,31,Laki-laki,Sorong,"ECAT141, ECAT772, ECAT460",ETWS426
+CSTM61042,Lidya Ophelia Oktaviani,25,Perempuan,Banjarbaru,ECAT460,ETWS679
+CSTM86227,Raditya Melani,19,Laki-laki,Batu,ECAT141,ETWS591
+CSTM26399,Anggabaya Kenari Lestari,28,Laki-laki,Binjai,"ECAT190, ECAT460, ECAT141",ETWS271
+CSTM96793,Unjani Hardiansyah,26,Perempuan,Tarakan,"ECAT563, ECAT190",ETWS846
+CSTM96142,Gatot Permadi,37,Laki-laki,Balikpapan,ECAT190,"ETWS143, ETWS069"
+CSTM07510,Kasim Lazuardi,39,Laki-laki,Bima,"ECAT563, ECAT772, ECAT220","ETWS653, ETWS895"
+CSTM27676,Maria Mansur,35,Perempuan,Manado,"ECAT141, ECAT220","ETWS732, ETWS097"
+CSTM81847,Widya Hariyah,27,Perempuan,Pagaralam,"ECAT563, ECAT190, ECAT220","ETWS830, ETWS714"
+CSTM91154,Ulya Umaya Habibi,40,Perempuan,Tidore Kepulauan,"ECAT460, ECAT220",ETWS409
+CSTM57973,Usyi Mulya Wulandari,35,Perempuan,Padangpanjang,"ECAT220, ECAT460, ECAT190","ETWS582, ETWS818"
+CSTM69244,Febi Yolanda,27,Perempuan,Medan,ECAT772,"ETWS753, ETWS756"
+CSTM88627,Harsana Dariati Hardiansyah,21,Laki-laki,Makassar,"ECAT141, ECAT772","ETWS146, ETWS395"
+CSTM81086,Silvia Caraka Iswahyudi,26,Perempuan,Jambi,"ECAT772, ECAT190, ECAT563",ETWS960
+CSTM41887,Mulyono Eluh Tampubolon,36,Laki-laki,Sawahlunto,"ECAT460, ECAT220",ETWS251
+CSTM68616,Silvia Galang Nababan,23,Perempuan,Kota Administrasi Jakarta Timur,"ECAT460, ECAT141, ECAT772","ETWS883, ETWS403"
+CSTM08783,Julia Galuh Suwarno,18,Perempuan,Tanjungbalai,"ECAT220, ECAT190","ETWS289, ETWS753"
+CSTM15532,Cahya Manullang,16,Laki-laki,Palangkaraya,ECAT563,"ETWS798, ETWS035"
+CSTM43330,Kayla Eka Riyanti,24,Perempuan,Cilegon,"ECAT563, ECAT141","ETWS971, ETWS788"
+CSTM02978,Asmianto Firgantoro,38,Laki-laki,Kupang,"ECAT772, ECAT141","ETWS771, ETWS177"
+CSTM42365,Daniswara Waluyo,16,Laki-laki,Denpasar,ECAT141,"ETWS448, ETWS823"
+CSTM81259,Silvia Irnanto Suryatmi,33,Perempuan,Kotamobagu,"ECAT772, ECAT190",ETWS830
+CSTM48403,Ajeng Irfan Sihotang,24,Perempuan,Prabumulih,"ECAT220, ECAT141, ECAT190",ETWS871
+CSTM40439,Hamima Ina Mandasari,36,Perempuan,Binjai,"ECAT772, ECAT563",ETWS254
+CSTM38139,Cagak Susanti,23,Laki-laki,Bontang,"ECAT460, ECAT563",ETWS669
+CSTM77372,Martani Cornelia Hastuti,22,Laki-laki,Kupang,"ECAT460, ECAT220",ETWS219
+CSTM63055,Ira Suryatmi,29,Perempuan,Kota Administrasi Jakarta Barat,ECAT190,ETWS480
+CSTM84258,Cahya Argono Suartini,33,Laki-laki,Kota Administrasi Jakarta Barat,ECAT141,"ETWS501, ETWS509"
+CSTM44819,Darsirah Karja Pudjiastuti,23,Laki-laki,Bima,"ECAT190, ECAT563, ECAT220",ETWS363
+CSTM80350,Gading Waluyo Hasanah,40,Laki-laki,Semarang,"ECAT563, ECAT460, ECAT220",ETWS846
+CSTM96163,Ida Kayun Mulyani,22,Perempuan,Langsa,"ECAT220, ECAT141, ECAT563",ETWS200
+CSTM24507,Zamira Slamet Agustina,23,Perempuan,Kota Administrasi Jakarta Pusat,ECAT190,ETWS041
+CSTM58089,Gatra Pratiwi,21,Laki-laki,Jambi,"ECAT141, ECAT190","ETWS033, ETWS669"
+CSTM09805,Dinda Prayitna Megantara,19,Perempuan,Tanjungbalai,"ECAT220, ECAT141, ECAT563","ETWS627, ETWS477"
+CSTM63757,Kayun Hutasoit,22,Laki-laki,Pekalongan,"ECAT141, ECAT563",ETWS200
+CSTM99264,Nova Nashiruddin,21,Perempuan,Malang,"ECAT772, ECAT190","ETWS657, ETWS562"
+CSTM73347,Jatmiko Pratiwi,31,Laki-laki,Tangerang,ECAT220,"ETWS139, ETWS696"
+CSTM71086,Nugraha Darijan Yuniar,25,Laki-laki,Tanjungbalai,"ECAT190, ECAT460",ETWS954
+CSTM36068,Salman Paramita Suartini,25,Laki-laki,Tangerang Selatan,ECAT772,ETWS395
+CSTM93309,Artawan Situmorang,24,Laki-laki,Dumai,ECAT772,"ETWS818, ETWS679"
+CSTM85446,Elisa Utama Hariyah,36,Perempuan,Pontianak,"ECAT220, ECAT563, ECAT141","ETWS126, ETWS258"
+CSTM94501,Silvia Mursinin Pradana,25,Perempuan,Balikpapan,ECAT141,ETWS205
+CSTM04334,Prasetya Kusumo,26,Laki-laki,Surakarta,ECAT220,"ETWS735, ETWS528"
+CSTM87753,Ajeng Sinaga,24,Perempuan,Palu,"ECAT772, ECAT220",ETWS020
+CSTM93935,Cinta Unjani Rajasa,39,Perempuan,Tanjungbalai,"ECAT460, ECAT190","ETWS663, ETWS895"
+CSTM26449,Pia Adika Sihombing,35,Perempuan,Purwokerto,"ECAT220, ECAT190, ECAT460","ETWS097, ETWS101"
+CSTM41130,Caraka Rama Prasasta,33,Laki-laki,Magelang,"ECAT141, ECAT190",ETWS455
+CSTM41563,Kairav Kamila Pradana,26,Laki-laki,Pangkalpinang,"ECAT220, ECAT772, ECAT460",ETWS714
+CSTM50300,Ilyas Harsaya Pratiwi,36,Laki-laki,Solok,ECAT460,ETWS053
+CSTM59550,Olga Rahimah,39,Laki-laki,Binjai,"ECAT460, ECAT190",ETWS919
+CSTM59746,Unjani Kairav Narpati,35,Perempuan,Langsa,ECAT141,ETWS848
+CSTM36371,Iriana Rama Permata,34,Perempuan,Banjar,"ECAT141, ECAT220, ECAT460","ETWS653, ETWS690"
+CSTM20384,Dalima Prasetya,27,Perempuan,Kota Administrasi Jakarta Pusat,ECAT563,ETWS304
+CSTM72330,Elisa Thamrin,39,Perempuan,Serang,ECAT772,ETWS892
+CSTM26368,Hamzah Aditya Hasanah,33,Laki-laki,Sibolga,ECAT220,"ETWS965, ETWS862"
+CSTM63528,Murti Wibisono,26,Laki-laki,Semarang,"ECAT220, ECAT141, ECAT772",ETWS057
+CSTM63647,Maya Wacana,28,Perempuan,Jayapura,"ECAT190, ECAT220",ETWS455
+CSTM77699,Banawa Hutasoit,25,Laki-laki,Madiun,"ECAT460, ECAT190, ECAT772",ETWS157
+CSTM72083,Balidin Nasyidah,36,Laki-laki,Probolinggo,"ECAT190, ECAT563, ECAT141",ETWS279
+CSTM65326,Paramita Winarno,26,Perempuan,Cimahi,"ECAT220, ECAT563, ECAT772","ETWS130, ETWS017"
+CSTM99595,Slamet Maman Gunawan,34,Laki-laki,Mataram,ECAT220,"ETWS986, ETWS053"
+CSTM35727,Asirwada Hassanah,24,Laki-laki,Surakarta,ECAT772,"ETWS053, ETWS885"
+CSTM53793,Ani Sabar Dabukke,28,Perempuan,Palopo,"ECAT563, ECAT220, ECAT141","ETWS205, ETWS547"
+CSTM79050,Melinda Rama Puspasari,29,Perempuan,Jayapura,"ECAT141, ECAT563","ETWS480, ETWS283"
+CSTM85271,Zahra Dipa Pradana,40,Perempuan,Tomohon,"ECAT141, ECAT460","ETWS460, ETWS805"
+CSTM15345,Fitriani Nyana Rajasa,16,Perempuan,Jayapura,"ECAT220, ECAT772",ETWS663
+CSTM07066,Paulin Lega Siregar,27,Perempuan,Kota Administrasi Jakarta Timur,"ECAT190, ECAT460, ECAT563","ETWS673, ETWS596"
+CSTM37814,Sadina Saptono,19,Perempuan,Kota Administrasi Jakarta Barat,"ECAT220, ECAT563, ECAT141","ETWS885, ETWS304"
+CSTM17940,Soleh Oktaviani,22,Laki-laki,Yogyakarta,"ECAT190, ECAT220, ECAT141","ETWS673, ETWS053"
+CSTM47976,Abyasa Gunawan,23,Laki-laki,Mataram,ECAT772,"ETWS426, ETWS679"
+CSTM70167,Bakti Kusmawati,39,Laki-laki,Bitung,"ECAT563, ECAT220, ECAT190",ETWS103
+CSTM21954,Adikara Patricia Narpati,26,Laki-laki,Manado,"ECAT190, ECAT772",ETWS193
+CSTM70620,Upik Dian Suryatmi,17,Laki-laki,Solok,"ECAT460, ECAT220, ECAT772",ETWS053
+CSTM81937,Lurhur Darimin Utama,17,Laki-laki,Banjarbaru,"ECAT460, ECAT141, ECAT563",ETWS883
+CSTM68639,Novi Purnawati,16,Perempuan,Tangerang,ECAT772,ETWS788
+CSTM15230,Vero Maryadi,18,Laki-laki,Pagaralam,"ECAT563, ECAT190","ETWS818, ETWS620"
+CSTM68962,Nadia Tarihoran,33,Perempuan,Gorontalo,"ECAT772, ECAT190, ECAT220",ETWS014
+CSTM40930,Sadina Suryatmi,26,Perempuan,Banjar,"ECAT190, ECAT563",ETWS617
+CSTM84571,Gambira Dimaz Hartati,17,Laki-laki,Samarinda,"ECAT563, ECAT190, ECAT772","ETWS068, ETWS097"
+CSTM73104,Nadia Melani,26,Perempuan,Batu,"ECAT772, ECAT220","ETWS161, ETWS883"
+CSTM07246,Ajiono Irfan Andriani,26,Laki-laki,Bitung,"ECAT190, ECAT563","ETWS043, ETWS095"
+CSTM09619,Luis Prakosa Prabowo,34,Laki-laki,Banjarmasin,ECAT141,"ETWS696, ETWS363"
+CSTM78476,Maria Anita Sihombing,21,Perempuan,Tidore Kepulauan,"ECAT563, ECAT220","ETWS889, ETWS874"
+CSTM88347,Gading Ulya Tamba,17,Laki-laki,Palopo,"ECAT460, ECAT563",ETWS929
+CSTM32778,Zalindra Budiyanto,23,Perempuan,Pangkalpinang,"ECAT772, ECAT190",ETWS575
+CSTM38574,Harto Simbolon,16,Laki-laki,Depok,ECAT772,ETWS943
+CSTM40945,Tedi Prasetyo,23,Laki-laki,Yogyakarta,"ECAT220, ECAT141",ETWS592
+CSTM05325,Bambang Wahyudin,18,Laki-laki,Payakumbuh,"ECAT563, ECAT220, ECAT772","ETWS603, ETWS721"
+CSTM20453,Dian Wibisono,37,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT772, ECAT141, ECAT460",ETWS756
+CSTM68318,Ayu Balidin Dongoran,22,Perempuan,Ambon,"ECAT563, ECAT460, ECAT772",ETWS402
+CSTM54110,Fitriani Galih Hartati,32,Perempuan,Depok,"ECAT460, ECAT190","ETWS471, ETWS616"
+CSTM27707,Halim Timbul Palastri,18,Laki-laki,Tomohon,"ECAT220, ECAT460","ETWS697, ETWS591"
+CSTM58558,Jelita Mandala,18,Perempuan,Probolinggo,"ECAT563, ECAT190, ECAT141",ETWS283
+CSTM55507,Elon Narji Wibowo,34,Laki-laki,Pekanbaru,"ECAT460, ECAT563","ETWS862, ETWS848"
+CSTM69790,Laila Umaya Lestari,28,Perempuan,Bekasi,ECAT460,"ETWS289, ETWS929"
+CSTM80120,Febi Hardiansyah,28,Perempuan,Cimahi,ECAT190,"ETWS690, ETWS271"
+CSTM00666,Danu Iswahyudi,30,Laki-laki,Pagaralam,ECAT190,"ETWS534, ETWS477"
+CSTM54691,Melinda Nainggolan,33,Perempuan,Medan,"ECAT190, ECAT772, ECAT220",ETWS851
+CSTM74765,Nyana Sabrina Wastuti,25,Laki-laki,Batam,"ECAT141, ECAT220, ECAT563",ETWS335
+CSTM11483,Laras Nababan,17,Perempuan,Parepare,ECAT220,"ETWS083, ETWS732"
+CSTM76280,Chelsea Kalim Hassanah,28,Perempuan,Tarakan,"ECAT190, ECAT220, ECAT141",ETWS152
+CSTM29426,Oman Yahya Narpati,25,Laki-laki,Pekalongan,"ECAT220, ECAT190, ECAT563","ETWS710, ETWS057"
+CSTM33443,Syahrini Hartati,18,Perempuan,Dumai,"ECAT460, ECAT563",ETWS504
+CSTM39910,Ratna Wahyudin,21,Perempuan,Medan,"ECAT220, ECAT141, ECAT190",ETWS442
+CSTM61566,Wardaya Septi Laksita,22,Laki-laki,Probolinggo,"ECAT141, ECAT772",ETWS802
+CSTM38722,Jane Safitri,30,Perempuan,Binjai,ECAT190,"ETWS786, ETWS965"
+CSTM46934,Galak Utami,24,Laki-laki,Bandar Lampung,ECAT563,"ETWS406, ETWS603"
+CSTM51122,Kamaria Zaenab Siregar,39,Perempuan,Singkawang,ECAT141,ETWS945
+CSTM33599,Bakti Karsa Tampubolon,22,Laki-laki,Kendari,"ECAT141, ECAT190",ETWS427
+CSTM11945,Cengkal Samosir,23,Laki-laki,Jambi,"ECAT563, ECAT190",ETWS383
+CSTM92797,Tasdik Gawati Situmorang,19,Laki-laki,Tomohon,"ECAT460, ECAT220, ECAT563","ETWS035, ETWS818"
+CSTM44330,Sadina Nababan,28,Perempuan,Surakarta,ECAT772,"ETWS570, ETWS271"
+CSTM46895,Hafshah Riyanti,22,Perempuan,Ambon,"ECAT220, ECAT460",ETWS031
+CSTM29687,Martana Zulaika,37,Laki-laki,Sungai Penuh,ECAT190,ETWS038
+CSTM40617,Hani Drajat Jailani,25,Perempuan,Pekalongan,"ECAT563, ECAT190, ECAT141","ETWS205, ETWS881"
+CSTM48991,Dirja Firgantoro,29,Laki-laki,Mataram,ECAT772,ETWS029
+CSTM82242,Tira Gangsa Hasanah,38,Perempuan,Yogyakarta,"ECAT772, ECAT563, ECAT190",ETWS236
+CSTM18301,Cemani Indra Tamba,27,Laki-laki,Balikpapan,"ECAT563, ECAT220",ETWS456
+CSTM53525,Elisa Cengkal Astuti,26,Perempuan,Meulaboh,"ECAT141, ECAT460","ETWS251, ETWS101"
+CSTM62352,Abyasa Ardianto,31,Laki-laki,Pekanbaru,"ECAT141, ECAT220, ECAT563","ETWS582, ETWS892"
+CSTM44753,Uda Irma Fujiati,26,Laki-laki,Payakumbuh,"ECAT460, ECAT220","ETWS069, ETWS177"
+CSTM05253,Umar Bakti Sihotang,33,Laki-laki,Sabang,ECAT460,ETWS892
+CSTM65343,Karimah Dabukke,26,Perempuan,Pekanbaru,"ECAT220, ECAT460, ECAT190",ETWS592
+CSTM56878,Bagus Pradana,32,Laki-laki,Bogor,"ECAT141, ECAT190, ECAT772",ETWS497
+CSTM92870,Kani Baktianto Maryati,21,Perempuan,Tarakan,"ECAT563, ECAT772","ETWS053, ETWS362"
+CSTM56958,Mala Fujiati,19,Perempuan,Bukittinggi,"ECAT220, ECAT460",ETWS177
+CSTM74718,Maria Prabowo Megantara,23,Perempuan,Pagaralam,"ECAT460, ECAT563, ECAT772",ETWS534
+CSTM17729,Keisha Samosir,28,Perempuan,Banjarbaru,"ECAT190, ECAT563","ETWS271, ETWS251"
+CSTM62216,Julia Limar Wastuti,19,Perempuan,Pekalongan,"ECAT141, ECAT772, ECAT190","ETWS802, ETWS504"
+CSTM02175,Vanesa Dirja Andriani,23,Perempuan,Kendari,"ECAT772, ECAT220, ECAT460",ETWS928
+CSTM76787,Nilam Tarihoran,29,Perempuan,Batam,"ECAT563, ECAT772, ECAT460","ETWS598, ETWS881"
+CSTM75082,Rika Prastuti,16,Perempuan,Padangpanjang,ECAT460,ETWS053
+CSTM08535,Nadine Daliman Nuraini,31,Perempuan,Ternate,"ECAT141, ECAT190, ECAT220","ETWS361, ETWS848"
+CSTM57426,Paulin Mahendra,27,Perempuan,Cimahi,ECAT772,"ETWS242, ETWS409"
+CSTM81987,Ami Kawaca Prasetya,18,Perempuan,Yogyakarta,"ECAT190, ECAT141, ECAT772","ETWS673, ETWS506"
+CSTM97741,Kamidin Radika Wibowo,17,Laki-laki,Bitung,"ECAT460, ECAT772, ECAT563","ETWS673, ETWS205"
+CSTM26951,Hartaka Suryono,16,Laki-laki,Pekanbaru,ECAT220,ETWS069
+CSTM17933,Oman Suci Padmasari,22,Laki-laki,Ambon,"ECAT220, ECAT460",ETWS889
+CSTM49383,Muhammad Usamah,33,Laki-laki,Tasikmalaya,"ECAT220, ECAT563",ETWS441
+CSTM91751,Lala Betania Puspasari,29,Perempuan,Kota Administrasi Jakarta Barat,"ECAT772, ECAT141, ECAT220",ETWS279
+CSTM01210,Uda Yulianti,24,Laki-laki,Parepare,"ECAT141, ECAT190",ETWS395
+CSTM22841,Cici Sihotang,20,Perempuan,Sungai Penuh,"ECAT190, ECAT772, ECAT460",ETWS752
+CSTM72444,Eva Prastuti,24,Perempuan,Serang,"ECAT772, ECAT563",ETWS177
+CSTM25610,Fathonah Tampubolon,26,Perempuan,Pagaralam,ECAT220,"ETWS971, ETWS017"
+CSTM31258,Gamani Laila Hasanah,31,Laki-laki,Probolinggo,"ECAT460, ECAT772","ETWS402, ETWS673"
+CSTM70231,Rini Lulut Latupono,25,Perempuan,Malang,"ECAT460, ECAT563, ECAT190","ETWS236, ETWS143"
+CSTM64200,Cakrajiya Wijaya,18,Laki-laki,Tanjungbalai,"ECAT772, ECAT220",ETWS892
+CSTM12467,Heru Uwais,31,Laki-laki,Pagaralam,ECAT190,"ETWS689, ETWS362"
+CSTM49205,Lurhur Arta Wibowo,35,Laki-laki,Kotamobagu,ECAT220,ETWS361
+CSTM77907,Balangga Adika Thamrin,37,Laki-laki,Mojokerto,ECAT190,ETWS403
+CSTM78223,Jaiman Pertiwi,29,Laki-laki,Malang,"ECAT460, ECAT220","ETWS534, ETWS101"
+CSTM31950,Safina Yolanda,21,Perempuan,Singkawang,"ECAT772, ECAT563, ECAT141",ETWS448
+CSTM86057,Ajiono Budiman,21,Laki-laki,Medan,ECAT772,"ETWS441, ETWS986"
+CSTM51451,Simon Halimah,22,Laki-laki,Binjai,ECAT772,"ETWS354, ETWS224"
+CSTM45940,Ellis Hakim,28,Perempuan,Palopo,"ECAT190, ECAT460","ETWS616, ETWS187"
+CSTM27176,Ulya Yuliarti,25,Perempuan,Langsa,"ECAT190, ECAT220",ETWS391
+CSTM89680,Jasmin Putra,33,Perempuan,Cirebon,"ECAT460, ECAT190",ETWS850
+CSTM05870,Paulin Suwarno,34,Perempuan,Palembang,"ECAT563, ECAT772, ECAT141","ETWS939, ETWS616"
+CSTM43172,Carub Bakiadi Handayani,24,Laki-laki,Bengkulu,"ECAT563, ECAT141, ECAT460",ETWS735
+CSTM33662,Jaiman Endra Najmudin,32,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT141, ECAT772, ECAT460","ETWS283, ETWS808"
+CSTM07668,Karna Waluyo Hassanah,33,Laki-laki,Prabumulih,"ECAT563, ECAT772, ECAT220",ETWS786
+CSTM08410,Kawaca Irawan,20,Laki-laki,Semarang,"ECAT460, ECAT772, ECAT220","ETWS805, ETWS827"
+CSTM12569,Kenes Novitasari,25,Laki-laki,Malang,ECAT141,"ETWS224, ETWS143"
+CSTM28899,Ajeng Prayogo Zulaika,26,Perempuan,Sorong,ECAT460,"ETWS753, ETWS805"
+CSTM95044,Johan Lutfan Purwanti,24,Laki-laki,Padang Sidempuan,ECAT141,ETWS362
+CSTM49810,Surya Akarsana Kusmawati,20,Laki-laki,Jayapura,"ECAT772, ECAT563, ECAT141",ETWS654
+CSTM08228,Legawa Uwais,35,Laki-laki,Balikpapan,"ECAT190, ECAT772",ETWS144
+CSTM14671,Tina Koko Mardhiyah,30,Perempuan,Payakumbuh,"ECAT772, ECAT141",ETWS139
+CSTM52594,Catur Tugiman Waluyo,29,Laki-laki,Palangkaraya,"ECAT141, ECAT220",ETWS309
+CSTM20290,Laksana Napitupulu,16,Laki-laki,Semarang,"ECAT460, ECAT563",ETWS477
+CSTM55669,Kusuma Mayasari,16,Laki-laki,Bontang,"ECAT141, ECAT220",ETWS887
+CSTM13921,Yuliana Hutagalung,35,Perempuan,Tanjungpinang,"ECAT141, ECAT220, ECAT460",ETWS130
+CSTM74866,Rudi Utama,17,Laki-laki,Cimahi,"ECAT772, ECAT220",ETWS395
+CSTM12810,Akarsana Sudiati,33,Laki-laki,Bekasi,"ECAT220, ECAT190","ETWS158, ETWS193"
+CSTM24546,Utama Nashiruddin,19,Laki-laki,Madiun,"ECAT460, ECAT190, ECAT772","ETWS441, ETWS267"
+CSTM16319,Hafshah Rizki Saptono,24,Perempuan,Banda Aceh,"ECAT141, ECAT220",ETWS929
+CSTM27865,Humaira Sinaga,29,Perempuan,Pontianak,ECAT460,ETWS363
+CSTM36655,Umi Yolanda,26,Perempuan,Tomohon,"ECAT220, ECAT772, ECAT460",ETWS233
+CSTM24097,Jelita Ilsa Winarsih,24,Perempuan,Metro,"ECAT220, ECAT190, ECAT563",ETWS416
+CSTM34201,Nilam Gunarto,18,Perempuan,Bima,ECAT772,ETWS889
+CSTM39494,Bella Purwanto Aryani,27,Perempuan,Lhokseumawe,ECAT220,"ETWS460, ETWS233"
+CSTM20860,Carla Prasetyo,21,Perempuan,Semarang,"ECAT460, ECAT190","ETWS504, ETWS734"
+CSTM79673,Eko Samosir,39,Laki-laki,Kota Administrasi Jakarta Barat,ECAT220,"ETWS017, ETWS487"
+CSTM00908,Intan Purwadi Winarno,33,Perempuan,Pontianak,"ECAT190, ECAT460, ECAT772",ETWS426
+CSTM39926,Prakosa Najib Sudiati,27,Laki-laki,Prabumulih,"ECAT563, ECAT772, ECAT190",ETWS263
+CSTM64656,Liman Makara Hidayanto,33,Laki-laki,Surabaya,"ECAT460, ECAT190",ETWS035
+CSTM14050,Hafshah Nababan,39,Perempuan,Singkawang,"ECAT190, ECAT460",ETWS118
+CSTM79766,Zaenab Yessi Hutasoit,40,Perempuan,Dumai,"ECAT220, ECAT190",ETWS441
+CSTM81043,Yance Lurhur Hassanah,35,Perempuan,Bandar Lampung,"ECAT563, ECAT190, ECAT141","ETWS851, ETWS188"
+CSTM71431,Hana Gilda Siregar,35,Perempuan,Palopo,"ECAT190, ECAT563","ETWS402, ETWS288"
+CSTM74639,Rachel Nasab Mulyani,18,Perempuan,Cirebon,ECAT460,ETWS139
+CSTM71350,Jaya Intan Puspasari,22,Laki-laki,Pariaman,"ECAT460, ECAT563, ECAT141",ETWS669
+CSTM94935,Anom Yuniar,21,Laki-laki,Parepare,"ECAT220, ECAT772, ECAT190","ETWS442, ETWS753"
+CSTM70270,Cornelia Asirwada Salahudin,27,Perempuan,Binjai,"ECAT460, ECAT220, ECAT141",ETWS233
+CSTM18471,Dalima Anggraini,18,Perempuan,Pangkalpinang,ECAT141,ETWS441
+CSTM03823,Ilsa Aslijan Puspasari,17,Perempuan,Tual,"ECAT563, ECAT190","ETWS627, ETWS504"
+CSTM81830,Pangestu Jailani,25,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT190, ECAT141","ETWS831, ETWS547"
+CSTM03483,Kayla Kambali Waluyo,16,Perempuan,Parepare,"ECAT772, ECAT220","ETWS735, ETWS752"
+CSTM64855,Gamblang Mahfud Hardiansyah,18,Laki-laki,Tanjungbalai,"ECAT460, ECAT772",ETWS570
+CSTM55297,Zizi Ulya Sudiati,35,Perempuan,Manado,"ECAT141, ECAT220, ECAT563",ETWS555
+CSTM66806,Taufan Kawaya Purnawati,36,Laki-laki,Manado,"ECAT563, ECAT190","ETWS282, ETWS771"
+CSTM35876,Rahman Lailasari,38,Laki-laki,Pekanbaru,"ECAT220, ECAT190, ECAT460",ETWS268
+CSTM63531,Kiandra Harjaya Budiyanto,32,Perempuan,Tasikmalaya,"ECAT563, ECAT220, ECAT141","ETWS885, ETWS282"
+CSTM51712,Umay Cakrabirawa Budiman,18,Laki-laki,Purwokerto,ECAT563,"ETWS441, ETWS283"
+CSTM17789,Lembah Daruna Zulaika,26,Laki-laki,Purwokerto,ECAT563,ETWS396
+CSTM10094,Warsa Hartati,18,Laki-laki,Kupang,ECAT772,ETWS696
+CSTM98091,Cager Rahmawati,16,Laki-laki,Batam,ECAT141,"ETWS617, ETWS571"
+CSTM83684,Kezia Nurdiyanti,24,Perempuan,Kota Administrasi Jakarta Utara,ECAT190,ETWS224
+CSTM99452,Ani Mustofa,35,Perempuan,Denpasar,ECAT141,ETWS287
+CSTM04055,Putri Wibowo,39,Perempuan,Palembang,"ECAT190, ECAT563",ETWS561
+CSTM21632,Hairyanto Siregar,20,Laki-laki,Medan,"ECAT563, ECAT190, ECAT460","ETWS674, ETWS391"
+CSTM02555,Adinata Rahayu Siregar,23,Laki-laki,Kendari,"ECAT141, ECAT460","ETWS097, ETWS267"
+CSTM68074,Shania Hutasoit,40,Perempuan,Probolinggo,"ECAT772, ECAT141","ETWS871, ETWS949"
+CSTM05745,Bagus Purnawati,22,Laki-laki,Madiun,"ECAT141, ECAT220, ECAT190","ETWS721, ETWS620"
+CSTM46933,Satya Setiawan,37,Laki-laki,Blitar,"ECAT141, ECAT563, ECAT460",ETWS533
+CSTM97084,Okta Mujur Pradana,16,Laki-laki,Makassar,"ECAT772, ECAT141","ETWS083, ETWS696"
+CSTM30656,Rika Kuswandari,32,Perempuan,Tanjungpinang,"ECAT141, ECAT460, ECAT220",ETWS124
+CSTM87832,Bakiadi Talia Permata,19,Laki-laki,Banda Aceh,"ECAT220, ECAT772","ETWS477, ETWS895"
+CSTM55792,Diana Narpati,33,Perempuan,Kupang,"ECAT460, ECAT220",ETWS929
+CSTM09528,Febi Pudjiastuti,30,Perempuan,Tebingtinggi,"ECAT772, ECAT220, ECAT460","ETWS233, ETWS506"
+CSTM11578,Atmaja Saputra,35,Laki-laki,Palu,"ECAT563, ECAT220","ETWS242, ETWS224"
+CSTM74825,Irma Putra,40,Perempuan,Mojokerto,"ECAT563, ECAT772, ECAT141",ETWS818
+CSTM93384,Nyana Perkasa Marbun,31,Laki-laki,Malang,"ECAT772, ECAT190, ECAT460","ETWS095, ETWS574"
+CSTM01762,Catur Halim,32,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT141, ECAT190",ETWS069
+CSTM14514,Titi Thamrin,28,Perempuan,Tarakan,ECAT220,"ETWS057, ETWS943"
+CSTM53079,Elon Dodo Saefullah,26,Laki-laki,Palembang,"ECAT190, ECAT460",ETWS818
+CSTM26621,Surya Nadine Maulana,35,Laki-laki,Serang,"ECAT141, ECAT460",ETWS718
+CSTM31826,Xanana Ifa Hidayanto,17,Laki-laki,Sukabumi,"ECAT460, ECAT220",ETWS756
+CSTM28659,Ophelia Purnawati,23,Perempuan,Cirebon,"ECAT141, ECAT772, ECAT190",ETWS708
+CSTM53499,Ibrani Suryono,32,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT190, ECAT772, ECAT563","ETWS663, ETWS103"
+CSTM15678,Ade Iswahyudi,23,Perempuan,Palangkaraya,"ECAT772, ECAT460, ECAT141","ETWS441, ETWS684"
+CSTM42564,Luthfi Yulianti,16,Laki-laki,Samarinda,ECAT190,ETWS330
+CSTM00280,Kania Yuliarti,29,Perempuan,Banjarbaru,"ECAT220, ECAT190, ECAT772",ETWS268
+CSTM80416,Jaga Melani,38,Laki-laki,Kupang,"ECAT220, ECAT190, ECAT563","ETWS848, ETWS786"
+CSTM47705,Salwa Yessi Sirait,34,Perempuan,Tanjungbalai,ECAT190,"ETWS279, ETWS827"
+CSTM97856,Jaiman Putra,19,Laki-laki,Pangkalpinang,"ECAT220, ECAT190, ECAT772",ETWS689
+CSTM45014,Jaeman Gatra Damanik,34,Laki-laki,Ternate,"ECAT220, ECAT190, ECAT772",ETWS533
+CSTM55474,Zalindra Lukman Simbolon,31,Perempuan,Serang,"ECAT220, ECAT190, ECAT141",ETWS871
+CSTM84470,Gada Puspita,27,Laki-laki,Sungai Penuh,ECAT190,ETWS986
+CSTM93007,Umaya Bakti Saefullah,22,Laki-laki,Palu,"ECAT772, ECAT460",ETWS426
+CSTM71597,Rahmat Simbolon,26,Laki-laki,Surabaya,"ECAT220, ECAT190, ECAT772","ETWS818, ETWS279"
+CSTM18670,Wisnu Paiman Permata,32,Laki-laki,Binjai,"ECAT141, ECAT220","ETWS986, ETWS881"
+CSTM77864,Hartaka Tasdik Hutapea,22,Laki-laki,Yogyakarta,ECAT141,"ETWS441, ETWS288"
+CSTM13897,Dadi Banawi Mustofa,35,Laki-laki,Tegal,"ECAT141, ECAT460, ECAT772","ETWS031, ETWS883"
+CSTM40514,Tugiman Saptono,39,Laki-laki,Dumai,ECAT220,"ETWS748, ETWS881"
+CSTM32686,Adiarja Okto Zulkarnain,22,Laki-laki,Tomohon,"ECAT190, ECAT563",ETWS617
+CSTM33640,Luwes Luwes Dongoran,29,Laki-laki,Kendari,"ECAT772, ECAT460, ECAT190","ETWS205, ETWS271"
+CSTM41256,Hafshah Oman Pangestu,33,Perempuan,Tangerang,ECAT563,"ETWS851, ETWS564"
+CSTM88087,Karen Hardiansyah,37,Perempuan,Palu,"ECAT563, ECAT220, ECAT141",ETWS197
+CSTM97065,Tina Winarsih,27,Perempuan,Cilegon,"ECAT563, ECAT190, ECAT141","ETWS979, ETWS478"
+CSTM29264,Prasetyo Gina Widodo,33,Laki-laki,Subulussalam,"ECAT220, ECAT141","ETWS714, ETWS317"
+CSTM83178,Diah Victoria Yulianti,26,Perempuan,Meulaboh,"ECAT460, ECAT190, ECAT220","ETWS504, ETWS965"
+CSTM56824,Faizah Hutasoit,33,Perempuan,Kota Administrasi Jakarta Selatan,ECAT460,"ETWS679, ETWS163"
+CSTM09540,Drajat Nasyiah,36,Laki-laki,Pariaman,"ECAT190, ECAT772",ETWS455
+CSTM25154,Gandi Marpaung,32,Laki-laki,Kediri,"ECAT460, ECAT563",ETWS591
+CSTM75232,Lalita Pradana,18,Perempuan,Tomohon,ECAT563,ETWS279
+CSTM64155,Janet Setiawan,33,Perempuan,Balikpapan,ECAT141,"ETWS575, ETWS014"
+CSTM00251,Jayadi Kusumo,32,Laki-laki,Bau-Bau,"ECAT772, ECAT141","ETWS570, ETWS697"
+CSTM41697,Raden Caraka Sitompul,29,Laki-laki,Kotamobagu,"ECAT141, ECAT190","ETWS258, ETWS187"
+CSTM22895,Harjaya Bagas Putra,20,Laki-laki,Purwokerto,"ECAT563, ECAT190","ETWS394, ETWS158"
+CSTM81554,Tami Rajata,21,Perempuan,Magelang,"ECAT220, ECAT772, ECAT141",ETWS031
+CSTM30536,Arta Dabukke,35,Laki-laki,Bandar Lampung,"ECAT460, ECAT141, ECAT563","ETWS073, ETWS236"
+CSTM64800,Jasmani Ira Anggriawan,22,Laki-laki,Batu,"ECAT460, ECAT220","ETWS881, ETWS497"
+CSTM26751,Balapati Indah Prasasta,34,Laki-laki,Banjarmasin,ECAT772,"ETWS663, ETWS409"
+CSTM22416,Tri Hariyah,29,Laki-laki,Jambi,"ECAT141, ECAT772","ETWS263, ETWS798"
+CSTM92257,Ifa Iswahyudi,33,Perempuan,Dumai,"ECAT563, ECAT141","ETWS753, ETWS094"
+CSTM96310,Irma Banara Hidayat,17,Perempuan,Kota Administrasi Jakarta Pusat,ECAT220,"ETWS707, ETWS528"
+CSTM54712,Kunthara Rajata,23,Laki-laki,Medan,ECAT563,ETWS885
+CSTM77006,Ade Bella Pratiwi,34,Perempuan,Manado,"ECAT772, ECAT220","ETWS361, ETWS753"
+CSTM59992,Ciaobella Salahudin,37,Perempuan,Kediri,ECAT220,ETWS347
+CSTM91588,Kiandra Pardi Napitupulu,35,Perempuan,Banjarmasin,"ECAT460, ECAT141",ETWS620
+CSTM43200,Rini Utami,28,Perempuan,Madiun,"ECAT190, ECAT563","ETWS714, ETWS200"
+CSTM52302,Febi Dabukke,21,Perempuan,Palopo,"ECAT772, ECAT190",ETWS883
+CSTM72932,Umar Marbun,17,Laki-laki,Bitung,ECAT141,ETWS330
+CSTM32150,Hilda Wulan Wijaya,24,Perempuan,Sukabumi,"ECAT772, ECAT141, ECAT460",ETWS455
+CSTM95890,Bahuwirya Prabowo,35,Laki-laki,Banjar,"ECAT460, ECAT190","ETWS271, ETWS617"
+CSTM28788,Eva Lega Natsir,22,Perempuan,Pagaralam,"ECAT563, ECAT141, ECAT460",ETWS083
+CSTM66615,Wani Yulianti,39,Perempuan,Bekasi,"ECAT563, ECAT460, ECAT141","ETWS416, ETWS732"
+CSTM32495,Farhunnisa Asirwanda Simanjuntak,28,Perempuan,Tomohon,ECAT220,"ETWS361, ETWS885"
+CSTM28101,Danuja Setya Tampubolon,40,Laki-laki,Sabang,"ECAT460, ECAT772","ETWS224, ETWS871"
+CSTM15962,Faizah Zulkarnain,16,Perempuan,Cilegon,"ECAT460, ECAT141, ECAT190",ETWS347
+CSTM61874,Anggabaya Wijaya,36,Laki-laki,Singkawang,"ECAT141, ECAT190",ETWS114
+CSTM01340,Sari Winarsih,35,Perempuan,Makassar,"ECAT563, ECAT460","ETWS748, ETWS755"
+CSTM69772,Rina Yessi Padmasari,27,Perempuan,Mojokerto,"ECAT141, ECAT563, ECAT460","ETWS501, ETWS898"
+CSTM98414,Carub Baktiadi Simbolon,30,Laki-laki,Padang Sidempuan,"ECAT190, ECAT141, ECAT772",ETWS509
+CSTM05256,Taufan Alambana Pradipta,40,Laki-laki,Tarakan,"ECAT141, ECAT190, ECAT460",ETWS818
+CSTM66780,Tirta Devi Kusumo,19,Laki-laki,Solok,"ECAT141, ECAT190, ECAT772","ETWS818, ETWS426"
+CSTM14855,Paramita Hutapea,37,Perempuan,Bima,ECAT190,ETWS893
+CSTM46468,Edi Puspasari,22,Laki-laki,Bukittinggi,ECAT220,"ETWS708, ETWS871"
+CSTM58176,Prabowo Sihombing,37,Laki-laki,Tanjungbalai,"ECAT460, ECAT141, ECAT190",ETWS755
+CSTM46299,Kasiyah Gara Mahendra,29,Perempuan,Depok,ECAT220,ETWS258
+CSTM65007,Amelia Dariati Pradana,30,Perempuan,Padang,"ECAT460, ECAT772, ECAT190","ETWS617, ETWS571"
+CSTM09918,Ade Nardi Santoso,25,Perempuan,Tidore Kepulauan,"ECAT563, ECAT190","ETWS802, ETWS282"
+CSTM54191,Kamila Nugroho,17,Perempuan,Cirebon,"ECAT190, ECAT220, ECAT772","ETWS913, ETWS753"
+CSTM05486,Victoria Mayasari,19,Perempuan,Madiun,ECAT772,ETWS613
+CSTM08852,Banara Paiman Nasyidah,27,Laki-laki,Bekasi,"ECAT460, ECAT190","ETWS817, ETWS152"
+CSTM13791,Wirda Wardi Maheswara,19,Perempuan,Jambi,"ECAT563, ECAT460",ETWS629
+CSTM55154,Aris Wulandari,22,Laki-laki,Bau-Bau,ECAT460,ETWS016
+CSTM46240,Heru Adriansyah,22,Laki-laki,Surabaya,"ECAT141, ECAT220","ETWS224, ETWS805"
+CSTM48237,Eva Calista Winarsih,19,Perempuan,Tangerang,"ECAT141, ECAT190, ECAT772","ETWS657, ETWS881"
+CSTM32028,Surya Pratiwi,17,Laki-laki,Singkawang,"ECAT460, ECAT563, ECAT220","ETWS224, ETWS017"
+CSTM99535,Mariadi Sitompul,24,Laki-laki,Depok,ECAT563,ETWS041
+CSTM89314,Asman Waskita,39,Laki-laki,Bandung,"ECAT220, ECAT460",ETWS097
+CSTM72409,Nilam Carub Pradana,37,Perempuan,Pangkalpinang,ECAT190,ETWS887
+CSTM79296,Bahuraksa Lidya Andriani,19,Laki-laki,Balikpapan,"ECAT190, ECAT563",ETWS947
+CSTM15376,Gawati Utami,26,Perempuan,Kota Administrasi Jakarta Barat,"ECAT772, ECAT460","ETWS426, ETWS426"
+CSTM94627,Virman Fujiati,26,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT460, ECAT141, ECAT220",ETWS304
+CSTM61748,Wira Agnes Utama,40,Laki-laki,Surabaya,"ECAT460, ECAT141, ECAT220","ETWS450, ETWS361"
+CSTM69031,Ganda Shakila Hartati,21,Laki-laki,Madiun,ECAT460,ETWS394
+CSTM86503,Carla Nyoman Natsir,33,Perempuan,Bitung,"ECAT220, ECAT141, ECAT772","ETWS477, ETWS361"
+CSTM82712,Bagus Jagaraga Saefullah,19,Laki-laki,Bima,ECAT563,"ETWS053, ETWS143"
+CSTM16826,Julia Iswahyudi,33,Perempuan,Palangkaraya,ECAT190,"ETWS575, ETWS362"
+CSTM39509,Zulaikha Prima Usada,33,Perempuan,Batam,"ECAT190, ECAT563","ETWS756, ETWS205"
+CSTM12688,Mustofa Laksita,23,Laki-laki,Tangerang Selatan,"ECAT460, ECAT190",ETWS448
+CSTM76725,Michelle Zamira Gunawan,37,Perempuan,Jambi,"ECAT141, ECAT190","ETWS391, ETWS267"
+CSTM25787,Ajeng Puspasari,26,Perempuan,Solok,"ECAT772, ECAT220","ETWS043, ETWS394"
+CSTM24284,Laras Oktaviani,35,Perempuan,Tangerang,ECAT220,ETWS756
+CSTM59395,Hesti Setiawan,31,Perempuan,Tebingtinggi,"ECAT141, ECAT772",ETWS130
+CSTM83413,Cahyo Marsudi Nasyiah,29,Laki-laki,Blitar,"ECAT220, ECAT141","ETWS735, ETWS263"
+CSTM81209,Siti Rajasa,39,Perempuan,Sibolga,ECAT460,ETWS600
+CSTM82438,Jessica Cakrawala Hidayanto,25,Perempuan,Bogor,"ECAT563, ECAT460","ETWS271, ETWS945"
+CSTM05026,Danuja Simanjuntak,34,Laki-laki,Pontianak,ECAT190,ETWS200
+CSTM97226,Hairyanto Prakosa Habibi,36,Laki-laki,Madiun,"ECAT220, ECAT190, ECAT460",ETWS663
+CSTM92877,Ratih Najmudin,27,Perempuan,Kota Administrasi Jakarta Utara,"ECAT141, ECAT772",ETWS063
+CSTM07329,Pranata Nainggolan,16,Laki-laki,Makassar,ECAT141,"ETWS591, ETWS263"
+CSTM39237,Nalar Novitasari,34,Laki-laki,Palembang,ECAT460,ETWS130
+CSTM29957,Ulya Wisnu Utama,25,Perempuan,Tangerang,"ECAT220, ECAT563, ECAT141",ETWS534
+CSTM58040,Septi Pudjiastuti,25,Perempuan,Sukabumi,"ECAT563, ECAT460, ECAT190",ETWS846
+CSTM76077,Galar Kenari Nashiruddin,35,Laki-laki,Lhokseumawe,"ECAT190, ECAT141",ETWS487
+CSTM85543,Wulan Lidya Sihombing,38,Perempuan,Lubuklinggau,"ECAT563, ECAT141, ECAT772","ETWS258, ETWS534"
+CSTM27193,Malika Jailani,26,Perempuan,Meulaboh,ECAT563,"ETWS471, ETWS017"
+CSTM72167,Banara Mardhiyah,30,Laki-laki,Banjarbaru,"ECAT141, ECAT190","ETWS753, ETWS735"
+CSTM75544,Warta Yulianti,27,Laki-laki,Dumai,"ECAT772, ECAT220",ETWS263
+CSTM15592,Gilang Darman Nashiruddin,28,Laki-laki,Palu,"ECAT141, ECAT772, ECAT220",ETWS396
+CSTM46524,Soleh Cahyo Firgantoro,21,Laki-laki,Denpasar,ECAT190,ETWS876
+CSTM37403,Usyi Maida Suwarno,37,Perempuan,Tangerang,"ECAT772, ECAT190","ETWS618, ETWS436"
+CSTM49394,Ciaobella Ayu Laksita,36,Perempuan,Sukabumi,ECAT772,ETWS017
+CSTM69951,Salwa Pranowo,19,Perempuan,Surabaya,"ECAT141, ECAT460, ECAT772","ETWS571, ETWS413"
+CSTM31902,Silvia Virman Budiyanto,36,Perempuan,Bandar Lampung,"ECAT460, ECAT141","ETWS883, ETWS598"
+CSTM09641,Vanesa Pertiwi,39,Perempuan,Bukittinggi,"ECAT772, ECAT563",ETWS756
+CSTM50830,Gatot Chelsea Saefullah,40,Laki-laki,Banjar,ECAT563,ETWS753
+CSTM42214,Gaiman Oktaviani,29,Laki-laki,Padang Sidempuan,"ECAT190, ECAT220, ECAT141","ETWS219, ETWS582"
+CSTM30221,Najwa Puspita,27,Perempuan,Padang Sidempuan,"ECAT772, ECAT563, ECAT220","ETWS014, ETWS975"
+CSTM46288,Rina Permadi,40,Perempuan,Tegal,"ECAT460, ECAT563, ECAT190","ETWS304, ETWS251"
+CSTM87518,Puti Mahdi Kuswoyo,16,Perempuan,Ambon,"ECAT563, ECAT460, ECAT190","ETWS089, ETWS506"
+CSTM84733,Radika Cakrawangsa Hidayat,16,Laki-laki,Tomohon,"ECAT460, ECAT563","ETWS409, ETWS587"
+CSTM70273,Maya Jailani,26,Perempuan,Sungai Penuh,"ECAT460, ECAT141","ETWS710, ETWS600"
+CSTM94868,Gawati Harsana Palastri,38,Perempuan,Padang Sidempuan,ECAT772,"ETWS083, ETWS205"
+CSTM91782,Jane Slamet Uwais,40,Perempuan,Medan,"ECAT563, ECAT772",ETWS487
+CSTM99720,Najwa Widodo,40,Perempuan,Padang,"ECAT772, ECAT141, ECAT460",ETWS057
+CSTM23166,Aswani Edi Pradipta,17,Laki-laki,Cirebon,ECAT141,ETWS001
+CSTM62273,Lintang Queen Ramadan,32,Perempuan,Magelang,"ECAT141, ECAT563",ETWS874
+CSTM10910,Adika Maman Laksita,17,Laki-laki,Tegal,"ECAT460, ECAT563","ETWS186, ETWS032"
+CSTM05786,Galih Napitupulu,16,Laki-laki,Parepare,ECAT190,"ETWS805, ETWS756"
+CSTM27111,Saadat Gara Tamba,17,Laki-laki,Banjar,"ECAT141, ECAT220",ETWS394
+CSTM27678,Padma Humaira Nasyiah,39,Perempuan,Cirebon,ECAT772,"ETWS224, ETWS153"
+CSTM14107,Omar Jamil Nasyidah,31,Laki-laki,Ambon,"ECAT772, ECAT460",ETWS686
+CSTM70395,Baktiadi Haryanto,34,Laki-laki,Probolinggo,"ECAT460, ECAT563, ECAT220","ETWS895, ETWS892"
+CSTM42395,Safina Usman Nasyidah,20,Perempuan,Lhokseumawe,"ECAT141, ECAT772","ETWS555, ETWS541"
+CSTM04627,Waluyo Eva Firmansyah,34,Laki-laki,Tasikmalaya,ECAT563,"ETWS361, ETWS383"
+CSTM85939,Amalia Mansur,40,Perempuan,Bandar Lampung,"ECAT772, ECAT141","ETWS690, ETWS158"
+CSTM03438,Zalindra Hasanah,28,Perempuan,Kota Administrasi Jakarta Pusat,ECAT563,ETWS068
+CSTM26754,Fitriani Utami,39,Perempuan,Kota Administrasi Jakarta Barat,"ECAT772, ECAT190",ETWS035
+CSTM23201,Bakiono Ophelia Jailani,35,Laki-laki,Salatiga,ECAT460,ETWS242
+CSTM92940,Damar Puspasari,29,Laki-laki,Ternate,"ECAT563, ECAT141","ETWS722, ETWS592"
+CSTM93067,Puput Cahyanto Maheswara,20,Perempuan,Jambi,ECAT563,ETWS158
+CSTM11842,Melinda Putri Rahmawati,20,Perempuan,Balikpapan,"ECAT220, ECAT141","ETWS193, ETWS895"
+CSTM75925,Wulan Candra Wijaya,39,Perempuan,Padangpanjang,"ECAT772, ECAT190, ECAT460","ETWS513, ETWS448"
+CSTM02650,Jessica Habibi,26,Perempuan,Depok,ECAT220,"ETWS756, ETWS805"
+CSTM75460,Septi Wasita,16,Perempuan,Denpasar,"ECAT772, ECAT141, ECAT460","ETWS400, ETWS898"
+CSTM92418,Karimah Danang Kusmawati,27,Perempuan,Bandung,"ECAT190, ECAT563, ECAT460","ETWS177, ETWS309"
+CSTM58315,Harsanto Zelda Pudjiastuti,22,Laki-laki,Malang,ECAT141,"ETWS395, ETWS672"
+CSTM55466,Amalia Thamrin,37,Perempuan,Sawahlunto,"ECAT563, ECAT772",ETWS205
+CSTM04238,Bagiya Jono Kusumo,16,Laki-laki,Kediri,"ECAT772, ECAT190, ECAT141","ETWS547, ETWS388"
+CSTM37302,Zulfa Handayani,20,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT220, ECAT563","ETWS818, ETWS574"
+CSTM99347,Emong Galuh Rahmawati,31,Laki-laki,Kediri,ECAT220,ETWS710
+CSTM39841,Hamzah Kusumo,39,Laki-laki,Padangpanjang,ECAT460,"ETWS400, ETWS818"
+CSTM74638,Vinsen Farah Sihotang,21,Laki-laki,Bekasi,"ECAT772, ECAT141, ECAT563",ETWS555
+CSTM12205,Hasim Ramadan,18,Laki-laki,Padang,"ECAT460, ECAT563",ETWS394
+CSTM13577,Capa Salahudin,36,Laki-laki,Dumai,"ECAT220, ECAT141","ETWS818, ETWS895"
+CSTM04105,Cornelia Jaya Uwais,39,Perempuan,Bekasi,"ECAT563, ECAT460, ECAT772",ETWS043
+CSTM55513,Restu Nuraini,27,Perempuan,Tidore Kepulauan,"ECAT220, ECAT563, ECAT141","ETWS426, ETWS309"
+CSTM84061,Faizah Maman Pradipta,33,Perempuan,Tanjungbalai,"ECAT141, ECAT220",ETWS471
+CSTM46604,Gilang Susanti,34,Laki-laki,Pekalongan,"ECAT563, ECAT190, ECAT141",ETWS188
+CSTM06058,Bahuraksa Abyasa Sudiati,23,Laki-laki,Pagaralam,"ECAT772, ECAT460","ETWS571, ETWS436"
+CSTM08488,Ika Surya Mandala,23,Perempuan,Sukabumi,"ECAT220, ECAT563, ECAT772","ETWS818, ETWS827"
+CSTM02612,Unjani Wasis Ramadan,38,Perempuan,Samarinda,"ECAT772, ECAT190, ECAT220",ETWS362
+CSTM82391,Elvina Utami,21,Perempuan,Ambon,"ECAT563, ECAT220","ETWS574, ETWS718"
+CSTM81109,Praba Nasyiah,36,Laki-laki,Kendari,"ECAT563, ECAT772",ETWS163
+CSTM85102,Winda Sarah Dongoran,35,Perempuan,Cimahi,ECAT563,ETWS152
+CSTM08854,Titin Raihan Maryati,22,Perempuan,Lhokseumawe,"ECAT190, ECAT563","ETWS288, ETWS400"
+CSTM58212,Jamalia Harjo Hutagalung,31,Perempuan,Probolinggo,"ECAT460, ECAT772, ECAT563",ETWS362
+CSTM12939,Umi Danuja Saefullah,29,Perempuan,Parepare,"ECAT141, ECAT190, ECAT460",ETWS808
+CSTM60931,Ika Zaenab Laksmiwati,18,Perempuan,Palopo,"ECAT190, ECAT563",ETWS152
+CSTM43106,Kayun Nainggolan,35,Laki-laki,Cirebon,"ECAT190, ECAT141","ETWS267, ETWS394"
+CSTM79714,Eko Yolanda,36,Laki-laki,Langsa,ECAT141,ETWS460
+CSTM94474,Betania Joko Utama,16,Perempuan,Palopo,ECAT141,"ETWS708, ETWS673"
+CSTM71261,Siska Diah Mayasari,17,Perempuan,Langsa,ECAT141,"ETWS669, ETWS441"
+CSTM97961,Alika Simon Puspita,32,Perempuan,Salatiga,ECAT141,"ETWS885, ETWS233"
+CSTM15724,Carla Agus Permata,19,Perempuan,Bontang,ECAT220,"ETWS779, ETWS753"
+CSTM48471,Umar Haryanto,39,Laki-laki,Jayapura,"ECAT220, ECAT460, ECAT141",ETWS271
+CSTM02395,Almira Sitompul,16,Perempuan,Kota Administrasi Jakarta Utara,ECAT460,"ETWS689, ETWS697"
+CSTM98509,Nadia Hardiansyah,18,Perempuan,Bekasi,"ECAT220, ECAT563, ECAT190",ETWS885
+CSTM66983,Widya Halim,32,Perempuan,Medan,"ECAT772, ECAT563",ETWS885
+CSTM12894,Kamila Laksita,22,Perempuan,Bukittinggi,"ECAT220, ECAT460",ETWS513
+CSTM77796,Digdaya Suartini,29,Laki-laki,Cilegon,"ECAT460, ECAT772, ECAT190","ETWS268, ETWS986"
+CSTM28544,Taswir Genta Puspita,39,Laki-laki,Tegal,ECAT190,ETWS236
+CSTM48601,Baktianto Winarno,29,Laki-laki,Sawahlunto,"ECAT190, ECAT772, ECAT141",ETWS943
+CSTM59187,Setya Adika Utami,37,Laki-laki,Padang,ECAT772,"ETWS219, ETWS487"
+CSTM75677,Eluh Ifa Yolanda,36,Laki-laki,Tasikmalaya,"ECAT220, ECAT460","ETWS876, ETWS985"
+CSTM03242,Yani Widodo,24,Perempuan,Serang,"ECAT772, ECAT563, ECAT141",ETWS334
+CSTM65516,Nyana Jarwi Hakim,27,Laki-laki,Payakumbuh,ECAT563,"ETWS263, ETWS889"
+CSTM12067,Ihsan Iswahyudi,30,Laki-laki,Kota Administrasi Jakarta Pusat,"ECAT190, ECAT220",ETWS426
+CSTM02493,Talia Intan Saputra,21,Perempuan,Cilegon,"ECAT460, ECAT772","ETWS939, ETWS748"
+CSTM67368,Ana Sitompul,38,Perempuan,Serang,"ECAT141, ECAT772","ETWS069, ETWS158"
+CSTM85971,Ophelia Agus Palastri,37,Perempuan,Surakarta,ECAT220,ETWS088
+CSTM51128,Darijan Mardhiyah,27,Laki-laki,Tarakan,"ECAT220, ECAT190",ETWS477
+CSTM37530,Cakrawangsa Rajata,18,Laki-laki,Tangerang Selatan,"ECAT220, ECAT460, ECAT141","ETWS263, ETWS616"
+CSTM07360,Gabriella Victoria Zulkarnain,17,Perempuan,Bitung,ECAT460,ETWS441
+CSTM89248,Pia Rahimah,39,Perempuan,Metro,ECAT772,ETWS255
+CSTM76066,Zelda Iswahyudi,31,Perempuan,Mataram,ECAT141,"ETWS130, ETWS653"
+CSTM49296,Bagus Haryanti,23,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT563, ECAT141","ETWS629, ETWS053"
+CSTM86185,Vivi Umaya Padmasari,33,Perempuan,Tanjungpinang,"ECAT563, ECAT772","ETWS617, ETWS665"
+CSTM84747,Ana Laksmiwati,16,Perempuan,Ambon,"ECAT190, ECAT220, ECAT772","ETWS798, ETWS697"
+CSTM81401,Lasmanto Emas Situmorang,32,Laki-laki,Yogyakarta,"ECAT141, ECAT190",ETWS478
+CSTM23193,Karya Sudiati,18,Laki-laki,Banjarbaru,"ECAT190, ECAT772",ETWS200
+CSTM41235,Nabila Viman Maulana,26,Perempuan,Semarang,"ECAT772, ECAT220",ETWS812
+CSTM10139,Wardi Dalima Saefullah,33,Laki-laki,Parepare,ECAT220,"ETWS394, ETWS403"
+CSTM45651,Darijan Oktaviani,25,Laki-laki,Madiun,"ECAT190, ECAT141","ETWS427, ETWS684"
+CSTM01108,Jagaraga Farida,29,Laki-laki,Tarakan,ECAT563,ETWS224
+CSTM70913,Aurora Pangestu,25,Perempuan,Jayapura,"ECAT190, ECAT563, ECAT460",ETWS732
+CSTM11898,Tantri Pratiwi,39,Perempuan,Metro,"ECAT141, ECAT460, ECAT772",ETWS097
+CSTM56836,Rika Tantri Wastuti,39,Perempuan,Tidore Kepulauan,"ECAT220, ECAT563, ECAT190",ETWS263
+CSTM67050,Olga Gadang Natsir,38,Laki-laki,Tegal,"ECAT141, ECAT563, ECAT772",ETWS618
+CSTM30068,Salsabila Puspasari,37,Perempuan,Magelang,ECAT460,"ETWS876, ETWS554"
+CSTM83888,Ikhsan Tami Mulyani,18,Laki-laki,Sabang,ECAT563,"ETWS017, ETWS862"
+CSTM90476,Sabrina Manullang,17,Perempuan,Tangerang Selatan,"ECAT220, ECAT772","ETWS528, ETWS043"
+CSTM38143,Kariman Wastuti,24,Laki-laki,Manado,"ECAT460, ECAT190",ETWS394
+CSTM20961,Edward Maryadi,28,Laki-laki,Manado,"ECAT563, ECAT190, ECAT460","ETWS786, ETWS402"
+CSTM84980,Radit Lestari,26,Laki-laki,Jambi,ECAT141,"ETWS554, ETWS786"
+CSTM80745,Caturangga Bakda Natsir,24,Laki-laki,Blitar,ECAT141,"ETWS985, ETWS269"
+CSTM98395,Gabriella Maryati,36,Perempuan,Padang Sidempuan,ECAT220,ETWS752
+CSTM89985,Salsabila Narpati,28,Perempuan,Pariaman,"ECAT563, ECAT141, ECAT460",ETWS101
+CSTM94809,Uli Putra,24,Perempuan,Salatiga,"ECAT220, ECAT772, ECAT460",ETWS582
+CSTM52109,Rama Akarsana Nugroho,26,Laki-laki,Blitar,ECAT190,"ETWS971, ETWS101"
+CSTM04801,Karen Sihombing,27,Perempuan,Medan,"ECAT220, ECAT772, ECAT190",ETWS571
+CSTM88219,Gamani Zelaya Kuswoyo,25,Laki-laki,Gorontalo,ECAT220,"ETWS929, ETWS471"
+CSTM25169,Ina Pranowo,23,Perempuan,Kotamobagu,"ECAT460, ECAT220",ETWS734
+CSTM70397,Empluk Gunarto,26,Laki-laki,Bitung,"ECAT220, ECAT190, ECAT460","ETWS101, ETWS957"
+CSTM07290,Ilsa Tantri Ardianto,33,Perempuan,Pasuruan,"ECAT772, ECAT190",ETWS823
+CSTM91046,Gading Lestari,40,Laki-laki,Palu,"ECAT190, ECAT220","ETWS673, ETWS853"
+CSTM34103,Puji Betania Napitupulu,38,Perempuan,Magelang,ECAT460,ETWS638
+CSTM62048,Oliva Wage Thamrin,31,Perempuan,Solok,"ECAT220, ECAT190, ECAT141",ETWS456
+CSTM63970,Opan Kayla Haryanto,28,Laki-laki,Cirebon,ECAT190,"ETWS805, ETWS928"
+CSTM86434,Shakila Anggabaya Pudjiastuti,17,Perempuan,Subulussalam,"ECAT460, ECAT190","ETWS883, ETWS157"
+CSTM98501,Mulya Galak Novitasari,37,Laki-laki,Pekanbaru,ECAT563,"ETWS236, ETWS673"
+CSTM91572,Martaka Azalea Aryani,40,Laki-laki,Bukittinggi,"ECAT563, ECAT220","ETWS017, ETWS587"
+CSTM90250,Yono Suryono,16,Laki-laki,Tebingtinggi,ECAT460,ETWS330
+CSTM48821,Talia Ophelia Halimah,29,Perempuan,Kediri,ECAT563,"ETWS710, ETWS592"
+CSTM81391,Dacin Hutagalung,27,Laki-laki,Sabang,"ECAT220, ECAT141","ETWS846, ETWS477"
+CSTM96419,Cayadi Sitorus,31,Laki-laki,Surabaya,"ECAT141, ECAT460, ECAT220",ETWS848
+CSTM68032,Wardi Tarihoran,16,Laki-laki,Surabaya,"ECAT220, ECAT772, ECAT141",ETWS233
+CSTM78891,Himawan Prayoga,28,Laki-laki,Palembang,"ECAT190, ECAT141",ETWS627
+CSTM54827,Samiah Prayoga,22,Perempuan,Salatiga,ECAT563,"ETWS975, ETWS756"
+CSTM31101,Rizki Natsir,32,Laki-laki,Pontianak,"ECAT220, ECAT563","ETWS152, ETWS409"
+CSTM60709,Mustika Ajimin Maryati,22,Laki-laki,Payakumbuh,"ECAT460, ECAT190, ECAT563",ETWS928
+CSTM28782,Cici Lasmanto Prasetya,19,Perempuan,Pasuruan,"ECAT772, ECAT190, ECAT563",ETWS057
+CSTM39549,Tari Zulkarnain,21,Perempuan,Bau-Bau,"ECAT563, ECAT772, ECAT190",ETWS487
+CSTM31134,Mitra Widiastuti,18,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT563, ECAT141",ETWS613
+CSTM17855,Ganda Gaman Marpaung,30,Laki-laki,Pematangsiantar,"ECAT460, ECAT563, ECAT190",ETWS561
+CSTM02624,Lantar Upik Anggraini,26,Laki-laki,Medan,"ECAT141, ECAT220, ECAT772","ETWS975, ETWS441"
+CSTM49690,Septi Kenzie Purnawati,19,Perempuan,Tangerang,ECAT190,ETWS361
+CSTM21355,Violet Simanjuntak,37,Perempuan,Dumai,ECAT141,"ETWS984, ETWS897"
+CSTM56952,Eva Pranowo,22,Perempuan,Semarang,"ECAT563, ECAT220, ECAT772",ETWS755
+CSTM12635,Darmaji Melani,35,Laki-laki,Padang,"ECAT460, ECAT563, ECAT772",ETWS395
+CSTM47350,Adikara Icha Ramadan,40,Laki-laki,Kupang,ECAT772,ETWS441
+CSTM54797,Intan Siregar,17,Perempuan,Tegal,"ECAT772, ECAT190",ETWS251
+CSTM05534,Marsito Kasiyah Laksita,20,Laki-laki,Manado,"ECAT220, ECAT563, ECAT141","ETWS571, ETWS497"
+CSTM30550,Sakura Mandasari,39,Perempuan,Batu,"ECAT220, ECAT772, ECAT460","ETWS669, ETWS460"
+CSTM20588,Jessica Bakiman Riyanti,34,Perempuan,Kediri,ECAT460,"ETWS254, ETWS394"
+CSTM94807,Gandi Harto Natsir,31,Laki-laki,Cimahi,ECAT460,ETWS547
+CSTM01016,Ghaliyati Saputra,31,Perempuan,Probolinggo,"ECAT460, ECAT220",ETWS114
+CSTM25514,Nova Novitasari,23,Perempuan,Meulaboh,ECAT190,"ETWS017, ETWS929"
+CSTM35857,Kanda Dirja Hutasoit,31,Laki-laki,Malang,ECAT772,"ETWS439, ETWS391"
+CSTM06519,Puti Riyanti,18,Perempuan,Cilegon,"ECAT220, ECAT190",ETWS519
+CSTM84166,Dacin Hutapea,19,Laki-laki,Denpasar,"ECAT563, ECAT190, ECAT460",ETWS509
+CSTM70918,Wakiman Yuliarti,27,Laki-laki,Kendari,ECAT460,"ETWS177, ETWS084"
+CSTM23672,Zulfa Uyainah,17,Perempuan,Lhokseumawe,"ECAT563, ECAT460","ETWS603, ETWS895"
+CSTM17298,Shania Suartini,35,Perempuan,Padang Sidempuan,"ECAT190, ECAT460","ETWS774, ETWS267"
+CSTM78968,Jail Mujur Jailani,17,Laki-laki,Meulaboh,"ECAT190, ECAT772","ETWS541, ETWS690"
+CSTM67776,Dian Puspita,22,Perempuan,Denpasar,ECAT141,"ETWS620, ETWS893"
+CSTM85423,Slamet Parman Megantara,33,Laki-laki,Balikpapan,ECAT220,"ETWS139, ETWS753"
+CSTM03581,Ajimat Radit Laksmiwati,37,Laki-laki,Kota Administrasi Jakarta Timur,ECAT772,ETWS673
+CSTM94668,Irnanto Usamah,25,Laki-laki,Padang,"ECAT563, ECAT190, ECAT772",ETWS158
+CSTM43767,Bakianto Gada Purwanti,18,Laki-laki,Palopo,ECAT190,ETWS455
+CSTM02931,Anastasia Amalia Maryadi,29,Perempuan,Tual,"ECAT220, ECAT563","ETWS455, ETWS073"
+CSTM36103,Hamima Saputra,33,Perempuan,Kupang,"ECAT141, ECAT563, ECAT190","ETWS613, ETWS283"
+CSTM69368,Vanesa Astuti,38,Perempuan,Payakumbuh,"ECAT460, ECAT141","ETWS162, ETWS057"
+CSTM62210,Asirwanda Faizah Pranowo,31,Laki-laki,Serang,"ECAT460, ECAT563",ETWS679
+CSTM80323,Jumadi Tami Puspita,38,Laki-laki,Sungai Penuh,"ECAT563, ECAT772",ETWS267
+CSTM95228,Jasmin Lestari,31,Perempuan,Meulaboh,"ECAT190, ECAT772, ECAT141",ETWS487
+CSTM70260,Bagya Elon Januar,38,Laki-laki,Kota Administrasi Jakarta Pusat,"ECAT190, ECAT563, ECAT772",ETWS069
+CSTM13621,Raditya Hendri Aryani,36,Laki-laki,Cilegon,ECAT141,"ETWS416, ETWS139"
+CSTM12288,Ajimin Asman Sitorus,23,Laki-laki,Kotamobagu,ECAT141,"ETWS753, ETWS848"
+CSTM11447,Pandu Sitorus,17,Laki-laki,Lhokseumawe,"ECAT460, ECAT563, ECAT220",ETWS456
+CSTM13015,Ratih Bagiya Hakim,34,Perempuan,Cirebon,"ECAT563, ECAT220, ECAT772",ETWS831
+CSTM61743,Cahyadi Karna Lestari,20,Laki-laki,Tangerang,ECAT772,"ETWS362, ETWS200"
+CSTM07252,Dipa Anggraini,38,Laki-laki,Bau-Bau,"ECAT563, ECAT772","ETWS448, ETWS785"
+CSTM78492,Halima Jamil Damanik,16,Perempuan,Dumai,ECAT220,ETWS188
+CSTM47432,Vanesa Diana Dabukke,36,Perempuan,Sawahlunto,"ECAT220, ECAT772, ECAT460",ETWS851
+CSTM98482,Sabri Kacung Winarsih,23,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT190, ECAT563",ETWS753
+CSTM17368,Lulut Titin Haryanto,17,Laki-laki,Kupang,"ECAT460, ECAT563, ECAT141","ETWS139, ETWS901"
+CSTM18739,Janet Saadat Pradana,17,Perempuan,Pasuruan,ECAT220,ETWS205
+CSTM15078,Gawati Sirait,26,Perempuan,Tanjungbalai,"ECAT141, ECAT220, ECAT190","ETWS480, ETWS634"
+CSTM19110,Siska Hariyah,29,Perempuan,Palangkaraya,"ECAT141, ECAT563",ETWS857
+CSTM31481,Yono Saadat Andriani,39,Laki-laki,Pasuruan,ECAT772,"ETWS354, ETWS289"
+CSTM23712,Prasetyo Iswahyudi,25,Laki-laki,Surabaya,ECAT772,ETWS552
+CSTM83119,Praba Irnanto Suartini,30,Laki-laki,Makassar,ECAT220,ETWS547
+CSTM08784,Banara Raisa Sihotang,30,Laki-laki,Langsa,ECAT190,ETWS943
+CSTM75813,Harjo Putra,32,Laki-laki,Salatiga,ECAT190,ETWS177
+CSTM26437,Radika Lestari,37,Laki-laki,Tanjungbalai,ECAT190,"ETWS343, ETWS627"
+CSTM67589,Candra Astuti,24,Laki-laki,Pariaman,ECAT460,"ETWS403, ETWS143"
+CSTM88447,Widya Damanik,26,Perempuan,Kediri,"ECAT190, ECAT141, ECAT460",ETWS395
+CSTM05250,Tirtayasa Wirda Winarsih,33,Laki-laki,Serang,"ECAT141, ECAT190",ETWS509
+CSTM15980,Talia Ami Mandasari,25,Perempuan,Malang,"ECAT141, ECAT190, ECAT563","ETWS177, ETWS721"
+CSTM67036,Nadine Rajasa,36,Perempuan,Banjarbaru,"ECAT772, ECAT460, ECAT563","ETWS263, ETWS805"
+CSTM23810,Syahrini Ega Saptono,16,Perempuan,Bogor,"ECAT190, ECAT772","ETWS547, ETWS673"
+CSTM45805,Hartaka Mahmud Lestari,25,Laki-laki,Cimahi,"ECAT220, ECAT141","ETWS177, ETWS835"
+CSTM00938,Abyasa Kusmawati,36,Laki-laki,Bogor,ECAT563,"ETWS881, ETWS397"
+CSTM68570,Amalia Nugraha Pudjiastuti,30,Perempuan,Manado,"ECAT772, ECAT563, ECAT460",ETWS427
+CSTM88629,Nrima Yuniar,38,Laki-laki,Bontang,ECAT460,"ETWS817, ETWS402"
+CSTM39919,Zulaikha Embuh Saefullah,29,Perempuan,Ambon,"ECAT772, ECAT190, ECAT460",ETWS690
+CSTM35089,Galak Laswi Najmudin,31,Laki-laki,Tangerang Selatan,"ECAT563, ECAT772, ECAT460",ETWS665
+CSTM04042,Gina Kusumo,38,Perempuan,Gorontalo,ECAT141,ETWS439
+CSTM56037,Prabowo Adriansyah,24,Laki-laki,Bekasi,"ECAT563, ECAT190, ECAT141","ETWS901, ETWS126"
+CSTM44472,Aditya Bakianto Purnawati,29,Laki-laki,Magelang,"ECAT220, ECAT141",ETWS130
+CSTM02067,Jatmiko Jarwi Firmansyah,24,Laki-laki,Padang,ECAT220,ETWS885
+CSTM77945,Mahmud Omar Kuswoyo,22,Laki-laki,Pontianak,"ECAT220, ECAT190, ECAT460","ETWS362, ETWS426"
+CSTM67330,Rama Prasetya,33,Laki-laki,Tangerang Selatan,"ECAT141, ECAT563, ECAT220","ETWS388, ETWS130"
+CSTM18989,Vinsen Mahfud Rahayu,28,Laki-laki,Tanjungpinang,"ECAT563, ECAT190, ECAT220","ETWS802, ETWS710"
+CSTM87950,Ajiman Namaga,32,Laki-laki,Bitung,"ECAT460, ECAT220",ETWS818
+CSTM32188,Jelita Nashiruddin,39,Perempuan,Ternate,ECAT141,ETWS362
+CSTM22982,Bakiman Puspita,27,Laki-laki,Tebingtinggi,"ECAT190, ECAT141",ETWS669
+CSTM32033,Akarsana Zulaika,38,Laki-laki,Payakumbuh,"ECAT141, ECAT220","ETWS163, ETWS426"
+CSTM30746,Galang Dewi Pradipta,40,Laki-laki,Purwokerto,"ECAT220, ECAT141, ECAT460","ETWS892, ETWS868"
+CSTM81637,Irfan Gunawan,36,Laki-laki,Sabang,ECAT563,"ETWS669, ETWS219"
+CSTM80765,Yani Darsirah Lestari,38,Perempuan,Tasikmalaya,"ECAT220, ECAT772, ECAT190",ETWS427
+CSTM38564,Luis Widodo,36,Laki-laki,Bogor,"ECAT220, ECAT772",ETWS881
+CSTM04987,Nrima Ghaliyati Puspasari,19,Laki-laki,Balikpapan,"ECAT220, ECAT563","ETWS592, ETWS271"
+CSTM18603,Kamila Aryani,36,Perempuan,Tangerang,ECAT460,ETWS406
+CSTM08227,Gilang Prayoga,27,Laki-laki,Balikpapan,"ECAT460, ECAT772",ETWS663
+CSTM24034,Dalima Pandu Waluyo,24,Perempuan,Surabaya,"ECAT220, ECAT460","ETWS441, ETWS575"
+CSTM84876,Karya Rajata,19,Laki-laki,Kediri,ECAT190,"ETWS830, ETWS391"
+CSTM98789,Lembah Cawisadi Uyainah,35,Laki-laki,Mataram,ECAT190,"ETWS097, ETWS103"
+CSTM05331,Vanya Asmuni Tarihoran,36,Perempuan,Palangkaraya,"ECAT190, ECAT772, ECAT220",ETWS289
+CSTM23210,Gaduh Saptono,40,Laki-laki,Bitung,ECAT141,ETWS617
+CSTM49765,Ida Unjani Napitupulu,36,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT772, ECAT141",ETWS673
+CSTM46500,Cakrabirawa Timbul Maulana,40,Laki-laki,Cimahi,ECAT141,"ETWS496, ETWS057"
+CSTM75253,Abyasa Nuraini,32,Laki-laki,Langsa,"ECAT190, ECAT141, ECAT220","ETWS897, ETWS710"
+CSTM96209,Cakrawala Rajasa,26,Laki-laki,Bandar Lampung,"ECAT141, ECAT460","ETWS343, ETWS209"
+CSTM01825,Lukman Handayani,40,Laki-laki,Tanjungpinang,"ECAT190, ECAT772",ETWS899
+CSTM87453,Eman Karsa Zulkarnain,23,Laki-laki,Tomohon,"ECAT460, ECAT563, ECAT220","ETWS504, ETWS714"
+CSTM67949,Aurora Warta Susanti,37,Perempuan,Bekasi,ECAT460,"ETWS663, ETWS785"
+CSTM63323,Indah Garda Nababan,16,Perempuan,Langsa,"ECAT772, ECAT220",ETWS263
+CSTM69419,Balangga Dinda Usada,25,Laki-laki,Bima,"ECAT772, ECAT190, ECAT563",ETWS279
+CSTM42457,Gilda Kasiyah Marbun,39,Perempuan,Pontianak,"ECAT141, ECAT772, ECAT190",ETWS575
+CSTM39988,Gamanto Nurdiyanti,35,Laki-laki,Sibolga,ECAT563,"ETWS304, ETWS388"
+CSTM85124,Azalea Pangestu,27,Perempuan,Pasuruan,"ECAT563, ECAT141","ETWS014, ETWS209"
+CSTM36896,Icha Narji Permadi,39,Perempuan,Banda Aceh,"ECAT460, ECAT772",ETWS663
+CSTM50488,Harjasa Galang Rahimah,33,Laki-laki,Tidore Kepulauan,"ECAT460, ECAT220",ETWS187
+CSTM11845,Warta Raden Januar,35,Laki-laki,Bau-Bau,"ECAT141, ECAT460, ECAT772","ETWS893, ETWS710"
+CSTM59860,Raditya Dariati Sudiati,33,Laki-laki,Samarinda,"ECAT772, ECAT190",ETWS118
+CSTM45916,Saadat Radit Waskita,26,Laki-laki,Sungai Penuh,"ECAT563, ECAT220","ETWS497, ETWS152"
+CSTM86848,Cindy Riyanti,25,Perempuan,Meulaboh,ECAT220,ETWS653
+CSTM53902,Indah Suryatmi,19,Perempuan,Probolinggo,"ECAT220, ECAT460, ECAT141",ETWS756
+CSTM82732,Gadang Halima Puspasari,19,Laki-laki,Palopo,"ECAT190, ECAT220, ECAT460",ETWS714
+CSTM57916,Elvina Dariati Farida,39,Perempuan,Malang,ECAT772,ETWS871
+CSTM81763,Irma Yulianti,38,Perempuan,Pematangsiantar,"ECAT772, ECAT190",ETWS574
+CSTM43616,Hasna Balapati Uyainah,18,Perempuan,Pangkalpinang,ECAT563,"ETWS205, ETWS818"
+CSTM39855,Lembah Atmaja Rajata,31,Laki-laki,Sorong,"ECAT563, ECAT220, ECAT190",ETWS139
+CSTM26235,Jagapati Suryatmi,21,Laki-laki,Bontang,ECAT772,"ETWS287, ETWS251"
+CSTM13192,Victoria Icha Riyanti,40,Perempuan,Palembang,ECAT460,ETWS901
+CSTM88216,Eva Slamet Nurdiyanti,37,Perempuan,Cilegon,ECAT460,"ETWS532, ETWS064"
+CSTM33227,Ian Putra,25,Laki-laki,Padangpanjang,"ECAT141, ECAT460, ECAT563","ETWS818, ETWS477"
+CSTM61312,Gina Emin Usada,23,Perempuan,Surabaya,ECAT190,"ETWS665, ETWS876"
+CSTM01402,Melinda Darmanto Rahmawati,21,Perempuan,Lubuklinggau,"ECAT190, ECAT220","ETWS735, ETWS596"
+CSTM86469,Irma Mustofa,22,Perempuan,Cimahi,"ECAT563, ECAT141","ETWS673, ETWS450"
+CSTM42958,Genta Aris Nasyidah,28,Perempuan,Lhokseumawe,"ECAT460, ECAT220, ECAT190","ETWS874, ETWS805"
+CSTM22704,Purwanto Rangga Fujiati,20,Laki-laki,Kendari,"ECAT563, ECAT141, ECAT220","ETWS197, ETWS043"
+CSTM66071,Wardi Simbolon,28,Laki-laki,Sibolga,ECAT772,ETWS130
+CSTM56902,Rahmi Sitompul,31,Perempuan,Kediri,"ECAT772, ECAT190, ECAT563","ETWS460, ETWS846"
+CSTM46088,Latika Ida Nasyidah,36,Perempuan,Tual,"ECAT190, ECAT772",ETWS035
+CSTM56280,Dian Jamal Saputra,27,Perempuan,Salatiga,"ECAT460, ECAT220, ECAT772","ETWS696, ETWS157"
+CSTM63369,Dalima Megantara,38,Perempuan,Mataram,ECAT220,ETWS616
+CSTM93484,Ajeng Nabila Purwanti,40,Perempuan,Depok,ECAT141,ETWS012
+CSTM51302,Febi Malik Wijayanti,32,Perempuan,Manado,"ECAT220, ECAT772, ECAT460","ETWS755, ETWS448"
+CSTM38474,Mustika Nasyidah,19,Laki-laki,Kediri,ECAT220,"ETWS663, ETWS330"
+CSTM49658,Karimah Vero Mayasari,32,Perempuan,Kotamobagu,"ECAT220, ECAT460",ETWS986
+CSTM92386,Arta Pradana,23,Laki-laki,Pontianak,"ECAT460, ECAT190, ECAT772",ETWS945
+CSTM96296,Eluh Suryono,29,Laki-laki,Tarakan,"ECAT190, ECAT460, ECAT220","ETWS436, ETWS101"
+CSTM41955,Bakidin Enteng Laksmiwati,33,Laki-laki,Tanjungpinang,"ECAT220, ECAT190",ETWS303
+CSTM80140,Mulya Ibun Prayoga,40,Laki-laki,Denpasar,"ECAT220, ECAT141, ECAT190",ETWS634
+CSTM27930,Pranawa Ismail Fujiati,25,Laki-laki,Jambi,"ECAT220, ECAT460","ETWS487, ETWS409"
+CSTM66329,Amalia Sabar Namaga,35,Perempuan,Pematangsiantar,"ECAT460, ECAT563, ECAT220",ETWS998
+CSTM98879,Wardaya Mutia Lestari,16,Laki-laki,Bandar Lampung,ECAT772,ETWS224
+CSTM47397,Gangsar Hutapea,40,Laki-laki,Padang,ECAT563,"ETWS895, ETWS152"
+CSTM43493,Jaya Chelsea Hutasoit,18,Laki-laki,Bontang,ECAT190,"ETWS039, ETWS450"
+CSTM08370,Victoria Mulyanto Irawan,38,Perempuan,Surakarta,"ECAT772, ECAT141, ECAT220",ETWS604
+CSTM21695,Empluk Oni Palastri,16,Laki-laki,Padang Sidempuan,ECAT190,ETWS267
+CSTM38634,Nasrullah Gaiman Padmasari,39,Laki-laki,Bima,"ECAT220, ECAT772, ECAT563",ETWS616
+CSTM51601,Jaya Adikara Samosir,28,Laki-laki,Bekasi,"ECAT460, ECAT141","ETWS696, ETWS591"
+CSTM25217,Mariadi Atmaja Pradipta,20,Laki-laki,Tangerang,"ECAT190, ECAT460, ECAT563",ETWS895
+CSTM04218,Chandra Wasita,36,Laki-laki,Metro,"ECAT220, ECAT190, ECAT772",ETWS251
+CSTM88214,Icha Satya Pranowo,37,Perempuan,Sabang,"ECAT772, ECAT141","ETWS805, ETWS831"
+CSTM60425,Irma Hassanah,28,Perempuan,Madiun,"ECAT772, ECAT563, ECAT141",ETWS020
+CSTM37245,Mahmud Gangsar Firgantoro,38,Laki-laki,Metro,"ECAT772, ECAT190",ETWS818
+CSTM03407,Malik Ganda Iswahyudi,22,Laki-laki,Tanjungpinang,"ECAT190, ECAT460","ETWS669, ETWS186"
+CSTM95870,Baktiadi Sihombing,40,Laki-laki,Balikpapan,"ECAT460, ECAT190, ECAT563","ETWS504, ETWS696"
+CSTM63037,Nadine Simanjuntak,28,Perempuan,Makassar,"ECAT460, ECAT190",ETWS735
+CSTM34310,Jail Devi Prastuti,32,Laki-laki,Tomohon,ECAT141,ETWS043
+CSTM61304,Salman Yolanda,37,Laki-laki,Pangkalpinang,"ECAT141, ECAT772","ETWS985, ETWS186"
+CSTM37606,Hardana Hassanah,32,Laki-laki,Batam,"ECAT563, ECAT460","ETWS582, ETWS335"
+CSTM63186,Ayu Pradana,30,Perempuan,Purwokerto,ECAT563,"ETWS771, ETWS959"
+CSTM83030,Jagaraga Anggriawan,26,Laki-laki,Sorong,"ECAT772, ECAT563",ETWS985
+CSTM73758,Ganep Surya Agustina,16,Laki-laki,Semarang,"ECAT460, ECAT190, ECAT563","ETWS753, ETWS205"
+CSTM46234,Ganjaran Rangga Hariyah,20,Laki-laki,Kotamobagu,"ECAT460, ECAT772, ECAT563","ETWS035, ETWS497"

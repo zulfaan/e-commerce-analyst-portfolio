@@ -9,15 +9,15 @@ class TransformTokpedExportData(luigi.Task):
         return ExtractTokpedExsportData(), ExtractTokpedStockExsportData()
     
     def output(self):
-        BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "transform-data"))
-        os.makedirs(BASE_DIR, exist_ok=True)  # Pastikan folder ada
+        BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'clean-data'))
+        os.makedirs(BASE_DIR, exist_ok=True)
 
         return [
-            luigi.LocalTarget(os.path.join(BASE_DIR, "data_product_exsport.csv")),
-            luigi.LocalTarget(os.path.join(BASE_DIR, "data_stock_exsport.csv")),
-            luigi.LocalTarget(os.path.join(BASE_DIR, "data_name_exsport.csv")),
-            luigi.LocalTarget(os.path.join(BASE_DIR, "data_color_exsport.csv")),
-            luigi.LocalTarget(os.path.join(BASE_DIR, "data_category_exsport.csv"))
+            luigi.LocalTarget(os.path.join(BASE_DIR, 'data_product_exsport.csv')),
+            luigi.LocalTarget(os.path.join(BASE_DIR, 'data_stock_exsport.csv')),
+            luigi.LocalTarget(os.path.join(BASE_DIR, 'data_name_exsport.csv')),
+            luigi.LocalTarget(os.path.join(BASE_DIR, 'data_color_exsport.csv')),
+            luigi.LocalTarget(os.path.join(BASE_DIR, 'data_category_exsport.csv'))
         ]
     
     def run(self):
@@ -63,7 +63,7 @@ class TransformTokpedExportData(luigi.Task):
         df_product['sold'] = df_product['sold'].fillna('0')
         df_product['sold'] = df_product['sold'].str.replace(' terjual', '').str.strip().astype(str)
         df_product['sold'] = df_product['sold'].str.replace('+', '').astype(int)
-        df_product['rating'] = df_product['rating'].fillna('No Discount')
+        df_product['rating'] = df_product['rating'].fillna('No Rating')
         df_product = df_product[['product_id', 'color_id', 'price_original', 'price_sale', 'discount', 'sold', 'rating']]
 
         # Transformasi df_stock
@@ -76,7 +76,6 @@ class TransformTokpedExportData(luigi.Task):
         df_stock = df_stock[['product_id', 'category_id', 'color_id', 'stock']]
 
         # Menyimpan data
-        os.makedirs('transform-data', exist_ok=True)
         df_product.to_csv(self.output()[0].path, index=False)
         df_stock.to_csv(self.output()[1].path, index=False)
         df_name.to_csv(self.output()[2].path, index=False)
