@@ -1,0 +1,1001 @@
+customer_ID,name,age,gender,location,browsing_history,purchase_history,customer_segment,avg_order_value,holiday
+CSTM775,Galuh,56,Laki-laki,Bekasi,"ECAT293, ECAT815","ECAT293, ECAT815",Frequent Buyer,1562355.46,Tahun Baru
+CSTM365,Raisa,19,Perempuan,Blitar,ECAT815,ECAT815,Frequent Buyer,53725.27,Lebaran
+CSTM633,Putri,54,Perempuan,Pangkalpinang,ECAT293,ECAT293,Occasional Shopper,2198016.0,Imlek
+CSTM067,Bakianto,21,Laki-laki,Sorong,"ECAT598, ECAT293, ECAT815","ECAT293, ECAT815",High Spender,3802328.47,Natal
+CSTM763,Jais,60,Laki-laki,Bengkulu,ECAT293,ECAT293,Bargain Hunter,2607482.62,Lebaran
+CSTM341,Humaira,31,Perempuan,Mojokerto,ECAT288,ECAT288,Bargain Hunter,538213.89,Lebaran
+CSTM344,Makuta,39,Laki-laki,Pematangsiantar,ECAT638,ECAT638,Bargain Hunter,4007342.73,Natal
+CSTM276,Sabrina,42,Perempuan,Surakarta,"ECAT598, ECAT638, ECAT051",ECAT598,Frequent Buyer,1609633.79,Nyepi
+CSTM046,Jane,36,Perempuan,Ternate,ECAT598,ECAT598,Occasional Shopper,3447284.81,Tahun Baru
+CSTM796,Lasmono,29,Laki-laki,Tanjungpinang,"ECAT598, ECAT815",ECAT598,Occasional Shopper,2240290.7,Lebaran
+CSTM240,Garang,58,Laki-laki,Dumai,ECAT638,ECAT638,High Spender,996854.34,Natal
+CSTM304,Marsito,45,Laki-laki,Pematangsiantar,"ECAT051, ECAT293, ECAT598","ECAT598, ECAT293, ECAT051",Occasional Shopper,836967.41,Waisak
+CSTM837,Irma,32,Perempuan,Salatiga,ECAT051,ECAT051,Bargain Hunter,3999865.16,Waisak
+CSTM592,Luwar,45,Laki-laki,Kota Administrasi Jakarta Barat,ECAT293,ECAT293,Occasional Shopper,3478211.36,Imlek
+CSTM550,Diana,55,Perempuan,Makassar,ECAT598,ECAT598,Occasional Shopper,2559845.4,Natal
+CSTM648,Harjaya,39,Laki-laki,Jambi,"ECAT051, ECAT638",ECAT051,Occasional Shopper,4501400.73,Natal
+CSTM739,Bella,49,Perempuan,Kupang,"ECAT288, ECAT051",ECAT288,High Spender,1531619.57,Lebaran
+CSTM007,Prima,40,Laki-laki,Binjai,ECAT598,ECAT598,Bargain Hunter,168148.08,Nyepi
+CSTM122,Candrakanta,23,Laki-laki,Padangpanjang,"ECAT051, ECAT815",ECAT051,High Spender,596135.41,Lebaran
+CSTM795,Balijan,41,Laki-laki,Bima,"ECAT598, ECAT288, ECAT051","ECAT051, ECAT598",Occasional Shopper,1078569.14,Nyepi
+CSTM433,Novi,25,Perempuan,Pariaman,"ECAT051, ECAT288, ECAT598","ECAT051, ECAT598, ECAT288",Frequent Buyer,4981813.47,Lebaran
+CSTM479,Dipa,22,Laki-laki,Cimahi,"ECAT638, ECAT051",ECAT638,Frequent Buyer,805306.13,Natal
+CSTM880,Kasiyah,23,Perempuan,Blitar,"ECAT598, ECAT293, ECAT815","ECAT293, ECAT598, ECAT815",High Spender,1835593.52,Tahun Baru
+CSTM579,Eluh,33,Laki-laki,Tidore Kepulauan,"ECAT288, ECAT598","ECAT598, ECAT288",Bargain Hunter,2492389.13,Lebaran
+CSTM087,Eli,32,Perempuan,Makassar,"ECAT293, ECAT051, ECAT598","ECAT598, ECAT293",High Spender,2387939.76,Lebaran
+CSTM983,Sari,56,Perempuan,Pagaralam,"ECAT598, ECAT051, ECAT815","ECAT051, ECAT815",Bargain Hunter,2183499.46,Nyepi
+CSTM350,Cagak,48,Laki-laki,Pariaman,ECAT051,ECAT051,Occasional Shopper,4594462.46,Lebaran
+CSTM201,Dipa,18,Laki-laki,Dumai,"ECAT051, ECAT598","ECAT598, ECAT051",Bargain Hunter,3608033.99,Imlek
+CSTM641,Clara,59,Perempuan,Padangpanjang,ECAT815,ECAT815,High Spender,1788476.52,Imlek
+CSTM256,Raden,37,Laki-laki,Cilegon,"ECAT598, ECAT638, ECAT293","ECAT598, ECAT638, ECAT293",Bargain Hunter,3557077.09,Imlek
+CSTM530,Cagak,46,Laki-laki,Kupang,"ECAT815, ECAT288, ECAT638","ECAT815, ECAT638",High Spender,2113442.45,Waisak
+CSTM591,Asman,44,Laki-laki,Tebingtinggi,"ECAT638, ECAT293, ECAT815","ECAT815, ECAT638",Occasional Shopper,962270.54,Tahun Baru
+CSTM176,Cawisono,58,Laki-laki,Sukabumi,"ECAT051, ECAT638",ECAT638,Occasional Shopper,2715542.5,Natal
+CSTM044,Asirwada,19,Laki-laki,Tebingtinggi,"ECAT293, ECAT051, ECAT638","ECAT051, ECAT638, ECAT293",High Spender,4932661.84,Natal
+CSTM596,Bala,22,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT815, ECAT293","ECAT815, ECAT293",Occasional Shopper,2996133.73,Natal
+CSTM405,Ira,37,Perempuan,Prabumulih,ECAT815,ECAT815,Bargain Hunter,2466747.53,Natal
+CSTM659,Dewi,22,Perempuan,Payakumbuh,"ECAT815, ECAT638",ECAT638,Bargain Hunter,1225878.96,Waisak
+CSTM094,Natalia,59,Perempuan,Jambi,"ECAT293, ECAT598, ECAT051","ECAT051, ECAT293",High Spender,523938.81,Natal
+CSTM959,Latif,45,Laki-laki,Batu,"ECAT598, ECAT288, ECAT293",ECAT598,Bargain Hunter,1023595.78,Lebaran
+CSTM619,Bakijan,23,Laki-laki,Pangkalpinang,"ECAT293, ECAT051",ECAT293,Frequent Buyer,1954430.29,Imlek
+CSTM317,Oliva,42,Perempuan,Tarakan,ECAT293,ECAT293,High Spender,473364.01,Nyepi
+CSTM013,Mustika,31,Laki-laki,Pekalongan,ECAT598,ECAT598,Bargain Hunter,710017.51,Imlek
+CSTM856,Dwi,24,Laki-laki,Binjai,"ECAT638, ECAT293, ECAT288","ECAT638, ECAT288, ECAT293",Frequent Buyer,3692332.06,Natal
+CSTM263,Ratih,60,Perempuan,Semarang,"ECAT598, ECAT288, ECAT815","ECAT288, ECAT815",Occasional Shopper,4572129.43,Nyepi
+CSTM157,Muhammad,33,Laki-laki,Padang Sidempuan,ECAT815,ECAT815,Frequent Buyer,4882596.47,Nyepi
+CSTM977,Hasim,43,Laki-laki,Pekalongan,ECAT815,ECAT815,High Spender,4946760.97,Tahun Baru
+CSTM886,Bagya,56,Laki-laki,Banjarmasin,"ECAT638, ECAT815","ECAT638, ECAT815",High Spender,4102299.07,Natal
+CSTM151,Kartika,20,Perempuan,Tual,"ECAT598, ECAT638, ECAT288","ECAT638, ECAT598, ECAT288",Frequent Buyer,3045673.44,Nyepi
+CSTM907,Kezia,57,Perempuan,Balikpapan,"ECAT288, ECAT293, ECAT815",ECAT288,Occasional Shopper,2971273.92,Natal
+CSTM221,Usman,44,Laki-laki,Pekalongan,ECAT293,ECAT293,High Spender,1397774.49,Lebaran
+CSTM657,Raihan,58,Laki-laki,Tasikmalaya,ECAT638,ECAT638,High Spender,3384487.62,Natal
+CSTM624,Kunthara,51,Laki-laki,Kota Administrasi Jakarta Utara,ECAT638,ECAT638,Bargain Hunter,4286180.13,Lebaran
+CSTM100,Janet,36,Perempuan,Bogor,"ECAT638, ECAT051, ECAT598","ECAT051, ECAT598, ECAT638",High Spender,1860866.35,Tahun Baru
+CSTM826,Betania,23,Perempuan,Pekalongan,"ECAT815, ECAT638, ECAT293",ECAT293,Frequent Buyer,4890136.96,Waisak
+CSTM263,Karsana,55,Laki-laki,Lhokseumawe,"ECAT288, ECAT051",ECAT051,Frequent Buyer,3515531.07,Nyepi
+CSTM526,Restu,37,Perempuan,Payakumbuh,"ECAT293, ECAT598","ECAT293, ECAT598",Frequent Buyer,94720.6,Tahun Baru
+CSTM589,Umay,57,Laki-laki,Blitar,"ECAT815, ECAT293, ECAT598","ECAT815, ECAT293",Bargain Hunter,3319456.77,Tahun Baru
+CSTM926,Harjaya,44,Laki-laki,Tanjungpinang,"ECAT638, ECAT051, ECAT815",ECAT638,High Spender,1844974.04,Imlek
+CSTM978,Jaeman,44,Laki-laki,Sorong,"ECAT293, ECAT051",ECAT293,Bargain Hunter,2712421.03,Natal
+CSTM341,Faizah,38,Perempuan,Bandung,"ECAT638, ECAT288","ECAT288, ECAT638",Occasional Shopper,1768339.91,Waisak
+CSTM232,Balidin,26,Laki-laki,Depok,"ECAT051, ECAT598, ECAT815","ECAT051, ECAT815",Bargain Hunter,648890.54,Nyepi
+CSTM003,Daliono,42,Laki-laki,Metro,"ECAT815, ECAT293, ECAT638","ECAT293, ECAT815",Frequent Buyer,1527756.75,Imlek
+CSTM034,Gatra,44,Laki-laki,Pontianak,ECAT051,ECAT051,Occasional Shopper,4493079.82,Nyepi
+CSTM070,Michelle,40,Perempuan,Sorong,ECAT288,ECAT288,Bargain Hunter,3018917.38,Nyepi
+CSTM753,Septi,27,Perempuan,Cilegon,"ECAT598, ECAT288, ECAT638","ECAT288, ECAT638, ECAT598",Frequent Buyer,4237547.57,Imlek
+CSTM952,Pranawa,59,Laki-laki,Gorontalo,"ECAT051, ECAT293, ECAT598","ECAT051, ECAT293, ECAT598",High Spender,4967656.46,Imlek
+CSTM024,Tiara,58,Perempuan,Bogor,"ECAT598, ECAT815, ECAT288","ECAT815, ECAT288, ECAT598",Occasional Shopper,3237865.7,Natal
+CSTM865,Gading,52,Laki-laki,Pagaralam,"ECAT293, ECAT051",ECAT293,Frequent Buyer,2179781.49,Lebaran
+CSTM330,Cornelia,39,Perempuan,Langsa,ECAT051,ECAT051,High Spender,461935.03,Imlek
+CSTM268,Okto,49,Laki-laki,Singkawang,"ECAT815, ECAT598, ECAT293",ECAT293,Frequent Buyer,4357351.71,Tahun Baru
+CSTM466,Eli,41,Perempuan,Parepare,"ECAT288, ECAT051, ECAT638","ECAT638, ECAT288, ECAT051",High Spender,357706.08,Imlek
+CSTM630,Kasiyah,28,Perempuan,Cimahi,ECAT288,ECAT288,Occasional Shopper,2233409.78,Tahun Baru
+CSTM634,Ulya,58,Perempuan,Lhokseumawe,ECAT288,ECAT288,Bargain Hunter,3194756.58,Imlek
+CSTM302,Mulya,56,Laki-laki,Manado,ECAT293,ECAT293,Bargain Hunter,2988575.9,Lebaran
+CSTM554,Panji,47,Laki-laki,Bima,"ECAT638, ECAT293, ECAT815","ECAT815, ECAT638, ECAT293",Bargain Hunter,420057.05,Nyepi
+CSTM639,Mujur,21,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT598, ECAT288",ECAT598,Frequent Buyer,4052004.89,Waisak
+CSTM425,Candra,25,Laki-laki,Bukittinggi,"ECAT051, ECAT815","ECAT815, ECAT051",High Spender,1861130.04,Waisak
+CSTM665,Mahfud,32,Laki-laki,Bekasi,ECAT638,ECAT638,Frequent Buyer,2889468.62,Nyepi
+CSTM076,Wirda,52,Perempuan,Bontang,"ECAT638, ECAT598, ECAT293","ECAT293, ECAT638",Occasional Shopper,3642230.03,Waisak
+CSTM843,Marsudi,56,Laki-laki,Parepare,"ECAT815, ECAT638, ECAT288","ECAT638, ECAT815, ECAT288",Occasional Shopper,3989217.55,Nyepi
+CSTM530,Gaman,59,Laki-laki,Kota Administrasi Jakarta Barat,ECAT815,ECAT815,Occasional Shopper,1764124.86,Waisak
+CSTM815,Violet,36,Perempuan,Metro,"ECAT815, ECAT051, ECAT288","ECAT051, ECAT288",High Spender,1515033.99,Lebaran
+CSTM081,Jasmin,50,Perempuan,Pekalongan,ECAT815,ECAT815,Bargain Hunter,827955.88,Tahun Baru
+CSTM464,Banawi,25,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT815, ECAT288",ECAT288,Frequent Buyer,3556672.69,Imlek
+CSTM522,Kamila,58,Perempuan,Pasuruan,"ECAT638, ECAT293, ECAT598","ECAT598, ECAT638",High Spender,3163056.73,Waisak
+CSTM331,Ganda,30,Laki-laki,Cimahi,"ECAT598, ECAT051, ECAT288",ECAT598,Bargain Hunter,2021129.51,Waisak
+CSTM786,Maras,49,Laki-laki,Lubuklinggau,ECAT638,ECAT638,Bargain Hunter,2832772.74,Nyepi
+CSTM113,Clara,52,Perempuan,Kotamobagu,"ECAT598, ECAT051","ECAT598, ECAT051",Frequent Buyer,2724892.54,Nyepi
+CSTM932,Warta,34,Laki-laki,Medan,"ECAT288, ECAT598","ECAT598, ECAT288",Bargain Hunter,3699763.13,Waisak
+CSTM429,Dasa,35,Laki-laki,Makassar,ECAT293,ECAT293,Frequent Buyer,4457760.75,Nyepi
+CSTM584,Kenes,33,Laki-laki,Bandung,"ECAT815, ECAT598, ECAT288",ECAT598,Bargain Hunter,2460535.86,Nyepi
+CSTM538,Syahrini,18,Perempuan,Mojokerto,ECAT288,ECAT288,High Spender,2565821.22,Tahun Baru
+CSTM141,Ophelia,41,Perempuan,Binjai,ECAT815,ECAT815,Occasional Shopper,780275.33,Waisak
+CSTM134,Sabar,18,Laki-laki,Sibolga,"ECAT815, ECAT293, ECAT638","ECAT293, ECAT638, ECAT815",High Spender,4000534.29,Lebaran
+CSTM622,Virman,24,Laki-laki,Bima,ECAT638,ECAT638,Bargain Hunter,1212964.48,Nyepi
+CSTM598,Perkasa,45,Laki-laki,Mojokerto,ECAT815,ECAT815,Occasional Shopper,391004.65,Natal
+CSTM816,Abyasa,39,Laki-laki,Tarakan,"ECAT815, ECAT598, ECAT293","ECAT598, ECAT293, ECAT815",Bargain Hunter,4059834.73,Lebaran
+CSTM807,Daryani,27,Laki-laki,Metro,ECAT293,ECAT293,Occasional Shopper,4256989.85,Tahun Baru
+CSTM984,Tasdik,43,Laki-laki,Kota Administrasi Jakarta Selatan,ECAT815,ECAT815,High Spender,2907685.84,Nyepi
+CSTM090,Hasta,35,Laki-laki,Sungai Penuh,ECAT638,ECAT638,Bargain Hunter,192466.73,Imlek
+CSTM605,Gading,25,Laki-laki,Palopo,"ECAT293, ECAT288, ECAT815",ECAT293,High Spender,3442831.52,Nyepi
+CSTM587,Elma,39,Perempuan,Batam,"ECAT051, ECAT598, ECAT638","ECAT051, ECAT638",High Spender,3139748.77,Lebaran
+CSTM614,Hasna,34,Perempuan,Payakumbuh,ECAT638,ECAT638,Occasional Shopper,1812315.0,Nyepi
+CSTM342,Raina,59,Perempuan,Pematangsiantar,"ECAT598, ECAT638","ECAT638, ECAT598",Frequent Buyer,817629.52,Lebaran
+CSTM727,Heryanto,40,Laki-laki,Bau-Bau,"ECAT638, ECAT051, ECAT288","ECAT288, ECAT051, ECAT638",High Spender,801575.63,Natal
+CSTM290,Samiah,26,Perempuan,Tidore Kepulauan,"ECAT288, ECAT815",ECAT815,Bargain Hunter,4536230.17,Waisak
+CSTM524,Vera,34,Perempuan,Kediri,"ECAT598, ECAT815, ECAT638","ECAT815, ECAT638, ECAT598",Bargain Hunter,4549075.05,Natal
+CSTM559,Sabar,27,Laki-laki,Bitung,"ECAT288, ECAT638","ECAT288, ECAT638",Bargain Hunter,2508074.22,Tahun Baru
+CSTM705,Almira,52,Perempuan,Kupang,"ECAT293, ECAT815","ECAT815, ECAT293",Frequent Buyer,4732917.01,Lebaran
+CSTM822,Jarwadi,24,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT288, ECAT598, ECAT638",ECAT598,High Spender,4738924.74,Lebaran
+CSTM102,Jaswadi,26,Laki-laki,Kota Administrasi Jakarta Timur,ECAT293,ECAT293,Bargain Hunter,4044433.36,Tahun Baru
+CSTM982,Juli,29,Perempuan,Mojokerto,"ECAT598, ECAT638, ECAT051","ECAT051, ECAT638",High Spender,447468.15,Imlek
+CSTM648,Hesti,38,Perempuan,Bandung,"ECAT293, ECAT638","ECAT293, ECAT638",Bargain Hunter,3650107.29,Tahun Baru
+CSTM115,Nabila,41,Perempuan,Bitung,"ECAT638, ECAT288, ECAT815",ECAT288,Occasional Shopper,4096228.31,Waisak
+CSTM914,Labuh,28,Laki-laki,Sungai Penuh,"ECAT293, ECAT815","ECAT293, ECAT815",Occasional Shopper,1034981.97,Natal
+CSTM179,Ani,41,Perempuan,Mataram,"ECAT815, ECAT638, ECAT293","ECAT293, ECAT638",High Spender,4288960.26,Nyepi
+CSTM981,Cagak,29,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT051, ECAT815",ECAT051,Occasional Shopper,3926310.59,Lebaran
+CSTM956,Ajimin,49,Laki-laki,Purwokerto,"ECAT293, ECAT815",ECAT815,Occasional Shopper,2444580.12,Tahun Baru
+CSTM533,Cinta,48,Perempuan,Malang,"ECAT815, ECAT051, ECAT293",ECAT293,High Spender,402270.61,Imlek
+CSTM592,Ajeng,38,Perempuan,Surakarta,ECAT638,ECAT638,High Spender,3101643.63,Tahun Baru
+CSTM985,Vera,43,Perempuan,Bandung,ECAT051,ECAT051,Frequent Buyer,734867.38,Natal
+CSTM823,Banawi,28,Laki-laki,Palangkaraya,"ECAT293, ECAT288","ECAT288, ECAT293",Frequent Buyer,4720850.32,Nyepi
+CSTM427,Lantar,19,Laki-laki,Pontianak,"ECAT815, ECAT051, ECAT638","ECAT638, ECAT051",Frequent Buyer,3345511.96,Tahun Baru
+CSTM203,Dono,28,Laki-laki,Sabang,"ECAT815, ECAT638",ECAT815,Bargain Hunter,1600601.68,Natal
+CSTM601,Abyasa,21,Laki-laki,Kediri,"ECAT293, ECAT815","ECAT815, ECAT293",Frequent Buyer,736403.98,Imlek
+CSTM739,Ida,57,Perempuan,Serang,"ECAT293, ECAT288, ECAT815","ECAT815, ECAT288, ECAT293",Occasional Shopper,4306414.28,Nyepi
+CSTM652,Okto,20,Laki-laki,Semarang,"ECAT293, ECAT815, ECAT288","ECAT815, ECAT288, ECAT293",Frequent Buyer,2993736.39,Nyepi
+CSTM860,Agnes,38,Perempuan,Bandar Lampung,"ECAT638, ECAT051, ECAT815","ECAT051, ECAT815, ECAT638",Occasional Shopper,1474020.54,Nyepi
+CSTM518,Jasmin,36,Perempuan,Bogor,ECAT051,ECAT051,Occasional Shopper,3899207.62,Lebaran
+CSTM658,Karja,38,Laki-laki,Surakarta,ECAT288,ECAT288,Occasional Shopper,963232.89,Tahun Baru
+CSTM321,Unjani,59,Perempuan,Bandar Lampung,ECAT288,ECAT288,Occasional Shopper,1469940.45,Lebaran
+CSTM978,Shakila,30,Perempuan,Purwokerto,ECAT051,ECAT051,High Spender,898680.27,Nyepi
+CSTM558,Ciaobella,50,Perempuan,Subulussalam,"ECAT598, ECAT815",ECAT815,High Spender,1224654.67,Lebaran
+CSTM661,Makuta,23,Laki-laki,Sungai Penuh,"ECAT815, ECAT598, ECAT288","ECAT598, ECAT815",High Spender,3427210.38,Tahun Baru
+CSTM820,Kasiyah,56,Perempuan,Sungai Penuh,"ECAT598, ECAT815","ECAT815, ECAT598",Occasional Shopper,543121.3,Tahun Baru
+CSTM721,Calista,46,Perempuan,Tanjungpinang,"ECAT293, ECAT051",ECAT051,Bargain Hunter,2029637.67,Lebaran
+CSTM235,Darmanto,35,Laki-laki,Surabaya,ECAT293,ECAT293,Occasional Shopper,4222404.16,Waisak
+CSTM327,Teguh,56,Laki-laki,Sorong,"ECAT598, ECAT051","ECAT051, ECAT598",Frequent Buyer,3664680.54,Waisak
+CSTM357,Ina,35,Perempuan,Sungai Penuh,ECAT288,ECAT288,Bargain Hunter,4696737.32,Nyepi
+CSTM806,Tantri,45,Perempuan,Sorong,ECAT293,ECAT293,Occasional Shopper,4514628.09,Lebaran
+CSTM986,Rini,27,Perempuan,Palopo,"ECAT638, ECAT598, ECAT051",ECAT051,Bargain Hunter,2113988.61,Lebaran
+CSTM939,Farhunnisa,39,Perempuan,Bukittinggi,"ECAT598, ECAT638, ECAT815",ECAT598,Bargain Hunter,2266724.18,Nyepi
+CSTM783,Nasrullah,20,Laki-laki,Lhokseumawe,ECAT598,ECAT598,Frequent Buyer,3285179.45,Lebaran
+CSTM814,Hartaka,39,Laki-laki,Tidore Kepulauan,"ECAT598, ECAT293, ECAT288","ECAT288, ECAT293, ECAT598",Occasional Shopper,4266369.73,Tahun Baru
+CSTM133,Mutia,25,Perempuan,Kota Administrasi Jakarta Utara,ECAT051,ECAT051,Bargain Hunter,2776011.61,Nyepi
+CSTM336,Praba,54,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT598, ECAT815","ECAT815, ECAT598",Bargain Hunter,4986100.56,Nyepi
+CSTM325,Novi,45,Perempuan,Pangkalpinang,"ECAT815, ECAT051","ECAT815, ECAT051",Occasional Shopper,2662480.16,Imlek
+CSTM960,Najib,34,Laki-laki,Lubuklinggau,ECAT815,ECAT815,Occasional Shopper,4810130.69,Lebaran
+CSTM785,Vanya,50,Perempuan,Dumai,ECAT815,ECAT815,High Spender,2146183.74,Waisak
+CSTM012,Ophelia,33,Perempuan,Tegal,ECAT815,ECAT815,Bargain Hunter,3108553.2,Tahun Baru
+CSTM282,Zelaya,34,Perempuan,Banjarbaru,"ECAT638, ECAT598",ECAT638,Bargain Hunter,2730593.19,Waisak
+CSTM175,Mulyanto,46,Laki-laki,Jambi,ECAT293,ECAT293,High Spender,1539473.06,Tahun Baru
+CSTM828,Gaman,53,Laki-laki,Padang Sidempuan,"ECAT288, ECAT293","ECAT288, ECAT293",Frequent Buyer,1977617.55,Nyepi
+CSTM246,Azalea,25,Perempuan,Pasuruan,"ECAT051, ECAT598",ECAT051,High Spender,3679329.15,Tahun Baru
+CSTM487,Raden,45,Laki-laki,Palembang,ECAT288,ECAT288,High Spender,2588992.9,Nyepi
+CSTM841,Umi,20,Perempuan,Bogor,"ECAT598, ECAT051, ECAT288","ECAT598, ECAT288",High Spender,2907079.92,Tahun Baru
+CSTM999,Chelsea,39,Perempuan,Binjai,"ECAT638, ECAT293, ECAT598","ECAT293, ECAT598",Bargain Hunter,2925035.36,Lebaran
+CSTM750,Amalia,24,Perempuan,Tangerang,"ECAT288, ECAT293","ECAT288, ECAT293",Bargain Hunter,2480707.69,Nyepi
+CSTM182,Nabila,24,Perempuan,Meulaboh,"ECAT598, ECAT293, ECAT051","ECAT293, ECAT598",Bargain Hunter,1841493.25,Waisak
+CSTM946,Digdaya,33,Laki-laki,Padang,ECAT598,ECAT598,Occasional Shopper,679146.5,Waisak
+CSTM614,Paramita,43,Perempuan,Palu,ECAT288,ECAT288,Frequent Buyer,3353037.77,Nyepi
+CSTM932,Simon,24,Laki-laki,Kota Administrasi Jakarta Selatan,ECAT598,ECAT598,High Spender,4437922.26,Waisak
+CSTM568,Faizah,21,Perempuan,Ambon,"ECAT051, ECAT598, ECAT288","ECAT598, ECAT288",High Spender,4750899.34,Tahun Baru
+CSTM777,Salsabila,31,Perempuan,Singkawang,ECAT293,ECAT293,Bargain Hunter,1744883.13,Imlek
+CSTM506,Garang,25,Laki-laki,Kendari,"ECAT598, ECAT638",ECAT638,High Spender,4581531.5,Natal
+CSTM354,Ivan,35,Laki-laki,Surakarta,ECAT288,ECAT288,Bargain Hunter,4129506.85,Natal
+CSTM135,Widya,52,Perempuan,Salatiga,ECAT638,ECAT638,Frequent Buyer,873389.91,Imlek
+CSTM226,Jaiman,41,Laki-laki,Lubuklinggau,ECAT288,ECAT288,Frequent Buyer,2928267.81,Natal
+CSTM754,Hairyanto,45,Laki-laki,Parepare,"ECAT638, ECAT815, ECAT293","ECAT815, ECAT293",Occasional Shopper,2304577.22,Tahun Baru
+CSTM539,Elon,38,Laki-laki,Banda Aceh,ECAT288,ECAT288,High Spender,2432813.48,Natal
+CSTM651,Mutia,60,Perempuan,Subulussalam,"ECAT638, ECAT293",ECAT293,Bargain Hunter,1315094.76,Lebaran
+CSTM735,Raina,33,Perempuan,Tangerang,"ECAT293, ECAT815, ECAT288",ECAT815,Frequent Buyer,1979433.31,Tahun Baru
+CSTM843,Ika,45,Perempuan,Manado,"ECAT293, ECAT288, ECAT598","ECAT293, ECAT598",Bargain Hunter,1865461.41,Nyepi
+CSTM179,Hasna,35,Perempuan,Lhokseumawe,"ECAT288, ECAT638","ECAT638, ECAT288",Occasional Shopper,4823846.15,Tahun Baru
+CSTM864,Febi,29,Perempuan,Palangkaraya,ECAT598,ECAT598,Occasional Shopper,1114089.24,Imlek
+CSTM193,Vega,42,Laki-laki,Lhokseumawe,"ECAT815, ECAT293","ECAT293, ECAT815",Occasional Shopper,4608727.21,Natal
+CSTM046,Yulia,45,Perempuan,Banjarmasin,ECAT288,ECAT288,Occasional Shopper,2323131.38,Nyepi
+CSTM445,Karen,45,Perempuan,Makassar,ECAT815,ECAT815,High Spender,4718114.62,Waisak
+CSTM796,Puti,21,Perempuan,Binjai,"ECAT815, ECAT051, ECAT638","ECAT815, ECAT051, ECAT638",Occasional Shopper,2460721.93,Imlek
+CSTM852,Saiful,25,Laki-laki,Palu,ECAT815,ECAT815,Frequent Buyer,4196108.29,Tahun Baru
+CSTM021,Umi,22,Perempuan,Tarakan,"ECAT598, ECAT288",ECAT598,Bargain Hunter,1062768.65,Imlek
+CSTM938,Ophelia,45,Perempuan,Bau-Bau,ECAT815,ECAT815,High Spender,4214258.56,Nyepi
+CSTM205,Ciaobella,32,Perempuan,Denpasar,"ECAT288, ECAT815","ECAT815, ECAT288",Occasional Shopper,491199.09,Tahun Baru
+CSTM556,Putu,31,Laki-laki,Kediri,"ECAT638, ECAT815","ECAT638, ECAT815",Frequent Buyer,3356447.79,Imlek
+CSTM612,Calista,33,Perempuan,Singkawang,ECAT051,ECAT051,Occasional Shopper,3948380.39,Nyepi
+CSTM121,Cakrawangsa,33,Laki-laki,Subulussalam,"ECAT051, ECAT638",ECAT051,High Spender,3141884.82,Lebaran
+CSTM361,Belinda,44,Perempuan,Bandar Lampung,ECAT638,ECAT638,High Spender,125522.32,Lebaran
+CSTM632,Natalia,30,Perempuan,Bogor,"ECAT293, ECAT051",ECAT293,High Spender,4321414.31,Waisak
+CSTM725,Fathonah,60,Perempuan,Semarang,"ECAT638, ECAT051","ECAT051, ECAT638",Bargain Hunter,4626528.45,Waisak
+CSTM965,Tina,53,Perempuan,Bandung,"ECAT051, ECAT293, ECAT598","ECAT598, ECAT293, ECAT051",Bargain Hunter,4605847.32,Imlek
+CSTM426,Ghaliyati,33,Perempuan,Bukittinggi,"ECAT638, ECAT051",ECAT638,Occasional Shopper,4965244.36,Imlek
+CSTM534,Asmadi,41,Laki-laki,Tanjungbalai,"ECAT288, ECAT638, ECAT598","ECAT288, ECAT638",Occasional Shopper,1066245.65,Natal
+CSTM203,Tantri,46,Perempuan,Kupang,"ECAT638, ECAT051, ECAT293","ECAT293, ECAT051",Occasional Shopper,269488.21,Tahun Baru
+CSTM520,Kanda,20,Laki-laki,Pangkalpinang,ECAT638,ECAT638,Bargain Hunter,3798846.84,Waisak
+CSTM450,Rafi,41,Laki-laki,Bau-Bau,"ECAT051, ECAT815",ECAT815,Frequent Buyer,1203027.47,Waisak
+CSTM591,Cornelia,59,Perempuan,Blitar,"ECAT815, ECAT598, ECAT638",ECAT598,Frequent Buyer,2733121.57,Imlek
+CSTM908,Ikhsan,32,Laki-laki,Palopo,"ECAT293, ECAT051",ECAT051,Bargain Hunter,1826604.15,Waisak
+CSTM686,Shakila,28,Perempuan,Padangpanjang,"ECAT638, ECAT051, ECAT293",ECAT638,Bargain Hunter,3813855.65,Nyepi
+CSTM558,Chandra,31,Laki-laki,Meulaboh,"ECAT638, ECAT051","ECAT051, ECAT638",Frequent Buyer,2987859.88,Waisak
+CSTM550,Jane,50,Perempuan,Magelang,"ECAT638, ECAT815, ECAT598","ECAT638, ECAT598",Bargain Hunter,4475629.74,Nyepi
+CSTM347,Maria,36,Perempuan,Samarinda,"ECAT293, ECAT815, ECAT638","ECAT638, ECAT815",Occasional Shopper,2287359.46,Waisak
+CSTM705,Setya,26,Laki-laki,Kediri,"ECAT288, ECAT293",ECAT288,Frequent Buyer,193616.84,Lebaran
+CSTM297,Dinda,19,Perempuan,Mojokerto,ECAT051,ECAT051,Frequent Buyer,3788099.2,Imlek
+CSTM959,Galar,29,Laki-laki,Serang,"ECAT293, ECAT288, ECAT815","ECAT293, ECAT815, ECAT288",Bargain Hunter,1569278.34,Lebaran
+CSTM848,Puji,50,Perempuan,Kendari,"ECAT051, ECAT815",ECAT815,High Spender,4209647.37,Tahun Baru
+CSTM446,Yunita,55,Perempuan,Tebingtinggi,ECAT638,ECAT638,Frequent Buyer,2894754.13,Imlek
+CSTM710,Purwa,48,Laki-laki,Probolinggo,"ECAT288, ECAT815",ECAT815,Frequent Buyer,2823153.83,Lebaran
+CSTM426,Gadang,31,Laki-laki,Padangpanjang,ECAT293,ECAT293,Frequent Buyer,677454.98,Lebaran
+CSTM928,Hilda,47,Perempuan,Payakumbuh,"ECAT815, ECAT638",ECAT638,Occasional Shopper,2452161.78,Natal
+CSTM220,Cemplunk,31,Laki-laki,Bekasi,ECAT288,ECAT288,Bargain Hunter,2019971.45,Tahun Baru
+CSTM852,Ulva,42,Perempuan,Tomohon,"ECAT293, ECAT815, ECAT288",ECAT815,Bargain Hunter,3557813.45,Waisak
+CSTM582,Lala,52,Perempuan,Sawahlunto,ECAT815,ECAT815,High Spender,2629400.15,Imlek
+CSTM409,Puji,41,Perempuan,Cimahi,"ECAT638, ECAT598, ECAT051",ECAT598,Bargain Hunter,2819881.58,Waisak
+CSTM287,Maimunah,57,Perempuan,Jambi,"ECAT288, ECAT815, ECAT598",ECAT288,Occasional Shopper,2081273.19,Tahun Baru
+CSTM596,Gada,19,Laki-laki,Kendari,ECAT815,ECAT815,Frequent Buyer,4579322.49,Natal
+CSTM772,Ilsa,40,Perempuan,Mojokerto,"ECAT288, ECAT598, ECAT051",ECAT051,Occasional Shopper,962561.93,Tahun Baru
+CSTM868,Ibun,60,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT815, ECAT293","ECAT293, ECAT815",Bargain Hunter,3617070.95,Natal
+CSTM276,Restu,19,Perempuan,Kupang,"ECAT815, ECAT051",ECAT051,Bargain Hunter,3801908.9,Imlek
+CSTM849,Kusuma,38,Laki-laki,Makassar,ECAT815,ECAT815,Frequent Buyer,4419531.46,Lebaran
+CSTM568,Tirtayasa,33,Laki-laki,Tasikmalaya,"ECAT051, ECAT288",ECAT051,High Spender,3337604.34,Nyepi
+CSTM666,Rafi,21,Laki-laki,Tanjungpinang,"ECAT293, ECAT815","ECAT815, ECAT293",High Spender,1771051.42,Imlek
+CSTM152,Jasmani,49,Laki-laki,Tanjungpinang,ECAT288,ECAT288,Bargain Hunter,2738296.57,Natal
+CSTM712,Sakura,20,Perempuan,Bima,"ECAT598, ECAT051, ECAT293","ECAT598, ECAT051",Frequent Buyer,4136044.78,Nyepi
+CSTM135,Jaya,51,Laki-laki,Gorontalo,"ECAT051, ECAT288",ECAT288,Occasional Shopper,589274.73,Nyepi
+CSTM448,Gawati,22,Perempuan,Palu,"ECAT293, ECAT638, ECAT815",ECAT293,Frequent Buyer,3295308.11,Lebaran
+CSTM134,Jaya,50,Laki-laki,Pontianak,ECAT288,ECAT288,Frequent Buyer,2810688.19,Nyepi
+CSTM069,Faizah,56,Perempuan,Cirebon,"ECAT288, ECAT051, ECAT598",ECAT288,Bargain Hunter,3174079.78,Waisak
+CSTM628,Wardi,30,Laki-laki,Kendari,ECAT598,ECAT598,High Spender,2205351.61,Imlek
+CSTM749,Belinda,27,Perempuan,Bukittinggi,"ECAT815, ECAT051",ECAT815,Bargain Hunter,4403204.22,Nyepi
+CSTM472,Kenzie,57,Laki-laki,Bima,"ECAT598, ECAT288, ECAT638","ECAT288, ECAT638",Bargain Hunter,4169279.08,Nyepi
+CSTM624,Raina,52,Perempuan,Solok,ECAT638,ECAT638,Frequent Buyer,3741102.45,Tahun Baru
+CSTM347,Limar,60,Laki-laki,Meulaboh,ECAT638,ECAT638,High Spender,1321786.19,Nyepi
+CSTM205,Suci,40,Perempuan,Banjar,"ECAT815, ECAT293, ECAT638","ECAT638, ECAT815, ECAT293",Frequent Buyer,4730160.74,Natal
+CSTM142,Bagas,25,Laki-laki,Palangkaraya,ECAT815,ECAT815,Occasional Shopper,513164.11,Tahun Baru
+CSTM623,Karta,37,Laki-laki,Sukabumi,"ECAT638, ECAT293","ECAT293, ECAT638",Occasional Shopper,4013055.78,Lebaran
+CSTM759,Genta,47,Perempuan,Kota Administrasi Jakarta Utara,ECAT638,ECAT638,Bargain Hunter,797190.18,Tahun Baru
+CSTM070,Victoria,54,Perempuan,Balikpapan,ECAT288,ECAT288,Bargain Hunter,1595473.83,Imlek
+CSTM465,Nilam,55,Perempuan,Samarinda,"ECAT815, ECAT293, ECAT638","ECAT638, ECAT293",Frequent Buyer,4622161.72,Waisak
+CSTM142,Julia,30,Perempuan,Kota Administrasi Jakarta Utara,"ECAT638, ECAT598, ECAT051",ECAT051,Frequent Buyer,3923842.35,Waisak
+CSTM102,Clara,28,Perempuan,Mojokerto,ECAT815,ECAT815,Occasional Shopper,1566833.4,Nyepi
+CSTM975,Melinda,39,Perempuan,Depok,"ECAT638, ECAT815",ECAT815,Frequent Buyer,3695470.55,Nyepi
+CSTM249,Kadir,34,Laki-laki,Pematangsiantar,ECAT293,ECAT293,Bargain Hunter,3169678.9,Waisak
+CSTM706,Dina,34,Perempuan,Kota Administrasi Jakarta Utara,ECAT288,ECAT288,High Spender,1364049.86,Tahun Baru
+CSTM013,Gilang,28,Laki-laki,Pangkalpinang,"ECAT293, ECAT598, ECAT815",ECAT598,Frequent Buyer,3010618.39,Tahun Baru
+CSTM587,Dalima,49,Perempuan,Kotamobagu,"ECAT051, ECAT288, ECAT293","ECAT293, ECAT288, ECAT051",Frequent Buyer,1857230.57,Natal
+CSTM599,Septi,40,Perempuan,Manado,ECAT293,ECAT293,Frequent Buyer,1159885.43,Nyepi
+CSTM691,Irnanto,50,Laki-laki,Jambi,ECAT815,ECAT815,High Spender,3902542.46,Tahun Baru
+CSTM894,Maida,50,Perempuan,Banjarbaru,"ECAT638, ECAT288, ECAT051","ECAT288, ECAT638, ECAT051",High Spender,450529.37,Waisak
+CSTM687,Martaka,47,Laki-laki,Pariaman,"ECAT293, ECAT598","ECAT293, ECAT598",High Spender,4108660.09,Tahun Baru
+CSTM111,Banara,53,Laki-laki,Prabumulih,ECAT598,ECAT598,Occasional Shopper,1923314.91,Imlek
+CSTM137,Fathonah,18,Perempuan,Tarakan,ECAT815,ECAT815,Occasional Shopper,2212713.63,Tahun Baru
+CSTM657,Lutfan,39,Laki-laki,Gorontalo,ECAT293,ECAT293,High Spender,1885253.18,Imlek
+CSTM061,Hamima,54,Perempuan,Tarakan,"ECAT815, ECAT051, ECAT293",ECAT293,Frequent Buyer,1981665.21,Tahun Baru
+CSTM284,Luthfi,54,Laki-laki,Medan,"ECAT598, ECAT293",ECAT598,Bargain Hunter,3124735.57,Lebaran
+CSTM527,Elma,35,Perempuan,Singkawang,"ECAT288, ECAT815, ECAT638",ECAT638,Bargain Hunter,3736472.95,Nyepi
+CSTM915,Juli,52,Perempuan,Tanjungpinang,ECAT598,ECAT598,Occasional Shopper,504024.53,Lebaran
+CSTM280,Prayoga,48,Laki-laki,Bukittinggi,ECAT598,ECAT598,Frequent Buyer,981508.35,Natal
+CSTM951,Lanang,58,Laki-laki,Sawahlunto,"ECAT598, ECAT815, ECAT288","ECAT598, ECAT815",Occasional Shopper,1247491.67,Tahun Baru
+CSTM498,Lulut,57,Laki-laki,Jambi,"ECAT815, ECAT293, ECAT288",ECAT815,Bargain Hunter,1274161.28,Nyepi
+CSTM840,Najib,35,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT598, ECAT293","ECAT598, ECAT293",Bargain Hunter,3995869.05,Imlek
+CSTM718,Nasim,41,Laki-laki,Pariaman,"ECAT288, ECAT638","ECAT288, ECAT638",High Spender,1292297.76,Waisak
+CSTM041,Hesti,38,Perempuan,Banjarbaru,"ECAT815, ECAT638, ECAT051","ECAT638, ECAT815, ECAT051",Frequent Buyer,2350955.85,Imlek
+CSTM880,Ganda,50,Laki-laki,Singkawang,"ECAT293, ECAT815",ECAT293,Bargain Hunter,250550.92,Waisak
+CSTM667,Parman,28,Laki-laki,Bandung,"ECAT638, ECAT598, ECAT288","ECAT598, ECAT638, ECAT288",High Spender,4710913.93,Natal
+CSTM720,Zelaya,40,Perempuan,Subulussalam,"ECAT638, ECAT598, ECAT815","ECAT638, ECAT815, ECAT598",Frequent Buyer,2964998.25,Natal
+CSTM153,Karsana,59,Laki-laki,Bau-Bau,ECAT288,ECAT288,Bargain Hunter,2682039.9,Lebaran
+CSTM828,Gandi,28,Laki-laki,Probolinggo,"ECAT051, ECAT288, ECAT815","ECAT288, ECAT051, ECAT815",Occasional Shopper,3889521.63,Imlek
+CSTM554,Jaya,26,Laki-laki,Yogyakarta,ECAT293,ECAT293,Bargain Hunter,1809885.09,Nyepi
+CSTM881,Lanjar,55,Laki-laki,Metro,"ECAT815, ECAT638","ECAT815, ECAT638",Frequent Buyer,4503748.6,Natal
+CSTM348,Narji,48,Laki-laki,Pariaman,ECAT051,ECAT051,Occasional Shopper,4245309.41,Natal
+CSTM929,Jamal,55,Laki-laki,Subulussalam,"ECAT598, ECAT638, ECAT815","ECAT598, ECAT815, ECAT638",Occasional Shopper,4441306.54,Natal
+CSTM764,Nadia,38,Perempuan,Mojokerto,"ECAT293, ECAT638, ECAT598","ECAT638, ECAT293, ECAT598",High Spender,1601835.89,Imlek
+CSTM086,Nova,36,Perempuan,Madiun,"ECAT598, ECAT638, ECAT293","ECAT293, ECAT598, ECAT638",High Spender,2796196.08,Waisak
+CSTM432,Eli,32,Perempuan,Cimahi,ECAT288,ECAT288,High Spender,2505429.54,Nyepi
+CSTM027,Liman,36,Laki-laki,Banjarmasin,"ECAT638, ECAT293, ECAT051","ECAT051, ECAT293, ECAT638",Bargain Hunter,1058942.71,Nyepi
+CSTM975,Nasrullah,19,Laki-laki,Bandung,"ECAT288, ECAT051, ECAT815",ECAT051,Bargain Hunter,2902408.76,Nyepi
+CSTM330,Sabar,53,Laki-laki,Semarang,ECAT293,ECAT293,Occasional Shopper,666735.78,Imlek
+CSTM657,Lurhur,45,Laki-laki,Jambi,"ECAT288, ECAT051","ECAT288, ECAT051",High Spender,3559593.34,Nyepi
+CSTM467,Icha,46,Perempuan,Madiun,"ECAT815, ECAT051, ECAT638",ECAT815,Bargain Hunter,385961.16,Lebaran
+CSTM284,Puput,31,Perempuan,Tarakan,"ECAT598, ECAT293","ECAT293, ECAT598",Frequent Buyer,4400966.7,Waisak
+CSTM495,Cakrawala,57,Laki-laki,Gorontalo,ECAT815,ECAT815,Bargain Hunter,2721281.03,Waisak
+CSTM536,Adinata,43,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT815, ECAT051, ECAT638","ECAT638, ECAT815",Bargain Hunter,4463844.26,Nyepi
+CSTM527,Cakrabuana,55,Laki-laki,Sabang,"ECAT293, ECAT051, ECAT288","ECAT288, ECAT051, ECAT293",High Spender,2794558.95,Natal
+CSTM246,Iriana,21,Perempuan,Tasikmalaya,"ECAT288, ECAT051, ECAT815","ECAT051, ECAT815",Occasional Shopper,2699521.28,Natal
+CSTM235,Bakiadi,28,Laki-laki,Sawahlunto,"ECAT598, ECAT288","ECAT598, ECAT288",High Spender,4797030.7,Lebaran
+CSTM595,Luhung,59,Laki-laki,Payakumbuh,"ECAT638, ECAT815","ECAT638, ECAT815",Frequent Buyer,3941580.12,Lebaran
+CSTM721,Uli,48,Perempuan,Balikpapan,ECAT638,ECAT638,Occasional Shopper,1210152.29,Tahun Baru
+CSTM890,Maryanto,50,Laki-laki,Banjar,"ECAT598, ECAT815",ECAT815,Frequent Buyer,3588503.28,Imlek
+CSTM114,Paramita,27,Perempuan,Blitar,"ECAT051, ECAT293","ECAT051, ECAT293",Frequent Buyer,1978289.38,Waisak
+CSTM860,Safina,32,Perempuan,Jambi,ECAT598,ECAT598,Bargain Hunter,4479567.31,Natal
+CSTM523,Cinthia,47,Perempuan,Kotamobagu,"ECAT815, ECAT293, ECAT638","ECAT638, ECAT815, ECAT293",Occasional Shopper,2784875.88,Imlek
+CSTM321,Pangeran,42,Laki-laki,Bontang,"ECAT293, ECAT598","ECAT293, ECAT598",Bargain Hunter,4323564.85,Nyepi
+CSTM129,Tiara,33,Perempuan,Sibolga,"ECAT598, ECAT815, ECAT051",ECAT051,High Spender,4542187.79,Waisak
+CSTM420,Yusuf,54,Laki-laki,Ternate,"ECAT051, ECAT288","ECAT288, ECAT051",High Spender,1340952.84,Waisak
+CSTM791,Perkasa,33,Laki-laki,Lhokseumawe,"ECAT598, ECAT293, ECAT051","ECAT293, ECAT598, ECAT051",Frequent Buyer,4790912.19,Natal
+CSTM903,Malika,47,Perempuan,Tebingtinggi,"ECAT598, ECAT293, ECAT288","ECAT598, ECAT288",Occasional Shopper,2373911.35,Lebaran
+CSTM112,Hamima,30,Perempuan,Ambon,"ECAT293, ECAT638",ECAT293,Frequent Buyer,2915516.05,Nyepi
+CSTM771,Ajeng,45,Perempuan,Tual,ECAT638,ECAT638,Occasional Shopper,4728044.66,Imlek
+CSTM022,Langgeng,41,Laki-laki,Denpasar,ECAT638,ECAT638,Occasional Shopper,2150645.98,Lebaran
+CSTM540,Martaka,50,Laki-laki,Bandar Lampung,"ECAT293, ECAT051",ECAT293,Frequent Buyer,4940892.95,Natal
+CSTM785,Artawan,25,Laki-laki,Manado,"ECAT598, ECAT293","ECAT598, ECAT293",Frequent Buyer,4485464.74,Waisak
+CSTM200,Iriana,37,Perempuan,Prabumulih,"ECAT598, ECAT293, ECAT815",ECAT293,High Spender,3201159.56,Lebaran
+CSTM330,Farhunnisa,59,Perempuan,Sungai Penuh,ECAT293,ECAT293,Occasional Shopper,1699531.42,Waisak
+CSTM546,Salman,57,Laki-laki,Bima,"ECAT598, ECAT638, ECAT293","ECAT638, ECAT293",Occasional Shopper,2649592.6,Lebaran
+CSTM940,Puji,58,Perempuan,Bandar Lampung,ECAT288,ECAT288,Occasional Shopper,697966.95,Nyepi
+CSTM246,Saadat,41,Laki-laki,Binjai,"ECAT288, ECAT598",ECAT598,Frequent Buyer,1951909.85,Nyepi
+CSTM818,Utama,36,Laki-laki,Serang,"ECAT598, ECAT638","ECAT598, ECAT638",Frequent Buyer,3927697.74,Nyepi
+CSTM594,Harja,59,Laki-laki,Payakumbuh,"ECAT293, ECAT051","ECAT293, ECAT051",Frequent Buyer,2706491.01,Imlek
+CSTM118,Nrima,45,Laki-laki,Probolinggo,"ECAT051, ECAT638, ECAT815","ECAT815, ECAT638",Bargain Hunter,1583051.44,Imlek
+CSTM750,Yessi,48,Perempuan,Dumai,"ECAT288, ECAT815, ECAT051",ECAT288,Frequent Buyer,3476635.67,Lebaran
+CSTM409,Paulin,52,Perempuan,Ambon,"ECAT051, ECAT288",ECAT051,Frequent Buyer,2773456.63,Imlek
+CSTM996,Aris,54,Laki-laki,Bekasi,ECAT293,ECAT293,Occasional Shopper,2662133.93,Imlek
+CSTM863,Chelsea,41,Perempuan,Lubuklinggau,"ECAT293, ECAT051","ECAT293, ECAT051",High Spender,775104.01,Waisak
+CSTM951,Intan,29,Perempuan,Sawahlunto,"ECAT051, ECAT288, ECAT598","ECAT598, ECAT051, ECAT288",Occasional Shopper,4802365.32,Nyepi
+CSTM289,Cemplunk,51,Laki-laki,Bogor,"ECAT598, ECAT288",ECAT288,High Spender,4295618.04,Nyepi
+CSTM319,Ilyas,60,Laki-laki,Surabaya,ECAT288,ECAT288,Occasional Shopper,1855581.14,Lebaran
+CSTM174,Opung,31,Laki-laki,Samarinda,"ECAT598, ECAT638",ECAT598,High Spender,1237374.22,Natal
+CSTM202,Emil,19,Laki-laki,Pasuruan,"ECAT051, ECAT598, ECAT815","ECAT815, ECAT051",High Spender,358901.21,Natal
+CSTM172,Atmaja,48,Laki-laki,Metro,"ECAT293, ECAT288",ECAT288,Frequent Buyer,1330649.04,Imlek
+CSTM180,Karimah,27,Perempuan,Bengkulu,"ECAT293, ECAT598","ECAT598, ECAT293",Bargain Hunter,1177933.18,Imlek
+CSTM911,Dadap,44,Laki-laki,Langsa,ECAT815,ECAT815,Frequent Buyer,2796908.15,Lebaran
+CSTM264,Okta,18,Laki-laki,Langsa,"ECAT815, ECAT051, ECAT293",ECAT051,Frequent Buyer,465586.77,Tahun Baru
+CSTM608,Hamima,30,Perempuan,Payakumbuh,"ECAT293, ECAT815, ECAT638","ECAT815, ECAT293",Frequent Buyer,959813.29,Lebaran
+CSTM764,Hana,22,Perempuan,Bogor,"ECAT293, ECAT598",ECAT293,High Spender,764909.07,Lebaran
+CSTM104,Hasim,32,Laki-laki,Batu,"ECAT598, ECAT051","ECAT051, ECAT598",Occasional Shopper,1263958.95,Waisak
+CSTM015,Eka,51,Perempuan,Pontianak,"ECAT815, ECAT288, ECAT051","ECAT815, ECAT051, ECAT288",Occasional Shopper,3301451.09,Tahun Baru
+CSTM411,Cici,53,Perempuan,Pagaralam,"ECAT293, ECAT051, ECAT638","ECAT638, ECAT051, ECAT293",Occasional Shopper,1145402.82,Natal
+CSTM607,Jamal,19,Laki-laki,Manado,"ECAT815, ECAT288, ECAT293","ECAT288, ECAT815",Occasional Shopper,3930849.94,Tahun Baru
+CSTM976,Kambali,57,Laki-laki,Tangerang Selatan,ECAT293,ECAT293,Bargain Hunter,2249308.22,Nyepi
+CSTM332,Eka,60,Perempuan,Pariaman,"ECAT638, ECAT598","ECAT638, ECAT598",Occasional Shopper,438902.55,Waisak
+CSTM240,Yuni,58,Perempuan,Pangkalpinang,"ECAT051, ECAT598","ECAT051, ECAT598",Bargain Hunter,2002411.46,Lebaran
+CSTM684,Dipa,39,Laki-laki,Pariaman,"ECAT288, ECAT638, ECAT051",ECAT638,Occasional Shopper,418181.78,Waisak
+CSTM202,Bakidin,31,Laki-laki,Malang,ECAT815,ECAT815,High Spender,208567.58,Nyepi
+CSTM672,Cakrabirawa,43,Laki-laki,Kota Administrasi Jakarta Timur,ECAT638,ECAT638,Frequent Buyer,1003614.63,Natal
+CSTM886,Warsa,53,Laki-laki,Mataram,ECAT293,ECAT293,High Spender,390540.51,Imlek
+CSTM145,Luthfi,51,Laki-laki,Padang Sidempuan,"ECAT288, ECAT051, ECAT638","ECAT288, ECAT051, ECAT638",Occasional Shopper,4945938.4,Lebaran
+CSTM162,Luluh,30,Laki-laki,Sukabumi,ECAT815,ECAT815,Occasional Shopper,4528246.02,Natal
+CSTM566,Janet,53,Perempuan,Tangerang,"ECAT051, ECAT815, ECAT288",ECAT051,Bargain Hunter,441059.84,Natal
+CSTM876,Waluyo,44,Laki-laki,Batu,ECAT051,ECAT051,Bargain Hunter,2657510.32,Nyepi
+CSTM232,Alika,45,Perempuan,Prabumulih,"ECAT288, ECAT598, ECAT293",ECAT288,High Spender,2045137.81,Waisak
+CSTM625,Cecep,21,Laki-laki,Pekalongan,"ECAT051, ECAT815","ECAT815, ECAT051",High Spender,3639338.97,Imlek
+CSTM732,Raditya,35,Laki-laki,Bogor,ECAT288,ECAT288,Occasional Shopper,4237545.9,Waisak
+CSTM925,Raharja,23,Laki-laki,Balikpapan,ECAT288,ECAT288,Occasional Shopper,4112189.93,Nyepi
+CSTM185,Simon,39,Laki-laki,Bontang,"ECAT815, ECAT051","ECAT815, ECAT051",Occasional Shopper,794345.05,Lebaran
+CSTM639,Shakila,37,Perempuan,Magelang,ECAT293,ECAT293,Occasional Shopper,2239980.38,Waisak
+CSTM014,Olivia,53,Perempuan,Batu,ECAT815,ECAT815,High Spender,426197.05,Natal
+CSTM324,Praba,32,Laki-laki,Sungai Penuh,"ECAT288, ECAT051","ECAT288, ECAT051",Occasional Shopper,2049624.97,Lebaran
+CSTM218,Wardaya,28,Laki-laki,Lhokseumawe,"ECAT288, ECAT051, ECAT598","ECAT288, ECAT051",High Spender,2741899.44,Nyepi
+CSTM804,Kezia,50,Perempuan,Palembang,ECAT288,ECAT288,Frequent Buyer,1835795.75,Tahun Baru
+CSTM216,Fitriani,55,Perempuan,Tasikmalaya,ECAT638,ECAT638,Frequent Buyer,122483.97,Imlek
+CSTM294,Atmaja,46,Laki-laki,Medan,"ECAT638, ECAT815",ECAT815,High Spender,3982612.2,Tahun Baru
+CSTM092,Joko,52,Laki-laki,Pangkalpinang,ECAT815,ECAT815,High Spender,774268.13,Imlek
+CSTM792,Candra,22,Laki-laki,Kendari,"ECAT815, ECAT293",ECAT815,Occasional Shopper,2734054.92,Natal
+CSTM801,Samiah,58,Perempuan,Sorong,ECAT293,ECAT293,Frequent Buyer,4910071.51,Lebaran
+CSTM177,Ina,36,Perempuan,Purwokerto,ECAT638,ECAT638,Frequent Buyer,4474509.58,Waisak
+CSTM659,Alambana,28,Laki-laki,Batam,"ECAT598, ECAT051","ECAT051, ECAT598",Occasional Shopper,2039692.8,Imlek
+CSTM516,Kenari,26,Laki-laki,Surabaya,"ECAT288, ECAT598, ECAT815","ECAT288, ECAT598, ECAT815",Occasional Shopper,3958698.28,Natal
+CSTM410,Gamblang,42,Laki-laki,Ambon,ECAT051,ECAT051,High Spender,2587676.51,Imlek
+CSTM816,Harimurti,57,Laki-laki,Bandar Lampung,"ECAT288, ECAT051, ECAT293","ECAT288, ECAT051, ECAT293",Bargain Hunter,833215.23,Nyepi
+CSTM408,Queen,57,Perempuan,Bogor,"ECAT288, ECAT638, ECAT815","ECAT638, ECAT815, ECAT288",High Spender,2586174.15,Tahun Baru
+CSTM026,Intan,21,Perempuan,Pekanbaru,"ECAT598, ECAT638, ECAT293","ECAT638, ECAT598, ECAT293",Bargain Hunter,1724097.13,Lebaran
+CSTM662,Nilam,59,Perempuan,Singkawang,"ECAT288, ECAT051, ECAT815","ECAT815, ECAT288",Occasional Shopper,2867698.97,Waisak
+CSTM454,Bahuwirya,49,Laki-laki,Pagaralam,"ECAT288, ECAT815, ECAT638","ECAT288, ECAT815",Frequent Buyer,4016354.61,Natal
+CSTM085,Zelaya,18,Perempuan,Bekasi,"ECAT638, ECAT598, ECAT288","ECAT288, ECAT638, ECAT598",Bargain Hunter,2056024.68,Tahun Baru
+CSTM750,Lembah,44,Laki-laki,Padang,"ECAT598, ECAT288, ECAT815","ECAT598, ECAT288, ECAT815",Occasional Shopper,341459.75,Waisak
+CSTM213,Simon,57,Laki-laki,Pariaman,"ECAT288, ECAT815","ECAT288, ECAT815",Bargain Hunter,2162194.01,Waisak
+CSTM940,Nrima,41,Laki-laki,Metro,ECAT051,ECAT051,Frequent Buyer,2904839.14,Tahun Baru
+CSTM779,Martana,58,Laki-laki,Tual,"ECAT815, ECAT598, ECAT288","ECAT598, ECAT815, ECAT288",High Spender,425061.14,Lebaran
+CSTM140,Prabu,30,Laki-laki,Malang,"ECAT815, ECAT051","ECAT815, ECAT051",Occasional Shopper,4727281.94,Tahun Baru
+CSTM221,Nova,56,Perempuan,Langsa,"ECAT288, ECAT815, ECAT293","ECAT288, ECAT293, ECAT815",Bargain Hunter,4361448.54,Waisak
+CSTM826,Almira,39,Perempuan,Sawahlunto,"ECAT293, ECAT598, ECAT638","ECAT638, ECAT293, ECAT598",High Spender,4657699.62,Imlek
+CSTM712,Irsad,34,Laki-laki,Tomohon,ECAT638,ECAT638,Bargain Hunter,1828642.8,Waisak
+CSTM245,Zizi,51,Perempuan,Surakarta,"ECAT815, ECAT598","ECAT598, ECAT815",Frequent Buyer,3687073.79,Tahun Baru
+CSTM425,Martana,47,Laki-laki,Tangerang Selatan,"ECAT293, ECAT598",ECAT293,Frequent Buyer,1630935.65,Imlek
+CSTM563,Rahmi,41,Perempuan,Purwokerto,"ECAT598, ECAT288","ECAT288, ECAT598",Frequent Buyer,4848746.65,Nyepi
+CSTM610,Lili,59,Perempuan,Bandar Lampung,ECAT288,ECAT288,Bargain Hunter,2935026.61,Waisak
+CSTM357,Galar,49,Laki-laki,Tual,"ECAT293, ECAT638, ECAT815",ECAT815,Frequent Buyer,3934778.7,Imlek
+CSTM655,Karsa,43,Laki-laki,Kota Administrasi Jakarta Utara,"ECAT293, ECAT815","ECAT815, ECAT293",Bargain Hunter,3716519.21,Tahun Baru
+CSTM241,Kiandra,18,Perempuan,Tangerang Selatan,"ECAT815, ECAT293","ECAT815, ECAT293",Bargain Hunter,3703024.34,Tahun Baru
+CSTM933,Vicky,22,Perempuan,Pariaman,"ECAT598, ECAT293","ECAT293, ECAT598",Bargain Hunter,3102910.59,Lebaran
+CSTM073,Indra,50,Laki-laki,Palopo,ECAT051,ECAT051,Frequent Buyer,1892972.34,Lebaran
+CSTM463,Ida,53,Perempuan,Palopo,ECAT815,ECAT815,Bargain Hunter,3947628.87,Nyepi
+CSTM591,Paulin,23,Perempuan,Padang,ECAT288,ECAT288,High Spender,3541438.62,Tahun Baru
+CSTM470,Zelaya,27,Perempuan,Purwokerto,ECAT288,ECAT288,Frequent Buyer,1161040.62,Waisak
+CSTM094,Cornelia,38,Perempuan,Magelang,"ECAT288, ECAT815",ECAT815,High Spender,3087562.53,Tahun Baru
+CSTM099,Daru,44,Laki-laki,Depok,"ECAT051, ECAT293, ECAT815","ECAT051, ECAT293",Frequent Buyer,3916080.78,Lebaran
+CSTM087,Yuni,40,Perempuan,Gorontalo,"ECAT638, ECAT598",ECAT638,High Spender,1731235.68,Natal
+CSTM781,Jono,30,Laki-laki,Surakarta,"ECAT288, ECAT815",ECAT288,High Spender,3955353.62,Nyepi
+CSTM341,Icha,51,Perempuan,Blitar,ECAT815,ECAT815,Frequent Buyer,857040.34,Imlek
+CSTM677,Putri,42,Perempuan,Banjarmasin,"ECAT293, ECAT598",ECAT293,Occasional Shopper,4069588.34,Waisak
+CSTM941,Cornelia,44,Perempuan,Pekalongan,ECAT051,ECAT051,Frequent Buyer,3493486.72,Natal
+CSTM792,Farah,43,Perempuan,Jambi,"ECAT288, ECAT051",ECAT288,High Spender,727850.28,Natal
+CSTM617,Wulan,38,Perempuan,Tomohon,"ECAT293, ECAT815, ECAT598","ECAT293, ECAT598, ECAT815",Bargain Hunter,4982017.9,Lebaran
+CSTM998,Prabu,23,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT293, ECAT815, ECAT638",ECAT638,Frequent Buyer,4563680.04,Nyepi
+CSTM523,Restu,55,Perempuan,Langsa,ECAT051,ECAT051,High Spender,1485568.6,Imlek
+CSTM739,Ika,60,Perempuan,Kupang,ECAT288,ECAT288,Frequent Buyer,2271051.0,Waisak
+CSTM585,Rangga,49,Laki-laki,Palu,ECAT293,ECAT293,Occasional Shopper,3362244.37,Waisak
+CSTM562,Cawisono,37,Laki-laki,Dumai,"ECAT288, ECAT293, ECAT598","ECAT598, ECAT288",Occasional Shopper,4483003.52,Waisak
+CSTM954,Anastasia,41,Perempuan,Jayapura,ECAT638,ECAT638,High Spender,215069.32,Waisak
+CSTM253,Gamanto,48,Laki-laki,Makassar,"ECAT051, ECAT638, ECAT815","ECAT815, ECAT638, ECAT051",Frequent Buyer,1825044.71,Natal
+CSTM470,Safina,30,Perempuan,Bogor,"ECAT293, ECAT288",ECAT293,High Spender,3262911.02,Tahun Baru
+CSTM906,Kenes,39,Laki-laki,Padang,"ECAT815, ECAT051",ECAT815,Bargain Hunter,3250990.06,Imlek
+CSTM924,Lili,23,Perempuan,Padang,"ECAT288, ECAT638, ECAT051","ECAT051, ECAT288, ECAT638",Bargain Hunter,4544080.92,Lebaran
+CSTM237,Prayoga,46,Laki-laki,Sibolga,ECAT293,ECAT293,High Spender,4203917.8,Waisak
+CSTM950,Faizah,52,Perempuan,Yogyakarta,"ECAT051, ECAT293, ECAT638",ECAT638,High Spender,4876744.95,Tahun Baru
+CSTM199,Zizi,35,Perempuan,Tidore Kepulauan,"ECAT051, ECAT598","ECAT598, ECAT051",High Spender,4128940.57,Lebaran
+CSTM982,Cindy,40,Perempuan,Mataram,"ECAT051, ECAT598, ECAT293","ECAT293, ECAT598",Occasional Shopper,1729026.73,Waisak
+CSTM779,Nasab,29,Laki-laki,Mataram,"ECAT815, ECAT598, ECAT288",ECAT288,Occasional Shopper,4222271.87,Lebaran
+CSTM871,Bagiya,30,Laki-laki,Batam,"ECAT288, ECAT598",ECAT598,Occasional Shopper,2372746.95,Waisak
+CSTM087,Latif,29,Laki-laki,Padang Sidempuan,ECAT051,ECAT051,Bargain Hunter,3539951.54,Tahun Baru
+CSTM858,Anita,48,Perempuan,Parepare,"ECAT051, ECAT815, ECAT598","ECAT815, ECAT598",High Spender,1783624.05,Tahun Baru
+CSTM189,Zahra,40,Perempuan,Bau-Bau,"ECAT638, ECAT598","ECAT638, ECAT598",Occasional Shopper,4011121.7,Natal
+CSTM820,Ella,54,Perempuan,Magelang,"ECAT815, ECAT051","ECAT815, ECAT051",Frequent Buyer,226147.57,Natal
+CSTM947,Ajiono,23,Laki-laki,Tegal,ECAT288,ECAT288,Bargain Hunter,2208446.79,Natal
+CSTM223,Daniswara,24,Laki-laki,Sungai Penuh,"ECAT638, ECAT051, ECAT815",ECAT051,Frequent Buyer,3298261.76,Waisak
+CSTM809,Oskar,33,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT293, ECAT051",ECAT293,High Spender,4530427.52,Natal
+CSTM162,Ganjaran,21,Laki-laki,Bau-Bau,"ECAT598, ECAT293, ECAT288","ECAT293, ECAT288, ECAT598",Bargain Hunter,416176.44,Imlek
+CSTM455,Jais,24,Laki-laki,Cilegon,"ECAT815, ECAT051, ECAT288",ECAT815,Frequent Buyer,2369280.16,Lebaran
+CSTM708,Tami,50,Perempuan,Pasuruan,"ECAT638, ECAT051",ECAT051,High Spender,1298764.4,Nyepi
+CSTM751,Prasetyo,55,Laki-laki,Cimahi,"ECAT598, ECAT815, ECAT638","ECAT598, ECAT638, ECAT815",Occasional Shopper,2109794.86,Imlek
+CSTM383,Yance,39,Perempuan,Tomohon,"ECAT815, ECAT288",ECAT815,Bargain Hunter,2776783.64,Waisak
+CSTM694,Garang,33,Laki-laki,Singkawang,"ECAT815, ECAT288, ECAT051","ECAT288, ECAT815",Occasional Shopper,3636452.55,Tahun Baru
+CSTM363,Vinsen,49,Laki-laki,Jambi,"ECAT638, ECAT293",ECAT293,High Spender,4512721.23,Natal
+CSTM254,Sari,55,Perempuan,Medan,"ECAT051, ECAT288, ECAT293","ECAT293, ECAT288",Frequent Buyer,888711.3,Tahun Baru
+CSTM712,Karna,60,Laki-laki,Bau-Bau,ECAT293,ECAT293,Bargain Hunter,3942316.24,Lebaran
+CSTM290,Elma,23,Perempuan,Kota Administrasi Jakarta Timur,"ECAT815, ECAT051, ECAT638","ECAT638, ECAT815, ECAT051",High Spender,1371875.8,Imlek
+CSTM970,Agus,40,Laki-laki,Binjai,ECAT598,ECAT598,Bargain Hunter,952990.7,Imlek
+CSTM152,Malik,18,Laki-laki,Kota Administrasi Jakarta Pusat,"ECAT293, ECAT288","ECAT293, ECAT288",Occasional Shopper,60287.89,Tahun Baru
+CSTM622,Pranawa,26,Laki-laki,Cilegon,"ECAT051, ECAT598, ECAT815","ECAT051, ECAT815, ECAT598",High Spender,109155.13,Imlek
+CSTM588,Ratih,43,Perempuan,Sukabumi,"ECAT293, ECAT638",ECAT293,Frequent Buyer,4049170.73,Natal
+CSTM760,Oman,29,Laki-laki,Madiun,"ECAT638, ECAT051","ECAT638, ECAT051",Bargain Hunter,2014583.85,Waisak
+CSTM630,Tirta,55,Laki-laki,Tangerang Selatan,ECAT293,ECAT293,Bargain Hunter,3853957.36,Imlek
+CSTM228,Kiandra,54,Perempuan,Balikpapan,"ECAT638, ECAT293, ECAT051","ECAT293, ECAT638",Occasional Shopper,4770182.29,Natal
+CSTM818,Syahrini,47,Perempuan,Palu,"ECAT051, ECAT293, ECAT815","ECAT051, ECAT293, ECAT815",Frequent Buyer,2177672.41,Tahun Baru
+CSTM130,Opung,39,Laki-laki,Cirebon,"ECAT288, ECAT638, ECAT598","ECAT598, ECAT638",Occasional Shopper,3216520.77,Imlek
+CSTM131,Sabri,32,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT051, ECAT638, ECAT288",ECAT638,Occasional Shopper,4204537.69,Nyepi
+CSTM029,Sadina,18,Perempuan,Prabumulih,"ECAT051, ECAT598, ECAT288","ECAT051, ECAT598",Bargain Hunter,710281.63,Waisak
+CSTM215,Janet,34,Perempuan,Yogyakarta,"ECAT598, ECAT638, ECAT288",ECAT288,Bargain Hunter,2864362.8,Imlek
+CSTM213,Zulaikha,44,Perempuan,Bitung,ECAT293,ECAT293,Bargain Hunter,2479280.97,Lebaran
+CSTM454,Raharja,26,Laki-laki,Tegal,"ECAT598, ECAT638, ECAT051","ECAT638, ECAT598",Bargain Hunter,4231405.79,Nyepi
+CSTM074,Maria,34,Perempuan,Tebingtinggi,ECAT598,ECAT598,Occasional Shopper,2679136.64,Nyepi
+CSTM423,Ira,29,Perempuan,Banjarmasin,ECAT288,ECAT288,Bargain Hunter,2866914.96,Lebaran
+CSTM703,Nadia,32,Perempuan,Salatiga,ECAT288,ECAT288,Frequent Buyer,3137569.92,Lebaran
+CSTM987,Ophelia,18,Perempuan,Kendari,ECAT288,ECAT288,High Spender,2475666.65,Tahun Baru
+CSTM326,Laila,52,Perempuan,Pangkalpinang,"ECAT598, ECAT815, ECAT051","ECAT598, ECAT815",Bargain Hunter,2333479.53,Waisak
+CSTM595,Tomi,28,Laki-laki,Sungai Penuh,"ECAT815, ECAT293, ECAT288",ECAT288,Occasional Shopper,871676.53,Natal
+CSTM023,Danuja,28,Laki-laki,Banjarmasin,"ECAT293, ECAT051, ECAT638","ECAT293, ECAT638, ECAT051",Bargain Hunter,1348024.85,Nyepi
+CSTM238,Oliva,53,Perempuan,Kotamobagu,"ECAT815, ECAT051, ECAT293",ECAT815,High Spender,963792.77,Imlek
+CSTM038,Wulan,47,Perempuan,Kota Administrasi Jakarta Barat,"ECAT815, ECAT638, ECAT288",ECAT815,Occasional Shopper,2334352.42,Natal
+CSTM139,Bakijan,42,Laki-laki,Blitar,"ECAT288, ECAT638, ECAT293","ECAT293, ECAT288, ECAT638",Frequent Buyer,3469353.07,Tahun Baru
+CSTM899,Rizki,24,Laki-laki,Kupang,"ECAT288, ECAT638",ECAT288,Frequent Buyer,3914288.4,Imlek
+CSTM744,Danuja,53,Laki-laki,Tarakan,"ECAT598, ECAT815, ECAT288","ECAT288, ECAT815",Occasional Shopper,510544.83,Nyepi
+CSTM659,Nasim,44,Laki-laki,Payakumbuh,ECAT288,ECAT288,Bargain Hunter,2714058.98,Nyepi
+CSTM667,Lantar,41,Laki-laki,Pontianak,"ECAT598, ECAT815","ECAT598, ECAT815",Occasional Shopper,2861734.36,Lebaran
+CSTM467,Garan,46,Laki-laki,Kendari,"ECAT598, ECAT815, ECAT288","ECAT598, ECAT815",Bargain Hunter,2709097.31,Waisak
+CSTM388,Genta,47,Perempuan,Parepare,"ECAT288, ECAT051, ECAT815","ECAT815, ECAT051, ECAT288",Occasional Shopper,645430.92,Natal
+CSTM657,Cawuk,52,Laki-laki,Tidore Kepulauan,ECAT293,ECAT293,Bargain Hunter,2760270.72,Waisak
+CSTM619,Salwa,23,Perempuan,Cimahi,"ECAT598, ECAT293","ECAT598, ECAT293",Frequent Buyer,4009700.37,Imlek
+CSTM043,Hani,43,Perempuan,Banjar,ECAT815,ECAT815,High Spender,4969478.05,Imlek
+CSTM389,Dasa,47,Laki-laki,Mojokerto,"ECAT815, ECAT598, ECAT051",ECAT051,Frequent Buyer,3092724.08,Natal
+CSTM166,Zulfa,21,Perempuan,Jambi,ECAT815,ECAT815,Occasional Shopper,899237.61,Waisak
+CSTM034,Yessi,37,Perempuan,Palembang,"ECAT293, ECAT051",ECAT051,Occasional Shopper,3496803.82,Natal
+CSTM700,Yulia,26,Perempuan,Bau-Bau,"ECAT815, ECAT051","ECAT051, ECAT815",Occasional Shopper,4077738.69,Tahun Baru
+CSTM078,Diah,30,Perempuan,Batu,ECAT815,ECAT815,Frequent Buyer,3969898.4,Tahun Baru
+CSTM620,Kezia,25,Perempuan,Tarakan,"ECAT815, ECAT598",ECAT815,Frequent Buyer,1011145.7,Waisak
+CSTM468,Nrima,47,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT638, ECAT288, ECAT815",ECAT288,Bargain Hunter,1512652.0,Imlek
+CSTM042,Anastasia,44,Perempuan,Banjar,"ECAT598, ECAT288",ECAT598,High Spender,2188396.4,Imlek
+CSTM520,Prabawa,44,Laki-laki,Tangerang,"ECAT288, ECAT598",ECAT598,Occasional Shopper,3971109.6,Tahun Baru
+CSTM009,Koko,27,Laki-laki,Tidore Kepulauan,"ECAT293, ECAT598, ECAT815",ECAT293,Frequent Buyer,4320726.81,Waisak
+CSTM444,Rika,32,Perempuan,Semarang,ECAT598,ECAT598,Bargain Hunter,656684.52,Imlek
+CSTM522,Emil,40,Laki-laki,Jayapura,"ECAT051, ECAT638, ECAT815","ECAT638, ECAT051",Frequent Buyer,4472061.91,Lebaran
+CSTM461,Sabrina,49,Perempuan,Salatiga,ECAT638,ECAT638,Bargain Hunter,1161503.02,Lebaran
+CSTM012,Amalia,42,Perempuan,Tasikmalaya,"ECAT288, ECAT638, ECAT051","ECAT638, ECAT288, ECAT051",Occasional Shopper,1984171.35,Tahun Baru
+CSTM431,Catur,46,Laki-laki,Parepare,ECAT288,ECAT288,High Spender,4635247.78,Natal
+CSTM475,Kacung,28,Laki-laki,Depok,"ECAT051, ECAT815",ECAT815,Bargain Hunter,3629417.26,Natal
+CSTM943,Darmanto,22,Laki-laki,Balikpapan,"ECAT598, ECAT815","ECAT815, ECAT598",Frequent Buyer,4403126.23,Imlek
+CSTM081,Dian,34,Perempuan,Bitung,"ECAT293, ECAT638, ECAT051","ECAT051, ECAT293",Bargain Hunter,3674989.99,Imlek
+CSTM348,Nyana,28,Laki-laki,Tangerang,"ECAT598, ECAT288",ECAT598,Frequent Buyer,2182005.85,Natal
+CSTM867,Cahyadi,51,Laki-laki,Banda Aceh,"ECAT638, ECAT815","ECAT815, ECAT638",High Spender,2247068.38,Waisak
+CSTM215,Kajen,33,Laki-laki,Tomohon,"ECAT288, ECAT598","ECAT288, ECAT598",Frequent Buyer,1352335.89,Waisak
+CSTM056,Yosef,41,Laki-laki,Tarakan,"ECAT051, ECAT815, ECAT288",ECAT288,Occasional Shopper,1864543.69,Tahun Baru
+CSTM095,Titin,49,Perempuan,Cirebon,"ECAT288, ECAT598, ECAT293","ECAT288, ECAT293",Occasional Shopper,4247560.84,Tahun Baru
+CSTM171,Humaira,49,Perempuan,Banjarbaru,"ECAT815, ECAT293","ECAT293, ECAT815",High Spender,542606.82,Lebaran
+CSTM887,Mulya,58,Laki-laki,Palembang,"ECAT051, ECAT815, ECAT598",ECAT598,Occasional Shopper,3272764.94,Lebaran
+CSTM197,Ajiman,50,Laki-laki,Tomohon,"ECAT598, ECAT293, ECAT051",ECAT051,Occasional Shopper,2746968.12,Lebaran
+CSTM348,Balangga,45,Laki-laki,Tanjungpinang,"ECAT815, ECAT598","ECAT598, ECAT815",Bargain Hunter,3976993.1,Nyepi
+CSTM942,Sari,60,Perempuan,Sibolga,ECAT598,ECAT598,Bargain Hunter,1447460.73,Tahun Baru
+CSTM519,Oliva,42,Perempuan,Purwokerto,"ECAT598, ECAT638, ECAT051","ECAT051, ECAT598",Frequent Buyer,3480660.94,Natal
+CSTM943,Ivan,37,Laki-laki,Banda Aceh,"ECAT598, ECAT638",ECAT638,Bargain Hunter,4891726.4,Lebaran
+CSTM583,Prayoga,43,Laki-laki,Palopo,"ECAT638, ECAT288, ECAT293","ECAT638, ECAT293",Frequent Buyer,749976.81,Tahun Baru
+CSTM532,Luwes,19,Laki-laki,Bitung,ECAT051,ECAT051,Frequent Buyer,3160875.35,Tahun Baru
+CSTM674,Nurul,51,Perempuan,Serang,"ECAT815, ECAT051","ECAT815, ECAT051",High Spender,2531921.02,Waisak
+CSTM776,Kiandra,29,Perempuan,Pematangsiantar,"ECAT051, ECAT598",ECAT051,Frequent Buyer,2232126.89,Lebaran
+CSTM699,Anom,20,Laki-laki,Surakarta,"ECAT638, ECAT598, ECAT293","ECAT638, ECAT293, ECAT598",Bargain Hunter,3401309.48,Natal
+CSTM829,Gina,46,Perempuan,Ternate,"ECAT638, ECAT288, ECAT598","ECAT638, ECAT598",Bargain Hunter,4564855.44,Imlek
+CSTM669,Oliva,37,Perempuan,Tanjungbalai,ECAT293,ECAT293,High Spender,2304494.97,Imlek
+CSTM614,Paiman,32,Laki-laki,Subulussalam,"ECAT293, ECAT638","ECAT638, ECAT293",Bargain Hunter,2781162.56,Imlek
+CSTM046,Ajimat,36,Laki-laki,Sungai Penuh,"ECAT288, ECAT598",ECAT598,Occasional Shopper,1233689.87,Waisak
+CSTM260,Ciaobella,38,Perempuan,Gorontalo,"ECAT598, ECAT638, ECAT051","ECAT598, ECAT638, ECAT051",Bargain Hunter,692716.56,Lebaran
+CSTM780,Febi,33,Perempuan,Depok,"ECAT638, ECAT815","ECAT815, ECAT638",High Spender,3186084.09,Tahun Baru
+CSTM824,Gandi,51,Laki-laki,Kota Administrasi Jakarta Utara,ECAT638,ECAT638,Occasional Shopper,2877993.44,Lebaran
+CSTM134,Uchita,39,Perempuan,Singkawang,ECAT815,ECAT815,Frequent Buyer,3664083.46,Waisak
+CSTM782,Carla,44,Perempuan,Sabang,"ECAT288, ECAT293, ECAT598","ECAT293, ECAT598, ECAT288",Frequent Buyer,4250335.67,Lebaran
+CSTM508,Zelda,43,Perempuan,Bengkulu,ECAT598,ECAT598,Frequent Buyer,2028978.48,Tahun Baru
+CSTM597,Pandu,47,Laki-laki,Bandung,ECAT638,ECAT638,High Spender,988485.06,Tahun Baru
+CSTM909,Gina,51,Perempuan,Balikpapan,ECAT293,ECAT293,Bargain Hunter,1206083.35,Imlek
+CSTM588,Abyasa,60,Laki-laki,Mojokerto,ECAT293,ECAT293,High Spender,1798247.57,Imlek
+CSTM589,Vanya,28,Perempuan,Yogyakarta,"ECAT293, ECAT051, ECAT288","ECAT051, ECAT288",Occasional Shopper,266303.96,Waisak
+CSTM270,Harsanto,26,Laki-laki,Bontang,"ECAT288, ECAT815","ECAT815, ECAT288",Bargain Hunter,389524.27,Tahun Baru
+CSTM075,Mila,31,Perempuan,Lubuklinggau,"ECAT051, ECAT598, ECAT293","ECAT293, ECAT051",Frequent Buyer,2657036.17,Imlek
+CSTM024,Ratih,47,Perempuan,Padang,ECAT598,ECAT598,Bargain Hunter,2487600.15,Imlek
+CSTM955,Ciaobella,44,Perempuan,Bontang,"ECAT051, ECAT815, ECAT638","ECAT051, ECAT638, ECAT815",Occasional Shopper,2121260.03,Waisak
+CSTM255,Sabri,29,Laki-laki,Payakumbuh,"ECAT638, ECAT293, ECAT815",ECAT638,Bargain Hunter,3173065.63,Waisak
+CSTM707,Cakrabuana,31,Laki-laki,Cirebon,ECAT288,ECAT288,Bargain Hunter,1714168.96,Nyepi
+CSTM228,Bagya,41,Laki-laki,Bogor,"ECAT598, ECAT288",ECAT288,High Spender,1826595.27,Nyepi
+CSTM783,Ani,41,Perempuan,Pagaralam,ECAT598,ECAT598,High Spender,4378332.83,Waisak
+CSTM048,Titi,28,Perempuan,Bau-Bau,"ECAT293, ECAT051, ECAT288",ECAT051,Frequent Buyer,2815429.57,Lebaran
+CSTM609,Ellis,28,Perempuan,Cirebon,ECAT598,ECAT598,Occasional Shopper,2833069.08,Natal
+CSTM655,Tina,59,Perempuan,Pekalongan,"ECAT288, ECAT598, ECAT638",ECAT288,Occasional Shopper,472638.46,Natal
+CSTM878,Kamal,46,Laki-laki,Pasuruan,ECAT293,ECAT293,Bargain Hunter,4436229.02,Natal
+CSTM604,Najam,51,Laki-laki,Kediri,ECAT638,ECAT638,Occasional Shopper,3190649.21,Tahun Baru
+CSTM962,Vera,56,Perempuan,Tegal,"ECAT598, ECAT815, ECAT288","ECAT288, ECAT598, ECAT815",Bargain Hunter,4429108.61,Tahun Baru
+CSTM941,Fitria,32,Perempuan,Lhokseumawe,ECAT051,ECAT051,Occasional Shopper,4074084.83,Imlek
+CSTM617,Gilda,56,Perempuan,Mataram,"ECAT598, ECAT288, ECAT638",ECAT638,Bargain Hunter,3428974.7,Waisak
+CSTM650,Amalia,47,Perempuan,Makassar,"ECAT638, ECAT051, ECAT815",ECAT638,Occasional Shopper,3631233.51,Waisak
+CSTM839,Eka,26,Perempuan,Lubuklinggau,ECAT293,ECAT293,Frequent Buyer,2589219.97,Tahun Baru
+CSTM984,Hadi,52,Laki-laki,Depok,ECAT288,ECAT288,Bargain Hunter,1334945.21,Tahun Baru
+CSTM646,Rahman,43,Laki-laki,Kotamobagu,"ECAT051, ECAT598",ECAT051,High Spender,4488803.18,Tahun Baru
+CSTM581,Dartono,54,Laki-laki,Serang,"ECAT051, ECAT815","ECAT815, ECAT051",Frequent Buyer,2527433.76,Waisak
+CSTM377,Samsul,55,Laki-laki,Pontianak,ECAT288,ECAT288,Occasional Shopper,3047790.84,Lebaran
+CSTM327,Ophelia,57,Perempuan,Surakarta,"ECAT815, ECAT638","ECAT815, ECAT638",High Spender,3866330.75,Natal
+CSTM722,Lintang,39,Perempuan,Banda Aceh,ECAT638,ECAT638,High Spender,2280826.93,Natal
+CSTM874,Cager,37,Laki-laki,Pasuruan,ECAT288,ECAT288,Frequent Buyer,952766.15,Imlek
+CSTM538,Bagiya,41,Laki-laki,Prabumulih,"ECAT638, ECAT293","ECAT638, ECAT293",Bargain Hunter,2422015.41,Imlek
+CSTM139,Irwan,36,Laki-laki,Pariaman,ECAT598,ECAT598,Occasional Shopper,2410152.0,Nyepi
+CSTM278,Janet,19,Perempuan,Salatiga,"ECAT051, ECAT293",ECAT051,High Spender,1867447.84,Nyepi
+CSTM685,Lembah,30,Laki-laki,Jayapura,"ECAT293, ECAT815, ECAT638","ECAT815, ECAT638",Occasional Shopper,4528702.62,Natal
+CSTM149,Lukman,53,Laki-laki,Pematangsiantar,ECAT293,ECAT293,Occasional Shopper,4910084.99,Lebaran
+CSTM079,Puput,37,Perempuan,Sungai Penuh,ECAT815,ECAT815,High Spender,2821177.36,Tahun Baru
+CSTM599,Nalar,60,Laki-laki,Sabang,ECAT815,ECAT815,Occasional Shopper,1288030.43,Natal
+CSTM125,Jelita,32,Perempuan,Bekasi,"ECAT598, ECAT288, ECAT815",ECAT598,High Spender,1109536.11,Tahun Baru
+CSTM786,Cengkal,39,Laki-laki,Tangerang Selatan,"ECAT051, ECAT815",ECAT051,High Spender,2051076.29,Natal
+CSTM389,Capa,46,Laki-laki,Mojokerto,ECAT815,ECAT815,High Spender,719568.26,Natal
+CSTM823,Gasti,48,Perempuan,Solok,"ECAT815, ECAT051, ECAT638",ECAT638,Bargain Hunter,4421198.99,Waisak
+CSTM971,Yani,58,Perempuan,Banjarbaru,"ECAT293, ECAT288","ECAT293, ECAT288",Frequent Buyer,4123230.81,Lebaran
+CSTM360,Emas,55,Laki-laki,Cirebon,"ECAT051, ECAT598, ECAT288","ECAT051, ECAT598, ECAT288",Bargain Hunter,1169093.56,Imlek
+CSTM729,Paramita,54,Perempuan,Batu,"ECAT051, ECAT288",ECAT288,Occasional Shopper,3527028.91,Waisak
+CSTM503,Syahrini,57,Perempuan,Sibolga,ECAT288,ECAT288,Frequent Buyer,614737.04,Nyepi
+CSTM651,Karen,18,Perempuan,Pasuruan,ECAT051,ECAT051,Frequent Buyer,3229829.44,Imlek
+CSTM546,Galih,19,Laki-laki,Subulussalam,"ECAT815, ECAT598",ECAT598,Occasional Shopper,567105.17,Lebaran
+CSTM081,Cakrabirawa,23,Laki-laki,Jambi,"ECAT598, ECAT051",ECAT051,Frequent Buyer,4870464.8,Waisak
+CSTM823,Cindy,35,Perempuan,Bau-Bau,"ECAT293, ECAT815",ECAT293,Bargain Hunter,2965382.75,Waisak
+CSTM654,Dian,38,Perempuan,Padang,"ECAT638, ECAT051, ECAT293",ECAT293,Occasional Shopper,4100425.6,Nyepi
+CSTM567,Emong,25,Laki-laki,Solok,"ECAT293, ECAT815, ECAT288",ECAT293,Bargain Hunter,4931114.99,Imlek
+CSTM142,Dalima,58,Perempuan,Tangerang Selatan,ECAT051,ECAT051,Occasional Shopper,759727.95,Waisak
+CSTM563,Waluyo,18,Laki-laki,Kota Administrasi Jakarta Selatan,ECAT051,ECAT051,High Spender,3217607.44,Waisak
+CSTM301,Ulya,60,Perempuan,Bukittinggi,"ECAT815, ECAT288",ECAT288,Occasional Shopper,1909499.3,Imlek
+CSTM658,Rahmi,50,Perempuan,Banda Aceh,"ECAT638, ECAT598",ECAT638,Occasional Shopper,1672541.92,Natal
+CSTM406,Cindy,58,Perempuan,Palangkaraya,ECAT815,ECAT815,High Spender,182230.88,Natal
+CSTM614,Iriana,20,Perempuan,Pariaman,ECAT638,ECAT638,Bargain Hunter,4026339.56,Imlek
+CSTM393,Tania,40,Perempuan,Sabang,ECAT638,ECAT638,Bargain Hunter,2504661.5,Natal
+CSTM002,Lintang,60,Perempuan,Purwokerto,ECAT598,ECAT598,Bargain Hunter,271922.11,Tahun Baru
+CSTM073,Kunthara,53,Laki-laki,Meulaboh,ECAT598,ECAT598,Bargain Hunter,1807711.06,Tahun Baru
+CSTM162,Warta,53,Laki-laki,Surabaya,"ECAT293, ECAT598, ECAT051","ECAT051, ECAT598, ECAT293",High Spender,3617487.19,Waisak
+CSTM391,Galih,37,Laki-laki,Tangerang Selatan,ECAT815,ECAT815,Frequent Buyer,3786790.41,Natal
+CSTM815,Purwa,50,Laki-laki,Sukabumi,ECAT293,ECAT293,Bargain Hunter,1463616.15,Natal
+CSTM173,Uchita,52,Perempuan,Cirebon,"ECAT293, ECAT815, ECAT288","ECAT293, ECAT288, ECAT815",Occasional Shopper,4074998.62,Tahun Baru
+CSTM710,Erik,42,Laki-laki,Palangkaraya,"ECAT598, ECAT815",ECAT815,Bargain Hunter,4763275.64,Imlek
+CSTM799,Kani,33,Perempuan,Denpasar,ECAT051,ECAT051,Bargain Hunter,3534914.92,Imlek
+CSTM551,Ilsa,51,Perempuan,Singkawang,"ECAT815, ECAT598",ECAT815,Occasional Shopper,2761427.58,Natal
+CSTM752,Dadi,35,Laki-laki,Surabaya,"ECAT815, ECAT288",ECAT288,Frequent Buyer,117431.71,Lebaran
+CSTM207,Kiandra,44,Perempuan,Banda Aceh,ECAT288,ECAT288,Frequent Buyer,4697081.08,Lebaran
+CSTM232,Darimin,58,Laki-laki,Probolinggo,"ECAT288, ECAT638","ECAT638, ECAT288",High Spender,2139310.57,Natal
+CSTM951,Rahmi,53,Perempuan,Prabumulih,"ECAT598, ECAT288","ECAT288, ECAT598",Bargain Hunter,3941417.86,Natal
+CSTM885,Puspa,29,Perempuan,Cirebon,"ECAT288, ECAT051",ECAT288,Bargain Hunter,1408396.55,Nyepi
+CSTM234,Laras,56,Perempuan,Langsa,"ECAT293, ECAT638, ECAT288",ECAT288,High Spender,1924662.32,Waisak
+CSTM944,Yunita,47,Perempuan,Palu,"ECAT638, ECAT051, ECAT815","ECAT815, ECAT638, ECAT051",High Spender,1633654.31,Lebaran
+CSTM784,Heryanto,42,Laki-laki,Banda Aceh,ECAT815,ECAT815,Occasional Shopper,901810.59,Lebaran
+CSTM807,Gilang,58,Laki-laki,Subulussalam,ECAT288,ECAT288,Bargain Hunter,3276331.8,Tahun Baru
+CSTM652,Kani,45,Perempuan,Tebingtinggi,"ECAT815, ECAT293, ECAT288","ECAT288, ECAT815",Occasional Shopper,4868942.4,Natal
+CSTM774,Paiman,35,Laki-laki,Tomohon,"ECAT815, ECAT288",ECAT815,Bargain Hunter,845812.45,Waisak
+CSTM806,Pangeran,18,Laki-laki,Yogyakarta,ECAT288,ECAT288,Bargain Hunter,642389.28,Natal
+CSTM992,Yoga,54,Laki-laki,Purwokerto,"ECAT293, ECAT051, ECAT638","ECAT638, ECAT293, ECAT051",High Spender,789493.18,Lebaran
+CSTM634,Sadina,52,Perempuan,Sungai Penuh,"ECAT288, ECAT293","ECAT293, ECAT288",Occasional Shopper,293893.77,Natal
+CSTM011,Arta,34,Laki-laki,Pekanbaru,ECAT051,ECAT051,High Spender,2674792.4,Waisak
+CSTM912,Teguh,35,Laki-laki,Sabang,"ECAT293, ECAT288, ECAT051",ECAT051,Frequent Buyer,177644.26,Tahun Baru
+CSTM080,Indah,43,Perempuan,Serang,"ECAT598, ECAT638",ECAT598,Frequent Buyer,1323545.03,Natal
+CSTM513,Galiono,55,Laki-laki,Medan,"ECAT815, ECAT293","ECAT815, ECAT293",High Spender,628543.68,Imlek
+CSTM772,Jelita,21,Perempuan,Gorontalo,"ECAT815, ECAT638, ECAT293","ECAT815, ECAT293",Frequent Buyer,1997515.44,Waisak
+CSTM457,Samiah,40,Perempuan,Bogor,ECAT638,ECAT638,Frequent Buyer,3932158.79,Natal
+CSTM315,Rahayu,59,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT638, ECAT051, ECAT815",ECAT815,Bargain Hunter,3317073.25,Tahun Baru
+CSTM233,Karimah,44,Perempuan,Palu,"ECAT288, ECAT293, ECAT815",ECAT815,Frequent Buyer,869359.33,Imlek
+CSTM709,Adikara,30,Laki-laki,Bima,"ECAT638, ECAT815, ECAT293","ECAT815, ECAT293",Frequent Buyer,76885.81,Nyepi
+CSTM121,Cemplunk,33,Laki-laki,Sibolga,"ECAT293, ECAT051","ECAT051, ECAT293",Occasional Shopper,1564201.27,Lebaran
+CSTM826,Dadap,43,Laki-laki,Pasuruan,"ECAT051, ECAT293",ECAT293,Occasional Shopper,3049372.46,Natal
+CSTM193,Emas,31,Laki-laki,Metro,"ECAT051, ECAT293, ECAT815",ECAT293,Bargain Hunter,1244496.15,Lebaran
+CSTM476,Salimah,55,Perempuan,Tanjungpinang,"ECAT288, ECAT293, ECAT815","ECAT288, ECAT293",Bargain Hunter,1519608.78,Waisak
+CSTM773,Luthfi,42,Laki-laki,Sawahlunto,ECAT598,ECAT598,Bargain Hunter,1815595.95,Natal
+CSTM187,Karsana,33,Laki-laki,Surabaya,"ECAT288, ECAT051","ECAT288, ECAT051",Frequent Buyer,2964516.29,Tahun Baru
+CSTM862,Karna,55,Laki-laki,Bandar Lampung,ECAT051,ECAT051,Frequent Buyer,2141361.62,Imlek
+CSTM607,Daryani,45,Laki-laki,Salatiga,ECAT598,ECAT598,Bargain Hunter,755233.68,Lebaran
+CSTM762,Kuncara,56,Laki-laki,Tegal,ECAT815,ECAT815,Occasional Shopper,4894986.69,Tahun Baru
+CSTM377,Raditya,34,Laki-laki,Serang,"ECAT598, ECAT638, ECAT293","ECAT293, ECAT638, ECAT598",Occasional Shopper,1175922.31,Tahun Baru
+CSTM144,Ajimin,22,Laki-laki,Metro,"ECAT815, ECAT638, ECAT051","ECAT815, ECAT638",Frequent Buyer,4628728.53,Lebaran
+CSTM330,Gasti,52,Perempuan,Palopo,ECAT598,ECAT598,Bargain Hunter,4908744.21,Imlek
+CSTM170,Farhunnisa,18,Perempuan,Ternate,ECAT288,ECAT288,High Spender,4486885.76,Lebaran
+CSTM603,Ilyas,21,Laki-laki,Pariaman,"ECAT293, ECAT051","ECAT293, ECAT051",High Spender,3940759.8,Lebaran
+CSTM410,Ana,26,Perempuan,Magelang,"ECAT815, ECAT598",ECAT598,Frequent Buyer,4535091.51,Imlek
+CSTM459,Jelita,25,Perempuan,Denpasar,"ECAT051, ECAT288, ECAT815","ECAT815, ECAT051, ECAT288",Occasional Shopper,2481635.54,Tahun Baru
+CSTM138,Jail,58,Laki-laki,Pasuruan,"ECAT598, ECAT288",ECAT598,Bargain Hunter,829640.66,Lebaran
+CSTM815,Yono,51,Laki-laki,Batam,"ECAT288, ECAT815, ECAT598","ECAT815, ECAT598",Occasional Shopper,1808022.75,Lebaran
+CSTM517,Sadina,36,Perempuan,Bima,"ECAT638, ECAT288, ECAT598","ECAT288, ECAT598",Occasional Shopper,3657059.15,Tahun Baru
+CSTM749,Prayogo,58,Laki-laki,Yogyakarta,ECAT288,ECAT288,Bargain Hunter,4114302.87,Natal
+CSTM778,Pardi,41,Laki-laki,Langsa,"ECAT051, ECAT815",ECAT051,Bargain Hunter,2945606.22,Imlek
+CSTM533,Mahmud,42,Laki-laki,Banjarmasin,ECAT288,ECAT288,Frequent Buyer,2986749.15,Lebaran
+CSTM585,Marsito,35,Laki-laki,Singkawang,"ECAT815, ECAT051, ECAT598","ECAT051, ECAT815, ECAT598",Frequent Buyer,1968408.63,Lebaran
+CSTM718,Malika,41,Perempuan,Tasikmalaya,ECAT815,ECAT815,Bargain Hunter,4772102.86,Nyepi
+CSTM337,Ajiono,28,Laki-laki,Metro,"ECAT051, ECAT598, ECAT638","ECAT051, ECAT638, ECAT598",Frequent Buyer,2602767.94,Lebaran
+CSTM412,Kasiyah,48,Perempuan,Yogyakarta,"ECAT815, ECAT293, ECAT598","ECAT293, ECAT598",Frequent Buyer,1387610.03,Natal
+CSTM037,Langgeng,26,Laki-laki,Lubuklinggau,"ECAT638, ECAT051",ECAT051,Occasional Shopper,1887871.5,Tahun Baru
+CSTM083,Jarwi,24,Laki-laki,Tebingtinggi,"ECAT293, ECAT598, ECAT051","ECAT598, ECAT051, ECAT293",Frequent Buyer,2363702.31,Natal
+CSTM225,Hari,22,Laki-laki,Ternate,"ECAT293, ECAT051, ECAT598",ECAT598,Bargain Hunter,4615797.51,Lebaran
+CSTM133,Zahra,44,Perempuan,Parepare,"ECAT815, ECAT288, ECAT051","ECAT815, ECAT051, ECAT288",Frequent Buyer,2858292.63,Tahun Baru
+CSTM705,Vanya,40,Perempuan,Langsa,"ECAT051, ECAT293, ECAT638","ECAT293, ECAT051",Bargain Hunter,442980.14,Nyepi
+CSTM155,Ikin,32,Laki-laki,Bekasi,"ECAT598, ECAT815, ECAT293","ECAT815, ECAT293, ECAT598",Frequent Buyer,3756218.09,Lebaran
+CSTM377,Novi,37,Perempuan,Kotamobagu,"ECAT051, ECAT288, ECAT638",ECAT288,Bargain Hunter,3456609.52,Waisak
+CSTM775,Kasim,59,Laki-laki,Ambon,"ECAT288, ECAT598, ECAT051","ECAT598, ECAT288",Bargain Hunter,3535074.62,Tahun Baru
+CSTM199,Radika,36,Laki-laki,Tanjungbalai,"ECAT288, ECAT815, ECAT051","ECAT815, ECAT051",High Spender,2234938.32,Imlek
+CSTM393,Diah,18,Perempuan,Bandar Lampung,"ECAT638, ECAT051, ECAT288","ECAT288, ECAT051, ECAT638",Frequent Buyer,1104222.77,Natal
+CSTM752,Wawan,55,Laki-laki,Tasikmalaya,ECAT288,ECAT288,Occasional Shopper,4486725.27,Tahun Baru
+CSTM900,Karta,21,Laki-laki,Banjar,"ECAT051, ECAT293, ECAT288","ECAT288, ECAT051, ECAT293",High Spender,959336.67,Nyepi
+CSTM769,Kani,31,Perempuan,Bandar Lampung,"ECAT815, ECAT288, ECAT598",ECAT288,Occasional Shopper,4740020.54,Tahun Baru
+CSTM914,Jaeman,43,Laki-laki,Denpasar,ECAT815,ECAT815,Bargain Hunter,1886209.87,Lebaran
+CSTM180,Olivia,24,Perempuan,Yogyakarta,ECAT288,ECAT288,Frequent Buyer,419274.57,Lebaran
+CSTM644,Karen,26,Perempuan,Banjarbaru,ECAT051,ECAT051,High Spender,1178463.1,Imlek
+CSTM624,Erik,35,Laki-laki,Dumai,"ECAT815, ECAT288, ECAT598",ECAT815,Frequent Buyer,4323194.59,Imlek
+CSTM812,Setya,58,Laki-laki,Ternate,"ECAT051, ECAT598","ECAT598, ECAT051",Frequent Buyer,1701175.18,Natal
+CSTM794,Artanto,42,Laki-laki,Bogor,ECAT598,ECAT598,Bargain Hunter,2624289.23,Waisak
+CSTM004,Galak,38,Laki-laki,Kupang,"ECAT598, ECAT288, ECAT293","ECAT598, ECAT293",High Spender,3644642.74,Waisak
+CSTM438,Gandewa,40,Laki-laki,Tanjungpinang,ECAT288,ECAT288,Bargain Hunter,4391797.74,Waisak
+CSTM917,Humaira,21,Perempuan,Semarang,"ECAT051, ECAT638, ECAT288","ECAT288, ECAT638, ECAT051",Bargain Hunter,154935.8,Lebaran
+CSTM275,Keisha,27,Perempuan,Binjai,"ECAT288, ECAT051","ECAT051, ECAT288",Occasional Shopper,540524.77,Tahun Baru
+CSTM705,Pranawa,52,Laki-laki,Ternate,"ECAT288, ECAT815, ECAT598",ECAT815,Bargain Hunter,1126811.68,Nyepi
+CSTM703,Edi,48,Laki-laki,Tual,"ECAT293, ECAT598",ECAT293,Occasional Shopper,4358799.94,Nyepi
+CSTM783,Luwar,26,Laki-laki,Kotamobagu,"ECAT815, ECAT598",ECAT598,High Spender,1888676.68,Imlek
+CSTM697,Rahmi,35,Perempuan,Medan,ECAT638,ECAT638,High Spender,1609436.5,Lebaran
+CSTM544,Belinda,54,Perempuan,Tegal,ECAT638,ECAT638,Frequent Buyer,433368.58,Lebaran
+CSTM627,Ridwan,41,Laki-laki,Banda Aceh,"ECAT598, ECAT815","ECAT598, ECAT815",High Spender,2057209.38,Natal
+CSTM950,Akarsana,32,Laki-laki,Surabaya,"ECAT288, ECAT598, ECAT051","ECAT288, ECAT598",Occasional Shopper,761032.2,Waisak
+CSTM723,Rahmat,28,Laki-laki,Banjarmasin,"ECAT288, ECAT293, ECAT051","ECAT293, ECAT051, ECAT288",Occasional Shopper,4019693.47,Imlek
+CSTM975,Betania,32,Perempuan,Tanjungpinang,ECAT638,ECAT638,Bargain Hunter,3296003.47,Lebaran
+CSTM741,Puput,22,Perempuan,Padangpanjang,ECAT598,ECAT598,Frequent Buyer,1294965.64,Lebaran
+CSTM817,Liman,47,Laki-laki,Bekasi,"ECAT051, ECAT598, ECAT293","ECAT293, ECAT598, ECAT051",Occasional Shopper,488222.82,Lebaran
+CSTM453,Usyi,34,Perempuan,Langsa,"ECAT288, ECAT051, ECAT638","ECAT288, ECAT051",Bargain Hunter,1945372.75,Lebaran
+CSTM255,Cinthia,57,Perempuan,Sorong,ECAT815,ECAT815,Frequent Buyer,2262845.63,Tahun Baru
+CSTM683,Cawuk,20,Laki-laki,Mataram,ECAT051,ECAT051,Bargain Hunter,286887.04,Nyepi
+CSTM493,Akarsana,32,Laki-laki,Kupang,"ECAT293, ECAT815, ECAT288","ECAT288, ECAT293, ECAT815",High Spender,3225363.91,Waisak
+CSTM547,Kamaria,39,Perempuan,Pagaralam,"ECAT293, ECAT288, ECAT815","ECAT288, ECAT293, ECAT815",Occasional Shopper,3975548.82,Waisak
+CSTM893,Karsa,54,Laki-laki,Surabaya,ECAT638,ECAT638,Occasional Shopper,719706.99,Nyepi
+CSTM594,Asirwada,40,Laki-laki,Banda Aceh,"ECAT638, ECAT815",ECAT638,Bargain Hunter,2578817.43,Lebaran
+CSTM173,Nurul,57,Perempuan,Mojokerto,"ECAT598, ECAT288, ECAT051",ECAT288,Frequent Buyer,2652373.09,Tahun Baru
+CSTM852,Hilda,46,Perempuan,Pontianak,"ECAT815, ECAT051","ECAT051, ECAT815",Occasional Shopper,1705700.92,Imlek
+CSTM198,Ciaobella,52,Perempuan,Solok,ECAT051,ECAT051,Frequent Buyer,3193659.21,Tahun Baru
+CSTM270,Belinda,55,Perempuan,Payakumbuh,ECAT288,ECAT288,Frequent Buyer,315371.11,Natal
+CSTM962,Aditya,52,Laki-laki,Banjarmasin,"ECAT598, ECAT293",ECAT598,Bargain Hunter,2288236.65,Imlek
+CSTM808,Nadine,21,Perempuan,Pekalongan,"ECAT598, ECAT638, ECAT293",ECAT293,Frequent Buyer,3895407.45,Natal
+CSTM191,Gatra,45,Laki-laki,Denpasar,ECAT288,ECAT288,Occasional Shopper,145172.77,Nyepi
+CSTM016,Cakrajiya,50,Laki-laki,Pematangsiantar,"ECAT051, ECAT815",ECAT815,Frequent Buyer,2796180.6,Lebaran
+CSTM885,Arsipatra,31,Laki-laki,Palu,"ECAT293, ECAT638, ECAT051","ECAT293, ECAT638",Occasional Shopper,1745193.07,Natal
+CSTM619,Maras,19,Laki-laki,Parepare,"ECAT638, ECAT051, ECAT815","ECAT051, ECAT638",High Spender,3387230.33,Tahun Baru
+CSTM393,Vivi,28,Perempuan,Kota Administrasi Jakarta Barat,ECAT598,ECAT598,Bargain Hunter,4714108.13,Nyepi
+CSTM183,Cinthia,33,Perempuan,Tanjungpinang,"ECAT051, ECAT598, ECAT288","ECAT288, ECAT051",Bargain Hunter,2988070.89,Tahun Baru
+CSTM032,Salimah,33,Perempuan,Padang,"ECAT598, ECAT638, ECAT288","ECAT638, ECAT598, ECAT288",Frequent Buyer,933299.8,Waisak
+CSTM434,Queen,48,Perempuan,Tasikmalaya,"ECAT293, ECAT051, ECAT598","ECAT598, ECAT051, ECAT293",High Spender,981249.63,Natal
+CSTM738,Kasiyah,41,Perempuan,Tangerang Selatan,"ECAT638, ECAT815, ECAT051","ECAT051, ECAT638",Occasional Shopper,3811561.34,Lebaran
+CSTM367,Jumari,38,Laki-laki,Palopo,"ECAT598, ECAT293",ECAT293,Occasional Shopper,1059885.33,Nyepi
+CSTM087,Novi,23,Perempuan,Medan,ECAT051,ECAT051,Frequent Buyer,2333030.72,Tahun Baru
+CSTM286,Mila,51,Perempuan,Tarakan,"ECAT288, ECAT293","ECAT293, ECAT288",Bargain Hunter,944479.48,Nyepi
+CSTM508,Mila,28,Perempuan,Palopo,ECAT815,ECAT815,Bargain Hunter,982825.04,Natal
+CSTM474,Elma,44,Perempuan,Tanjungpinang,"ECAT293, ECAT051, ECAT815",ECAT293,Bargain Hunter,1260939.67,Lebaran
+CSTM319,Humaira,38,Perempuan,Pontianak,"ECAT288, ECAT638",ECAT638,High Spender,1365559.92,Waisak
+CSTM099,Yunita,37,Perempuan,Tidore Kepulauan,"ECAT293, ECAT815, ECAT051","ECAT293, ECAT051",Frequent Buyer,2508881.62,Nyepi
+CSTM659,Melinda,45,Perempuan,Batu,ECAT638,ECAT638,Bargain Hunter,282026.59,Natal
+CSTM440,Restu,59,Perempuan,Tarakan,"ECAT293, ECAT638, ECAT815",ECAT293,High Spender,4134781.08,Nyepi
+CSTM326,Ulva,23,Perempuan,Kediri,"ECAT293, ECAT815",ECAT815,Occasional Shopper,984384.83,Lebaran
+CSTM324,Gabriella,41,Perempuan,Gorontalo,"ECAT293, ECAT815",ECAT815,Occasional Shopper,1115049.1,Imlek
+CSTM994,Salimah,50,Perempuan,Bekasi,"ECAT051, ECAT288","ECAT051, ECAT288",High Spender,1095233.33,Waisak
+CSTM304,Zulaikha,26,Perempuan,Sukabumi,ECAT815,ECAT815,Occasional Shopper,2791596.77,Natal
+CSTM991,Saka,21,Laki-laki,Tarakan,"ECAT598, ECAT051",ECAT598,Frequent Buyer,3117076.21,Imlek
+CSTM122,Jamalia,27,Perempuan,Pagaralam,ECAT051,ECAT051,High Spender,1044986.99,Waisak
+CSTM545,Bancar,52,Laki-laki,Salatiga,"ECAT638, ECAT051, ECAT293","ECAT051, ECAT293, ECAT638",Bargain Hunter,2562870.55,Natal
+CSTM664,Winda,28,Perempuan,Tanjungpinang,ECAT051,ECAT051,Frequent Buyer,3629926.9,Waisak
+CSTM284,Jelita,47,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT051, ECAT293","ECAT051, ECAT293",High Spender,2604074.99,Lebaran
+CSTM077,Among,44,Laki-laki,Magelang,"ECAT815, ECAT293, ECAT288","ECAT293, ECAT288",Frequent Buyer,1780616.59,Waisak
+CSTM877,Kasim,46,Laki-laki,Meulaboh,"ECAT288, ECAT638, ECAT815",ECAT638,Frequent Buyer,2512673.89,Lebaran
+CSTM716,Tami,33,Perempuan,Mataram,"ECAT638, ECAT288, ECAT815","ECAT638, ECAT288, ECAT815",Occasional Shopper,4432679.6,Natal
+CSTM564,Raden,50,Laki-laki,Tidore Kepulauan,"ECAT815, ECAT293",ECAT815,Frequent Buyer,3439879.22,Tahun Baru
+CSTM608,Agnes,24,Perempuan,Serang,ECAT815,ECAT815,High Spender,952194.1,Lebaran
+CSTM070,Hamima,49,Perempuan,Tangerang Selatan,"ECAT288, ECAT638","ECAT638, ECAT288",Frequent Buyer,2638508.89,Imlek
+CSTM712,Rudi,50,Laki-laki,Sawahlunto,ECAT598,ECAT598,Bargain Hunter,2238255.6,Waisak
+CSTM793,Johan,31,Laki-laki,Bitung,ECAT293,ECAT293,Frequent Buyer,3455722.24,Tahun Baru
+CSTM489,Kajen,43,Laki-laki,Bontang,"ECAT815, ECAT288","ECAT288, ECAT815",High Spender,1218692.95,Waisak
+CSTM904,Jumari,55,Laki-laki,Sukabumi,ECAT288,ECAT288,Occasional Shopper,4870839.02,Waisak
+CSTM432,Mahdi,25,Laki-laki,Gorontalo,"ECAT638, ECAT598",ECAT638,High Spender,3046621.88,Natal
+CSTM529,Usman,38,Laki-laki,Kediri,"ECAT288, ECAT293",ECAT288,Occasional Shopper,3565147.98,Lebaran
+CSTM806,Eva,24,Perempuan,Tebingtinggi,"ECAT598, ECAT293, ECAT638","ECAT293, ECAT638",High Spender,3687944.62,Natal
+CSTM612,Gilda,44,Perempuan,Pontianak,"ECAT638, ECAT051, ECAT598",ECAT598,Frequent Buyer,3895452.06,Nyepi
+CSTM772,Oni,24,Perempuan,Pasuruan,"ECAT598, ECAT051",ECAT598,Occasional Shopper,4210220.28,Imlek
+CSTM301,Febi,26,Perempuan,Manado,"ECAT638, ECAT293","ECAT293, ECAT638",Frequent Buyer,2760532.41,Lebaran
+CSTM137,Aurora,20,Perempuan,Semarang,ECAT638,ECAT638,High Spender,2815770.8,Nyepi
+CSTM853,Olivia,51,Perempuan,Malang,ECAT638,ECAT638,Bargain Hunter,3848102.12,Imlek
+CSTM013,Kania,50,Perempuan,Sibolga,"ECAT598, ECAT815","ECAT815, ECAT598",Occasional Shopper,4393934.77,Natal
+CSTM098,Iriana,59,Perempuan,Blitar,"ECAT638, ECAT815, ECAT288","ECAT288, ECAT815, ECAT638",Occasional Shopper,2103653.19,Imlek
+CSTM885,Ratih,47,Perempuan,Probolinggo,ECAT598,ECAT598,Occasional Shopper,4114292.87,Tahun Baru
+CSTM842,Clara,30,Perempuan,Kota Administrasi Jakarta Pusat,"ECAT293, ECAT051, ECAT598","ECAT598, ECAT051",High Spender,2551771.99,Natal
+CSTM936,Calista,37,Perempuan,Bontang,ECAT598,ECAT598,Frequent Buyer,4868423.06,Waisak
+CSTM167,Cengkir,60,Laki-laki,Madiun,"ECAT638, ECAT051, ECAT815","ECAT638, ECAT051",High Spender,4230264.39,Imlek
+CSTM063,Ratna,48,Perempuan,Tanjungbalai,"ECAT638, ECAT051, ECAT598","ECAT638, ECAT598, ECAT051",Frequent Buyer,866728.27,Imlek
+CSTM255,Niyaga,32,Laki-laki,Bima,ECAT293,ECAT293,Frequent Buyer,4158238.41,Natal
+CSTM270,Sabrina,52,Perempuan,Kediri,"ECAT288, ECAT815",ECAT815,High Spender,1131779.54,Lebaran
+CSTM608,Kiandra,48,Perempuan,Banjarbaru,ECAT051,ECAT051,Frequent Buyer,4338376.39,Imlek
+CSTM853,Aris,26,Laki-laki,Padangpanjang,"ECAT598, ECAT293","ECAT598, ECAT293",Occasional Shopper,2015376.41,Lebaran
+CSTM133,Cakrabuana,58,Laki-laki,Jayapura,"ECAT288, ECAT815",ECAT815,Bargain Hunter,4914621.05,Imlek
+CSTM802,Catur,39,Laki-laki,Makassar,"ECAT815, ECAT288, ECAT598","ECAT815, ECAT288",Frequent Buyer,2259747.88,Nyepi
+CSTM530,Laras,53,Perempuan,Samarinda,"ECAT288, ECAT815",ECAT815,High Spender,2029215.41,Nyepi
+CSTM380,Hesti,39,Perempuan,Lhokseumawe,"ECAT293, ECAT051, ECAT638","ECAT051, ECAT293, ECAT638",Occasional Shopper,1237458.72,Waisak
+CSTM428,Endah,49,Perempuan,Singkawang,"ECAT815, ECAT598","ECAT598, ECAT815",High Spender,4726580.58,Nyepi
+CSTM516,Kania,55,Perempuan,Tanjungpinang,"ECAT815, ECAT051","ECAT815, ECAT051",Occasional Shopper,2735109.81,Lebaran
+CSTM065,Hamzah,51,Laki-laki,Prabumulih,"ECAT288, ECAT598, ECAT638","ECAT638, ECAT598, ECAT288",High Spender,4324732.57,Lebaran
+CSTM152,Bakti,39,Laki-laki,Tegal,"ECAT051, ECAT288","ECAT051, ECAT288",Bargain Hunter,2387948.99,Lebaran
+CSTM371,Taswir,20,Laki-laki,Payakumbuh,ECAT051,ECAT051,Occasional Shopper,138703.41,Lebaran
+CSTM862,Jasmin,56,Perempuan,Singkawang,ECAT598,ECAT598,Occasional Shopper,92436.85,Tahun Baru
+CSTM818,Jabal,45,Laki-laki,Ambon,"ECAT293, ECAT815",ECAT815,Frequent Buyer,458883.59,Nyepi
+CSTM098,Ulva,41,Perempuan,Cirebon,"ECAT293, ECAT638","ECAT638, ECAT293",Frequent Buyer,3831211.81,Lebaran
+CSTM213,Radit,53,Laki-laki,Purwokerto,"ECAT638, ECAT598","ECAT598, ECAT638",High Spender,3368822.18,Nyepi
+CSTM087,Kayun,51,Laki-laki,Pontianak,"ECAT815, ECAT293",ECAT815,Bargain Hunter,1091419.13,Tahun Baru
+CSTM776,Zalindra,46,Perempuan,Palembang,"ECAT638, ECAT288, ECAT598","ECAT638, ECAT598",Frequent Buyer,4307977.98,Waisak
+CSTM527,Nova,39,Perempuan,Surabaya,ECAT051,ECAT051,Frequent Buyer,2092024.16,Tahun Baru
+CSTM724,Kamila,18,Perempuan,Tanjungpinang,"ECAT051, ECAT288",ECAT051,Occasional Shopper,529773.29,Lebaran
+CSTM759,Galur,60,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT815, ECAT598","ECAT815, ECAT598",Occasional Shopper,101780.54,Lebaran
+CSTM712,Agnes,22,Perempuan,Pariaman,ECAT051,ECAT051,High Spender,1010141.02,Natal
+CSTM511,Novi,38,Perempuan,Bekasi,"ECAT288, ECAT051",ECAT051,Bargain Hunter,782100.32,Lebaran
+CSTM625,Wani,51,Perempuan,Tidore Kepulauan,ECAT598,ECAT598,Bargain Hunter,810736.2,Waisak
+CSTM474,Ira,53,Perempuan,Palu,"ECAT638, ECAT293",ECAT293,Bargain Hunter,3382582.92,Imlek
+CSTM107,Wasis,34,Laki-laki,Banjar,"ECAT598, ECAT815, ECAT293",ECAT815,Frequent Buyer,888092.42,Imlek
+CSTM349,Warsita,46,Laki-laki,Jambi,"ECAT638, ECAT288, ECAT598",ECAT288,High Spender,3594423.12,Tahun Baru
+CSTM439,Kardi,20,Laki-laki,Sawahlunto,"ECAT638, ECAT598, ECAT288","ECAT598, ECAT288, ECAT638",Bargain Hunter,1183497.23,Imlek
+CSTM485,Embuh,34,Laki-laki,Tual,ECAT598,ECAT598,Bargain Hunter,1066792.39,Nyepi
+CSTM892,Darmana,57,Laki-laki,Magelang,"ECAT638, ECAT288, ECAT815","ECAT288, ECAT815, ECAT638",Bargain Hunter,4611864.52,Waisak
+CSTM621,Mursinin,56,Laki-laki,Denpasar,ECAT638,ECAT638,High Spender,3154788.92,Imlek
+CSTM008,Calista,20,Perempuan,Ambon,ECAT638,ECAT638,Bargain Hunter,1159617.44,Imlek
+CSTM123,Arsipatra,24,Laki-laki,Tangerang Selatan,ECAT293,ECAT293,High Spender,2752679.83,Waisak
+CSTM022,Lalita,58,Perempuan,Lhokseumawe,ECAT638,ECAT638,Bargain Hunter,820142.35,Waisak
+CSTM498,Gading,33,Laki-laki,Pagaralam,"ECAT051, ECAT598",ECAT598,Bargain Hunter,3951739.04,Nyepi
+CSTM816,Unggul,20,Laki-laki,Lubuklinggau,"ECAT288, ECAT293, ECAT598",ECAT598,Bargain Hunter,4489349.97,Tahun Baru
+CSTM809,Baktiadi,56,Laki-laki,Tanjungpinang,"ECAT815, ECAT051",ECAT051,High Spender,2130721.23,Nyepi
+CSTM080,Adhiarja,26,Laki-laki,Magelang,"ECAT051, ECAT638, ECAT293","ECAT638, ECAT293, ECAT051",Frequent Buyer,773898.97,Natal
+CSTM712,Kuncara,24,Laki-laki,Pariaman,"ECAT815, ECAT638",ECAT815,Bargain Hunter,941923.67,Nyepi
+CSTM611,Amelia,54,Perempuan,Tual,"ECAT288, ECAT293, ECAT638","ECAT638, ECAT288, ECAT293",Frequent Buyer,3917644.28,Tahun Baru
+CSTM966,Daliman,58,Laki-laki,Bekasi,"ECAT293, ECAT051, ECAT815","ECAT051, ECAT815, ECAT293",Occasional Shopper,3091106.06,Imlek
+CSTM309,Laila,47,Perempuan,Tomohon,"ECAT598, ECAT051","ECAT598, ECAT051",Bargain Hunter,4339211.17,Natal
+CSTM270,Clara,23,Perempuan,Tanjungbalai,"ECAT815, ECAT293, ECAT051",ECAT051,Frequent Buyer,2257583.9,Waisak
+CSTM920,Hardi,21,Laki-laki,Metro,"ECAT293, ECAT815, ECAT051","ECAT815, ECAT051",High Spender,692360.18,Nyepi
+CSTM833,Tari,41,Perempuan,Purwokerto,"ECAT815, ECAT293, ECAT598","ECAT293, ECAT598",Frequent Buyer,1028025.81,Natal
+CSTM533,Hairyanto,39,Laki-laki,Dumai,"ECAT288, ECAT815, ECAT051","ECAT288, ECAT051",Bargain Hunter,1791045.84,Natal
+CSTM885,Kania,26,Perempuan,Bontang,"ECAT293, ECAT598, ECAT815","ECAT815, ECAT293",Frequent Buyer,4180310.44,Tahun Baru
+CSTM946,Maria,37,Perempuan,Tangerang,"ECAT051, ECAT288, ECAT815",ECAT815,Bargain Hunter,2965345.33,Lebaran
+CSTM300,Lukita,54,Laki-laki,Cirebon,"ECAT051, ECAT598",ECAT598,Frequent Buyer,2280977.3,Natal
+CSTM597,Alika,42,Perempuan,Manado,"ECAT293, ECAT638, ECAT598","ECAT598, ECAT638, ECAT293",Bargain Hunter,3753283.22,Imlek
+CSTM530,Karma,45,Laki-laki,Surakarta,"ECAT638, ECAT288","ECAT638, ECAT288",High Spender,3192851.93,Lebaran
+CSTM961,Tasnim,52,Laki-laki,Batam,ECAT638,ECAT638,Bargain Hunter,4366868.32,Imlek
+CSTM791,Nilam,46,Perempuan,Kota Administrasi Jakarta Selatan,ECAT293,ECAT293,High Spender,4515505.3,Waisak
+CSTM652,Surya,26,Laki-laki,Tebingtinggi,ECAT815,ECAT815,High Spender,1456539.81,Imlek
+CSTM876,Ibrahim,37,Laki-laki,Kota Administrasi Jakarta Selatan,ECAT598,ECAT598,Frequent Buyer,600421.83,Nyepi
+CSTM724,Oman,20,Laki-laki,Blitar,"ECAT293, ECAT638","ECAT293, ECAT638",Bargain Hunter,1691883.73,Waisak
+CSTM773,Dasa,51,Laki-laki,Bima,ECAT288,ECAT288,High Spender,3647844.62,Nyepi
+CSTM340,Cakrawala,54,Laki-laki,Bukittinggi,"ECAT051, ECAT598","ECAT051, ECAT598",Bargain Hunter,345715.35,Lebaran
+CSTM976,Gawati,19,Perempuan,Cirebon,"ECAT051, ECAT638, ECAT293","ECAT293, ECAT051, ECAT638",Frequent Buyer,3806026.63,Waisak
+CSTM031,Fitria,43,Perempuan,Kotamobagu,"ECAT815, ECAT293",ECAT815,Frequent Buyer,401525.12,Natal
+CSTM434,Cahya,33,Laki-laki,Salatiga,"ECAT598, ECAT288, ECAT815",ECAT598,Occasional Shopper,2813882.57,Imlek
+CSTM122,Daru,30,Laki-laki,Ambon,"ECAT598, ECAT051, ECAT288",ECAT598,High Spender,1216872.09,Lebaran
+CSTM773,Hartana,21,Laki-laki,Bandar Lampung,"ECAT293, ECAT288, ECAT598","ECAT288, ECAT598",Frequent Buyer,4164637.76,Tahun Baru
+CSTM857,Hadi,22,Laki-laki,Kota Administrasi Jakarta Selatan,ECAT293,ECAT293,Bargain Hunter,2700251.5,Natal
+CSTM779,Balangga,25,Laki-laki,Sabang,ECAT288,ECAT288,High Spender,574553.53,Waisak
+CSTM023,Banawi,29,Laki-laki,Meulaboh,"ECAT051, ECAT815, ECAT638","ECAT638, ECAT815, ECAT051",Bargain Hunter,1212326.77,Tahun Baru
+CSTM913,Mumpuni,42,Laki-laki,Sorong,"ECAT051, ECAT288","ECAT051, ECAT288",Frequent Buyer,765996.68,Waisak
+CSTM101,Hartana,51,Laki-laki,Kota Administrasi Jakarta Utara,ECAT293,ECAT293,Occasional Shopper,4860484.62,Nyepi
+CSTM787,Maman,49,Laki-laki,Kotamobagu,"ECAT051, ECAT288, ECAT598","ECAT051, ECAT598",Occasional Shopper,1348465.0,Imlek
+CSTM628,Wira,42,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT051, ECAT815, ECAT598","ECAT598, ECAT815",Occasional Shopper,4527479.94,Tahun Baru
+CSTM373,Julia,46,Perempuan,Tidore Kepulauan,"ECAT815, ECAT288, ECAT598","ECAT598, ECAT288",High Spender,1473363.28,Nyepi
+CSTM331,Puput,54,Perempuan,Lhokseumawe,"ECAT638, ECAT293, ECAT815","ECAT638, ECAT293, ECAT815",Bargain Hunter,4117563.9,Tahun Baru
+CSTM068,Paris,26,Perempuan,Sungai Penuh,"ECAT051, ECAT638",ECAT051,Bargain Hunter,3196051.66,Natal
+CSTM057,Jamalia,44,Perempuan,Blitar,"ECAT288, ECAT598, ECAT815",ECAT288,High Spender,2413251.68,Lebaran
+CSTM384,Silvia,30,Perempuan,Sabang,ECAT293,ECAT293,High Spender,234890.09,Lebaran
+CSTM440,Yunita,35,Perempuan,Medan,ECAT293,ECAT293,Occasional Shopper,1938693.5,Waisak
+CSTM982,Lulut,41,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT638, ECAT051",ECAT051,Bargain Hunter,1266444.02,Natal
+CSTM004,Luthfi,50,Laki-laki,Kotamobagu,"ECAT638, ECAT598","ECAT598, ECAT638",Bargain Hunter,1867923.55,Nyepi
+CSTM957,Kamaria,50,Perempuan,Lhokseumawe,"ECAT051, ECAT638","ECAT051, ECAT638",Occasional Shopper,3131575.25,Tahun Baru
+CSTM505,Puji,55,Perempuan,Jambi,"ECAT288, ECAT638","ECAT288, ECAT638",Bargain Hunter,1932479.04,Lebaran
+CSTM211,Perkasa,28,Laki-laki,Langsa,ECAT638,ECAT638,Frequent Buyer,2514327.28,Tahun Baru
+CSTM979,Sakura,34,Perempuan,Sorong,"ECAT815, ECAT051","ECAT051, ECAT815",Bargain Hunter,984280.56,Waisak
+CSTM154,Fitriani,50,Perempuan,Tegal,"ECAT815, ECAT288","ECAT288, ECAT815",Bargain Hunter,572827.22,Nyepi
+CSTM977,Kani,38,Perempuan,Banjar,"ECAT293, ECAT638, ECAT051","ECAT051, ECAT293, ECAT638",Bargain Hunter,2815760.55,Nyepi
+CSTM066,Oliva,31,Perempuan,Banjarmasin,ECAT293,ECAT293,Frequent Buyer,3917341.53,Tahun Baru
+CSTM254,Kani,53,Perempuan,Ternate,ECAT638,ECAT638,Frequent Buyer,1791078.62,Lebaran
+CSTM367,Bala,34,Laki-laki,Tidore Kepulauan,"ECAT598, ECAT288",ECAT598,Bargain Hunter,2465888.4,Lebaran
+CSTM990,Viman,33,Laki-laki,Kupang,"ECAT598, ECAT638, ECAT293","ECAT598, ECAT293",Occasional Shopper,351716.07,Imlek
+CSTM510,Gina,57,Perempuan,Pagaralam,ECAT051,ECAT051,Frequent Buyer,4184990.14,Natal
+CSTM409,Ganjaran,44,Laki-laki,Bekasi,"ECAT815, ECAT293","ECAT815, ECAT293",Bargain Hunter,2318465.87,Nyepi
+CSTM476,Manah,19,Laki-laki,Payakumbuh,ECAT051,ECAT051,Bargain Hunter,4421627.18,Nyepi
+CSTM846,Hartana,33,Laki-laki,Padangpanjang,ECAT293,ECAT293,Occasional Shopper,3463479.79,Nyepi
+CSTM177,Wardaya,50,Laki-laki,Sukabumi,"ECAT288, ECAT598, ECAT293",ECAT288,Occasional Shopper,55873.26,Natal
+CSTM387,Restu,50,Perempuan,Dumai,"ECAT051, ECAT638, ECAT293",ECAT293,Bargain Hunter,2861821.08,Waisak
+CSTM816,Jono,25,Laki-laki,Jayapura,ECAT051,ECAT051,High Spender,1934110.61,Lebaran
+CSTM656,Sabar,37,Laki-laki,Palangkaraya,"ECAT051, ECAT288, ECAT638","ECAT638, ECAT051, ECAT288",High Spender,4641371.29,Waisak
+CSTM928,Upik,53,Laki-laki,Depok,ECAT598,ECAT598,Frequent Buyer,1546108.23,Tahun Baru
+CSTM056,Jais,25,Laki-laki,Kota Administrasi Jakarta Barat,ECAT288,ECAT288,Frequent Buyer,3789220.89,Lebaran
+CSTM585,Estiawan,54,Laki-laki,Tangerang Selatan,ECAT815,ECAT815,Bargain Hunter,4122311.07,Natal
+CSTM671,Sadina,28,Perempuan,Cirebon,"ECAT288, ECAT293, ECAT815","ECAT815, ECAT288",High Spender,2050507.06,Waisak
+CSTM737,Dipa,26,Laki-laki,Cilegon,"ECAT288, ECAT638, ECAT815",ECAT815,Occasional Shopper,1432199.29,Natal
+CSTM489,Lanjar,21,Laki-laki,Mataram,"ECAT638, ECAT293, ECAT815","ECAT293, ECAT815, ECAT638",Bargain Hunter,3067012.73,Waisak
+CSTM453,Hendra,35,Laki-laki,Depok,ECAT598,ECAT598,Bargain Hunter,4661593.58,Natal
+CSTM543,Humaira,31,Perempuan,Kupang,ECAT293,ECAT293,Occasional Shopper,4624618.2,Imlek
+CSTM037,Luthfi,34,Laki-laki,Palu,"ECAT638, ECAT051","ECAT638, ECAT051",Occasional Shopper,521548.39,Nyepi
+CSTM323,Ellis,44,Perempuan,Cirebon,"ECAT815, ECAT288","ECAT288, ECAT815",High Spender,623656.75,Natal
+CSTM305,Intan,39,Perempuan,Depok,"ECAT051, ECAT288, ECAT815","ECAT288, ECAT051",Occasional Shopper,2253704.97,Natal
+CSTM192,Balijan,36,Laki-laki,Padangpanjang,ECAT288,ECAT288,Occasional Shopper,4676767.55,Lebaran
+CSTM814,Ifa,37,Perempuan,Cilegon,ECAT598,ECAT598,Frequent Buyer,3475626.67,Natal
+CSTM735,Hamzah,41,Laki-laki,Sungai Penuh,"ECAT293, ECAT815, ECAT598","ECAT293, ECAT815",Bargain Hunter,3178696.75,Lebaran
+CSTM338,Bakda,38,Laki-laki,Palembang,ECAT288,ECAT288,Frequent Buyer,3202396.49,Nyepi
+CSTM011,Yuni,58,Perempuan,Padangpanjang,"ECAT288, ECAT815, ECAT598",ECAT815,Bargain Hunter,4511973.01,Natal
+CSTM384,Hardana,34,Laki-laki,Batu,"ECAT598, ECAT638",ECAT638,Frequent Buyer,4610672.89,Tahun Baru
+CSTM048,Catur,50,Laki-laki,Banjarmasin,ECAT293,ECAT293,Bargain Hunter,385289.44,Nyepi
+CSTM730,Nadia,59,Perempuan,Bengkulu,"ECAT051, ECAT288, ECAT815","ECAT815, ECAT051, ECAT288",Occasional Shopper,4068200.06,Nyepi
+CSTM719,Cawuk,54,Laki-laki,Tasikmalaya,"ECAT293, ECAT288, ECAT598",ECAT288,High Spender,4193375.21,Natal
+CSTM863,Clara,54,Perempuan,Singkawang,ECAT293,ECAT293,High Spender,2364142.69,Natal
+CSTM253,Utama,18,Laki-laki,Kota Administrasi Jakarta Timur,"ECAT288, ECAT638, ECAT293",ECAT293,Bargain Hunter,4890516.32,Tahun Baru
+CSTM990,Maimunah,36,Perempuan,Manado,"ECAT051, ECAT815",ECAT051,Occasional Shopper,449241.97,Tahun Baru
+CSTM323,Uchita,56,Perempuan,Kota Administrasi Jakarta Timur,"ECAT598, ECAT288","ECAT288, ECAT598",Frequent Buyer,1655599.79,Tahun Baru
+CSTM832,Kiandra,45,Perempuan,Padangpanjang,"ECAT288, ECAT815","ECAT288, ECAT815",Occasional Shopper,2862842.5,Nyepi
+CSTM264,Bala,34,Laki-laki,Padang Sidempuan,"ECAT288, ECAT598, ECAT293","ECAT293, ECAT598, ECAT288",Frequent Buyer,1648633.72,Nyepi
+CSTM431,Amelia,34,Perempuan,Lhokseumawe,"ECAT638, ECAT051, ECAT815",ECAT051,Occasional Shopper,598583.59,Natal
+CSTM496,Jayadi,26,Laki-laki,Manado,ECAT598,ECAT598,Bargain Hunter,680427.27,Imlek
+CSTM961,Cinthia,30,Perempuan,Tasikmalaya,"ECAT638, ECAT288, ECAT598","ECAT288, ECAT638",High Spender,833571.22,Imlek
+CSTM622,Estiawan,22,Laki-laki,Cimahi,ECAT288,ECAT288,Occasional Shopper,3722531.12,Imlek
+CSTM496,Vanesa,47,Perempuan,Ternate,"ECAT815, ECAT638, ECAT288",ECAT815,High Spender,2937547.95,Waisak
+CSTM492,Betania,25,Perempuan,Padang Sidempuan,"ECAT293, ECAT051","ECAT051, ECAT293",Frequent Buyer,4279670.57,Lebaran
+CSTM723,Kiandra,49,Perempuan,Gorontalo,ECAT288,ECAT288,Occasional Shopper,2954557.38,Tahun Baru
+CSTM564,Anom,45,Laki-laki,Sungai Penuh,ECAT293,ECAT293,Bargain Hunter,4917661.37,Natal
+CSTM580,Asirwada,50,Laki-laki,Purwokerto,"ECAT051, ECAT815, ECAT293",ECAT815,Frequent Buyer,1748078.12,Waisak
+CSTM726,Endra,22,Laki-laki,Prabumulih,"ECAT638, ECAT598, ECAT051","ECAT051, ECAT598",Occasional Shopper,2403905.28,Imlek
+CSTM858,Harto,53,Laki-laki,Surakarta,"ECAT638, ECAT051, ECAT815","ECAT051, ECAT815",Occasional Shopper,4189710.08,Nyepi
+CSTM936,Ira,25,Perempuan,Cilegon,"ECAT293, ECAT815","ECAT815, ECAT293",Frequent Buyer,1070199.3,Lebaran
+CSTM862,Oliva,42,Perempuan,Jayapura,"ECAT288, ECAT051","ECAT051, ECAT288",Frequent Buyer,2098957.25,Natal
+CSTM341,Cemeti,38,Laki-laki,Madiun,ECAT293,ECAT293,Occasional Shopper,336810.98,Imlek
+CSTM940,Septi,44,Perempuan,Madiun,"ECAT288, ECAT638","ECAT288, ECAT638",Frequent Buyer,147144.62,Waisak
+CSTM924,Adika,22,Laki-laki,Tasikmalaya,ECAT293,ECAT293,Bargain Hunter,3265510.04,Natal
+CSTM266,Puput,38,Perempuan,Probolinggo,"ECAT293, ECAT638",ECAT293,Occasional Shopper,3900604.45,Natal
+CSTM878,Rahayu,57,Perempuan,Singkawang,"ECAT293, ECAT288, ECAT638","ECAT288, ECAT293, ECAT638",Bargain Hunter,3025017.18,Natal
+CSTM693,Banawi,43,Laki-laki,Denpasar,"ECAT051, ECAT288, ECAT293","ECAT051, ECAT293, ECAT288",Bargain Hunter,4169252.87,Natal
+CSTM025,Dalima,38,Perempuan,Balikpapan,"ECAT051, ECAT293, ECAT598",ECAT293,Occasional Shopper,375045.12,Nyepi
+CSTM070,Rafi,26,Laki-laki,Manado,"ECAT288, ECAT815","ECAT815, ECAT288",Frequent Buyer,1046208.41,Tahun Baru
+CSTM736,Tami,33,Perempuan,Kota Administrasi Jakarta Pusat,ECAT638,ECAT638,Bargain Hunter,2611613.27,Nyepi
+CSTM345,Kairav,59,Laki-laki,Pangkalpinang,"ECAT815, ECAT051, ECAT288","ECAT288, ECAT815, ECAT051",Bargain Hunter,4727187.54,Natal
+CSTM965,Anita,59,Perempuan,Probolinggo,ECAT051,ECAT051,Occasional Shopper,4917104.71,Imlek
+CSTM658,Dasa,18,Laki-laki,Bima,"ECAT293, ECAT051",ECAT051,Bargain Hunter,4111630.24,Natal
+CSTM692,Gabriella,49,Perempuan,Purwokerto,"ECAT288, ECAT051, ECAT293",ECAT051,High Spender,3965645.18,Natal
+CSTM054,Talia,36,Perempuan,Tual,"ECAT293, ECAT815, ECAT598","ECAT293, ECAT815, ECAT598",Bargain Hunter,1920250.56,Tahun Baru
+CSTM486,Lalita,42,Perempuan,Manado,"ECAT638, ECAT051","ECAT638, ECAT051",High Spender,769967.06,Imlek
+CSTM759,Rafi,26,Laki-laki,Makassar,ECAT815,ECAT815,Occasional Shopper,4608377.62,Imlek
+CSTM476,Samiah,34,Perempuan,Banjarmasin,ECAT815,ECAT815,Occasional Shopper,1086869.54,Tahun Baru
+CSTM699,Eva,19,Perempuan,Batu,ECAT288,ECAT288,Bargain Hunter,1033262.92,Waisak
+CSTM695,Malik,56,Laki-laki,Tangerang Selatan,"ECAT051, ECAT815","ECAT051, ECAT815",Occasional Shopper,4156520.69,Waisak
+CSTM490,Hilda,43,Perempuan,Malang,ECAT815,ECAT815,Bargain Hunter,1981439.26,Tahun Baru
+CSTM552,Pranawa,36,Laki-laki,Singkawang,"ECAT815, ECAT051",ECAT051,Bargain Hunter,1069393.28,Natal
+CSTM694,Kayla,39,Perempuan,Langsa,"ECAT051, ECAT815, ECAT598","ECAT815, ECAT051, ECAT598",High Spender,2288598.95,Nyepi
+CSTM843,Amalia,20,Perempuan,Surabaya,"ECAT815, ECAT051","ECAT051, ECAT815",Bargain Hunter,4959533.39,Nyepi
+CSTM044,Reksa,48,Laki-laki,Batu,ECAT293,ECAT293,Bargain Hunter,1588508.59,Tahun Baru
+CSTM815,Sabar,50,Laki-laki,Tangerang,"ECAT051, ECAT638",ECAT051,Frequent Buyer,257520.19,Waisak
+CSTM262,Wani,51,Perempuan,Ternate,ECAT051,ECAT051,Bargain Hunter,1975398.02,Tahun Baru
+CSTM845,Atmaja,19,Laki-laki,Malang,"ECAT598, ECAT815","ECAT815, ECAT598",Frequent Buyer,3997317.87,Lebaran
+CSTM821,Radit,26,Laki-laki,Cimahi,"ECAT638, ECAT288, ECAT815","ECAT638, ECAT288",High Spender,570869.55,Imlek
+CSTM505,Maria,60,Perempuan,Batu,"ECAT293, ECAT638, ECAT598","ECAT638, ECAT293, ECAT598",Bargain Hunter,691742.99,Tahun Baru
+CSTM698,Ratna,55,Perempuan,Tanjungpinang,"ECAT293, ECAT288, ECAT638","ECAT638, ECAT293, ECAT288",Frequent Buyer,489094.87,Waisak
+CSTM870,Kamila,24,Perempuan,Tanjungpinang,"ECAT598, ECAT288, ECAT293","ECAT288, ECAT598",Bargain Hunter,1731332.59,Natal
+CSTM374,Hendri,19,Laki-laki,Tanjungpinang,"ECAT051, ECAT598","ECAT598, ECAT051",High Spender,1751665.26,Lebaran
+CSTM774,Gada,32,Laki-laki,Payakumbuh,ECAT598,ECAT598,Frequent Buyer,487747.87,Imlek
+CSTM473,Hana,56,Perempuan,Padangpanjang,ECAT051,ECAT051,Frequent Buyer,2907839.39,Tahun Baru
+CSTM779,Jono,49,Laki-laki,Tanjungpinang,ECAT638,ECAT638,Occasional Shopper,1891748.66,Imlek
+CSTM287,Salimah,30,Perempuan,Sorong,ECAT638,ECAT638,Bargain Hunter,4797005.41,Lebaran
+CSTM171,Galih,22,Laki-laki,Padang Sidempuan,ECAT815,ECAT815,High Spender,1899606.9,Natal
+CSTM513,Queen,25,Perempuan,Subulussalam,"ECAT815, ECAT051","ECAT815, ECAT051",Bargain Hunter,4793355.04,Imlek
+CSTM502,Natalia,26,Perempuan,Langsa,ECAT288,ECAT288,Frequent Buyer,900377.42,Lebaran
+CSTM838,Queen,59,Perempuan,Bogor,"ECAT598, ECAT293, ECAT288",ECAT288,Frequent Buyer,1636733.84,Natal
+CSTM416,Nasim,24,Laki-laki,Tomohon,"ECAT638, ECAT815","ECAT638, ECAT815",High Spender,221941.28,Imlek
+CSTM997,Maida,41,Perempuan,Serang,ECAT815,ECAT815,Frequent Buyer,1129673.18,Imlek
+CSTM341,Icha,20,Perempuan,Pagaralam,"ECAT598, ECAT293","ECAT598, ECAT293",Occasional Shopper,309823.91,Waisak
+CSTM425,Cengkal,48,Laki-laki,Tangerang Selatan,ECAT638,ECAT638,High Spender,1818040.93,Nyepi
+CSTM357,Balamantri,53,Laki-laki,Sawahlunto,"ECAT638, ECAT815",ECAT815,High Spender,801748.01,Imlek
+CSTM886,Tedi,25,Laki-laki,Mataram,ECAT638,ECAT638,Bargain Hunter,2947538.94,Natal
+CSTM408,Ratna,19,Perempuan,Kota Administrasi Jakarta Selatan,"ECAT293, ECAT051, ECAT598","ECAT051, ECAT293",High Spender,1312413.95,Tahun Baru
+CSTM598,Fitria,50,Perempuan,Sibolga,ECAT638,ECAT638,Frequent Buyer,3213844.18,Nyepi
+CSTM490,Zizi,26,Perempuan,Kediri,"ECAT293, ECAT815, ECAT638",ECAT815,Occasional Shopper,2365792.1,Waisak
+CSTM334,Himawan,32,Laki-laki,Pematangsiantar,ECAT598,ECAT598,Frequent Buyer,4756270.16,Waisak
+CSTM825,Janet,47,Perempuan,Banjar,"ECAT288, ECAT815, ECAT051","ECAT288, ECAT815, ECAT051",Occasional Shopper,1411216.61,Natal
+CSTM264,Hana,50,Perempuan,Tegal,ECAT293,ECAT293,Frequent Buyer,1809584.41,Tahun Baru
+CSTM776,Anastasia,47,Perempuan,Pagaralam,"ECAT288, ECAT598",ECAT598,High Spender,3741871.82,Waisak
+CSTM013,Jasmin,50,Perempuan,Solok,"ECAT288, ECAT051, ECAT293","ECAT288, ECAT051, ECAT293",Occasional Shopper,1874024.8,Lebaran
+CSTM949,Puspa,30,Perempuan,Bengkulu,"ECAT051, ECAT815",ECAT051,Frequent Buyer,2488614.49,Lebaran
+CSTM108,Yuni,58,Perempuan,Probolinggo,ECAT288,ECAT288,Occasional Shopper,2490562.5,Imlek
+CSTM424,Talia,44,Perempuan,Cirebon,"ECAT638, ECAT293","ECAT638, ECAT293",High Spender,2479913.64,Natal
+CSTM264,Kamal,53,Laki-laki,Sabang,"ECAT598, ECAT288, ECAT051",ECAT051,Occasional Shopper,353740.76,Nyepi
+CSTM093,Vega,43,Laki-laki,Payakumbuh,ECAT051,ECAT051,Frequent Buyer,3839005.08,Nyepi
+CSTM432,Raina,40,Perempuan,Kota Administrasi Jakarta Selatan,"ECAT288, ECAT051",ECAT051,Bargain Hunter,4001888.5,Tahun Baru
+CSTM181,Hari,51,Laki-laki,Ambon,"ECAT288, ECAT598","ECAT598, ECAT288",Frequent Buyer,2645534.53,Tahun Baru
+CSTM162,Kayla,41,Perempuan,Bima,"ECAT293, ECAT815, ECAT051","ECAT051, ECAT293, ECAT815",High Spender,359201.23,Lebaran
+CSTM889,Himawan,53,Laki-laki,Lubuklinggau,"ECAT288, ECAT051, ECAT815","ECAT288, ECAT051",Occasional Shopper,2969079.85,Waisak
+CSTM706,Salman,46,Laki-laki,Bandar Lampung,"ECAT293, ECAT638","ECAT638, ECAT293",Occasional Shopper,3254060.35,Natal
+CSTM584,Zahra,59,Perempuan,Subulussalam,"ECAT815, ECAT051","ECAT051, ECAT815",Frequent Buyer,1956602.26,Lebaran
+CSTM256,Pia,42,Perempuan,Jambi,"ECAT598, ECAT815, ECAT293","ECAT598, ECAT815",Bargain Hunter,2213892.93,Waisak
+CSTM366,Lintang,23,Perempuan,Cirebon,"ECAT598, ECAT051, ECAT293",ECAT598,High Spender,3981305.39,Imlek
+CSTM918,Tri,54,Laki-laki,Padangpanjang,"ECAT638, ECAT051",ECAT051,Bargain Hunter,1386645.26,Natal
+CSTM771,Rina,33,Perempuan,Langsa,"ECAT293, ECAT051",ECAT293,Frequent Buyer,4806770.57,Tahun Baru
+CSTM980,Koko,44,Laki-laki,Tidore Kepulauan,ECAT288,ECAT288,Frequent Buyer,2369790.62,Waisak
+CSTM411,Jati,20,Laki-laki,Salatiga,"ECAT598, ECAT051",ECAT051,High Spender,2134674.24,Lebaran
+CSTM448,Jabal,18,Laki-laki,Banjarmasin,ECAT815,ECAT815,High Spender,2819263.61,Waisak
+CSTM828,Harsaya,43,Laki-laki,Tanjungpinang,ECAT598,ECAT598,Occasional Shopper,4299512.45,Tahun Baru
+CSTM961,Genta,33,Perempuan,Bitung,"ECAT293, ECAT051",ECAT051,Bargain Hunter,2612825.5,Nyepi
+CSTM567,Tania,39,Perempuan,Banjar,ECAT288,ECAT288,High Spender,4412760.29,Natal
+CSTM726,Yulia,47,Perempuan,Lubuklinggau,"ECAT051, ECAT288, ECAT815","ECAT288, ECAT815",High Spender,3673787.26,Nyepi
+CSTM263,Maman,18,Laki-laki,Jambi,ECAT293,ECAT293,Occasional Shopper,2014425.85,Waisak
+CSTM903,Maman,33,Laki-laki,Madiun,"ECAT293, ECAT051, ECAT638","ECAT638, ECAT293",Occasional Shopper,2096971.24,Waisak
+CSTM247,Cawuk,23,Laki-laki,Depok,"ECAT051, ECAT288",ECAT051,Bargain Hunter,4313497.81,Natal
+CSTM546,Eka,32,Laki-laki,Cilegon,"ECAT815, ECAT598, ECAT638","ECAT638, ECAT815",Bargain Hunter,3314618.04,Tahun Baru
+CSTM601,Laras,40,Perempuan,Salatiga,"ECAT288, ECAT293, ECAT598","ECAT598, ECAT293, ECAT288",High Spender,4534243.14,Lebaran
+CSTM934,Latika,32,Perempuan,Bitung,"ECAT293, ECAT638",ECAT293,Frequent Buyer,1361437.07,Nyepi
+CSTM386,Sabar,48,Laki-laki,Surabaya,ECAT051,ECAT051,Bargain Hunter,4492149.9,Lebaran
+CSTM780,Gandi,38,Laki-laki,Pariaman,"ECAT288, ECAT293",ECAT293,Bargain Hunter,709256.27,Natal
+CSTM753,Syahrini,38,Perempuan,Pariaman,"ECAT815, ECAT293, ECAT288","ECAT293, ECAT815, ECAT288",Frequent Buyer,3747140.04,Lebaran
+CSTM186,Purwa,57,Laki-laki,Bekasi,"ECAT293, ECAT051, ECAT598",ECAT293,Frequent Buyer,3752564.1,Lebaran
+CSTM578,Mulya,50,Laki-laki,Pekanbaru,"ECAT051, ECAT288",ECAT051,Occasional Shopper,3386598.12,Lebaran
+CSTM201,Martaka,43,Laki-laki,Purwokerto,"ECAT815, ECAT288, ECAT598","ECAT815, ECAT598",Bargain Hunter,4782913.73,Natal
+CSTM687,Iriana,59,Perempuan,Padang,"ECAT598, ECAT638, ECAT051","ECAT598, ECAT638",Bargain Hunter,4767990.68,Nyepi
+CSTM402,Lala,48,Perempuan,Medan,ECAT288,ECAT288,Bargain Hunter,3520773.0,Natal
+CSTM319,Labuh,24,Laki-laki,Palembang,"ECAT638, ECAT051, ECAT815","ECAT815, ECAT051",Occasional Shopper,4014507.18,Waisak
+CSTM833,Queen,21,Perempuan,Ambon,"ECAT288, ECAT598, ECAT293","ECAT293, ECAT598",Frequent Buyer,3706721.56,Natal
+CSTM061,Jamalia,59,Perempuan,Sawahlunto,"ECAT288, ECAT638",ECAT288,Bargain Hunter,2156915.7,Natal
+CSTM475,Hadi,58,Laki-laki,Sibolga,"ECAT293, ECAT638","ECAT638, ECAT293",Bargain Hunter,2261356.98,Imlek
+CSTM474,Latika,57,Perempuan,Kupang,"ECAT815, ECAT051",ECAT051,Bargain Hunter,3008482.87,Lebaran
+CSTM197,Tania,58,Perempuan,Serang,"ECAT638, ECAT288, ECAT598","ECAT598, ECAT638",Frequent Buyer,282242.35,Nyepi
+CSTM828,Gambira,25,Laki-laki,Tual,"ECAT288, ECAT815, ECAT598","ECAT815, ECAT288, ECAT598",Occasional Shopper,1543953.57,Lebaran
+CSTM299,Jelita,18,Perempuan,Medan,"ECAT815, ECAT638, ECAT598",ECAT638,Bargain Hunter,4015086.44,Waisak
+CSTM511,Janet,25,Perempuan,Sungai Penuh,ECAT815,ECAT815,Occasional Shopper,2408380.8,Imlek
+CSTM329,Garan,58,Laki-laki,Manado,ECAT051,ECAT051,Occasional Shopper,715585.6,Imlek
+CSTM388,Chandra,41,Laki-laki,Kendari,"ECAT638, ECAT293, ECAT598",ECAT638,Frequent Buyer,3513672.09,Imlek
+CSTM089,Darman,60,Laki-laki,Sukabumi,"ECAT815, ECAT638","ECAT815, ECAT638",High Spender,820090.43,Nyepi
+CSTM132,Lintang,25,Perempuan,Tanjungbalai,"ECAT288, ECAT293, ECAT638",ECAT288,Frequent Buyer,4197477.6,Lebaran
+CSTM071,Nadine,27,Perempuan,Tidore Kepulauan,"ECAT051, ECAT815",ECAT051,Frequent Buyer,947416.01,Waisak
+CSTM737,Chelsea,52,Perempuan,Padangpanjang,"ECAT638, ECAT051","ECAT051, ECAT638",Frequent Buyer,1091630.74,Tahun Baru
+CSTM649,Zamira,33,Perempuan,Medan,ECAT288,ECAT288,High Spender,356925.0,Lebaran
+CSTM201,Emin,48,Laki-laki,Bontang,"ECAT288, ECAT598, ECAT293","ECAT598, ECAT288, ECAT293",High Spender,398390.09,Natal
+CSTM836,Yusuf,47,Laki-laki,Banjar,"ECAT815, ECAT598","ECAT815, ECAT598",Occasional Shopper,2526349.44,Imlek
+CSTM506,Jono,36,Laki-laki,Cilegon,"ECAT293, ECAT288","ECAT293, ECAT288",Occasional Shopper,121077.43,Nyepi
+CSTM858,Dirja,38,Laki-laki,Sukabumi,ECAT051,ECAT051,Bargain Hunter,1269285.37,Waisak
+CSTM406,Maman,31,Laki-laki,Bima,ECAT293,ECAT293,Bargain Hunter,2146243.3,Waisak
+CSTM627,Jamal,35,Laki-laki,Kota Administrasi Jakarta Pusat,ECAT288,ECAT288,Frequent Buyer,830247.96,Natal
+CSTM036,Rahmi,23,Perempuan,Padang,"ECAT598, ECAT051, ECAT638","ECAT598, ECAT051",Frequent Buyer,3727053.93,Tahun Baru
+CSTM143,Shania,46,Perempuan,Bogor,"ECAT598, ECAT815",ECAT598,Frequent Buyer,291246.32,Nyepi
+CSTM073,Tomi,55,Laki-laki,Padang,"ECAT288, ECAT293, ECAT815","ECAT815, ECAT288, ECAT293",High Spender,4137497.73,Imlek
+CSTM771,Hartaka,37,Laki-laki,Kota Administrasi Jakarta Barat,"ECAT815, ECAT051","ECAT815, ECAT051",Bargain Hunter,4521556.31,Nyepi
+CSTM452,Cindy,40,Perempuan,Sawahlunto,"ECAT293, ECAT598, ECAT815","ECAT293, ECAT815",Bargain Hunter,1207068.4,Natal
+CSTM465,Syahrini,24,Perempuan,Cimahi,"ECAT288, ECAT815",ECAT815,Occasional Shopper,898154.32,Natal
+CSTM483,Kala,38,Laki-laki,Pekalongan,ECAT815,ECAT815,Occasional Shopper,3633634.47,Imlek
+CSTM676,Wira,34,Laki-laki,Surabaya,ECAT815,ECAT815,Occasional Shopper,3447196.04,Lebaran
+CSTM004,Elon,38,Laki-laki,Bengkulu,"ECAT293, ECAT815",ECAT815,Occasional Shopper,3373412.33,Natal
+CSTM764,Ghani,50,Laki-laki,Pagaralam,"ECAT638, ECAT051",ECAT638,Bargain Hunter,1199249.89,Lebaran
+CSTM088,Luwar,45,Laki-laki,Madiun,"ECAT815, ECAT293","ECAT293, ECAT815",Bargain Hunter,2016199.65,Tahun Baru
+CSTM425,Samsul,18,Laki-laki,Kota Administrasi Jakarta Timur,ECAT598,ECAT598,High Spender,4506011.2,Imlek
+CSTM354,Pranawa,18,Laki-laki,Kotamobagu,ECAT293,ECAT293,Occasional Shopper,2709345.13,Lebaran
+CSTM744,Wulan,39,Perempuan,Jayapura,ECAT293,ECAT293,Occasional Shopper,3172157.28,Imlek
+CSTM260,Ayu,42,Perempuan,Yogyakarta,"ECAT815, ECAT051",ECAT051,Bargain Hunter,4066593.09,Tahun Baru
+CSTM503,Zulfa,18,Perempuan,Mataram,"ECAT288, ECAT051, ECAT638","ECAT638, ECAT288, ECAT051",High Spender,1209008.52,Nyepi
+CSTM696,Daru,53,Laki-laki,Kupang,"ECAT293, ECAT815","ECAT293, ECAT815",Bargain Hunter,4051297.54,Tahun Baru
+CSTM338,Icha,40,Perempuan,Bukittinggi,ECAT293,ECAT293,Bargain Hunter,4244704.05,Natal
+CSTM408,Darman,33,Laki-laki,Palangkaraya,"ECAT288, ECAT598","ECAT288, ECAT598",Frequent Buyer,1890828.74,Tahun Baru
+CSTM841,Julia,54,Perempuan,Banjar,"ECAT638, ECAT293, ECAT051","ECAT638, ECAT293, ECAT051",Bargain Hunter,1347934.55,Imlek
+CSTM555,Jasmani,58,Laki-laki,Kota Administrasi Jakarta Selatan,"ECAT288, ECAT638, ECAT051",ECAT288,Frequent Buyer,137213.54,Waisak
+CSTM823,Sari,51,Perempuan,Metro,"ECAT598, ECAT293","ECAT293, ECAT598",Frequent Buyer,1537560.49,Tahun Baru
+CSTM327,Rangga,55,Laki-laki,Tegal,"ECAT815, ECAT598, ECAT293","ECAT293, ECAT598, ECAT815",Bargain Hunter,2056064.27,Waisak
+CSTM814,Putri,34,Perempuan,Subulussalam,"ECAT598, ECAT051, ECAT815",ECAT598,High Spender,4251629.49,Tahun Baru
+CSTM996,Lembah,25,Laki-laki,Yogyakarta,"ECAT051, ECAT293","ECAT051, ECAT293",Frequent Buyer,2520300.44,Tahun Baru
+CSTM614,Indah,43,Perempuan,Malang,"ECAT293, ECAT598, ECAT051","ECAT051, ECAT598, ECAT293",Frequent Buyer,3162324.47,Nyepi
+CSTM915,Najwa,28,Perempuan,Sawahlunto,"ECAT051, ECAT815",ECAT815,Bargain Hunter,2209756.96,Waisak
+CSTM150,Puspa,18,Perempuan,Gorontalo,"ECAT293, ECAT598",ECAT293,Frequent Buyer,540934.02,Imlek
+CSTM444,Gaman,18,Laki-laki,Pekalongan,ECAT293,ECAT293,Occasional Shopper,1256343.17,Lebaran
+CSTM557,Paramita,39,Perempuan,Kediri,"ECAT288, ECAT638",ECAT288,High Spender,2116454.67,Imlek
+CSTM075,Kasiran,26,Laki-laki,Surabaya,"ECAT293, ECAT288",ECAT293,Bargain Hunter,3074583.07,Lebaran
+CSTM653,Candrakanta,54,Laki-laki,Sukabumi,"ECAT293, ECAT288, ECAT051","ECAT051, ECAT288",High Spender,4188022.88,Imlek
+CSTM237,Intan,20,Perempuan,Sibolga,"ECAT288, ECAT598, ECAT051","ECAT288, ECAT598",Occasional Shopper,2340445.14,Lebaran
+CSTM210,Ratih,44,Perempuan,Ternate,ECAT815,ECAT815,High Spender,4489576.25,Nyepi
