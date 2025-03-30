@@ -61,7 +61,8 @@ class TransformTokpedExportData(luigi.Task):
         df_product['price_sale'] = df_product['price_sale'].astype(str).str.replace('Rp', '', regex=False).str.replace('.', '', regex=False).str.strip().apply(pd.to_numeric)
         df_product['discount'] = df_product['discount'].fillna('No Discount')
         df_product['sold'] = df_product['sold'].fillna('0')
-        df_product['sold'] = df_product['sold'].str.replace('terjual', '').str.strip().astype(str)
+        df_product['sold'] = df_product['sold'].str.replace(' terjual', '').str.strip().astype(str)
+        df_product['sold'] = df_product['sold'].str.replace('+', '').astype(int)
         df_product['rating'] = df_product['rating'].fillna('No Discount')
         df_product = df_product[['product_id', 'color_id', 'price_original', 'price_sale', 'discount', 'sold', 'rating']]
 
