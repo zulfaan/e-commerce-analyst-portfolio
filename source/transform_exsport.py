@@ -51,7 +51,8 @@ class TransformTokpedExportData(luigi.Task):
         df_name = pd.DataFrame(df_name)
 
         # Transformasi df_product
-        df_product['color_id'] = df_product['name_product'].apply(extract_color)
+        df_product['color'] = df_product['name_product'].apply(extract_color)
+        df_product['color_id'] = df_product['color'].map(df_color.set_index('color')['color_id'])
         df_product['name_product'] = df_product['name_product'].str.replace('"', '').str.split('-').str[0].str.upper()
         df_product = df_product.merge(df_name, on='name_product', how='left')
         df_product = df_product.merge(df_color, on='color_id', how='left')
@@ -60,7 +61,7 @@ class TransformTokpedExportData(luigi.Task):
         df_product['price_sale'] = df_product['price_sale'].astype(str).str.replace('Rp', '', regex=False).str.replace('.', '', regex=False).str.strip().apply(pd.to_numeric)
         df_product['discount'] = df_product['discount'].fillna('No Discount')
         df_product['sold'] = df_product['sold'].fillna('0')
-        df_product['sold'] = df_product['sold'].str.replace('Terjual', '').str.strip().astype(str)
+        df_product['sold'] = df_product['sold'].str.replace('terjual', '').str.strip().astype(str)
         df_product['rating'] = df_product['rating'].fillna('No Discount')
         df_product = df_product[['product_id', 'color_id', 'price_original', 'price_sale', 'discount', 'sold', 'rating']]
 
