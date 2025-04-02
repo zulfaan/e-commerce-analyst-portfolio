@@ -1,8 +1,9 @@
 from datetime import datetime
 from datetime import date
 from faker import Faker
-import pandas as pd
+import hashlib
 import random
+
 
 def extract_category(name_product):
     name_lower = name_product.lower()
@@ -57,25 +58,21 @@ def extract_color(name_product):
         return color_product
     else:  # 3. Jika tidak ada di keduanya
         return 'Tidak ada spesifikasi warna'
-
-def generate_product_id(index):
-    letters = 'ETWS'  # Menggunakan ETWS secara berurutan
-    numbers = ''.join(random.choices('0123456789', k=3)) 
-    product_id = letters + numbers
     
-    return product_id
+def generate_product_id(index):
+    base_string = f"PRODUCT-{index}"
+    unique_hash = hashlib.md5(base_string.encode()).hexdigest()[:6]  # Ambil 6 karakter pertama
+    return f"ETWS{unique_hash.upper()}"
 
 def generate_color_id(index):
-    letters = 'ECLR'
-    numbers = ''.join(random.choices('0123456789', k=3))   
-    category_id = letters + numbers  
-    return category_id
+    base_string = f"COLOR-{index}"
+    unique_hash = hashlib.md5(base_string.encode()).hexdigest()[:6]
+    return f"ECLR{unique_hash.upper()}"
 
 def generate_category_id(index):
-    letters = 'ECAT'
-    numbers = ''.join(random.choices('0123456789', k=3))   
-    category_id = letters + numbers  
-    return category_id
+    base_string = f"CATEGORY-{index}"
+    unique_hash = hashlib.md5(base_string.encode()).hexdigest()[:6]
+    return f"ECAT{unique_hash.upper()}"
 
 def generate_customer_id(existing_ids):
     while True:
@@ -102,7 +99,6 @@ def generate_order_id():
     order_id = letters + numbers
 
     return order_id
-
 
 def generate_order_date():
     start_date = datetime(2024, 1, 1)

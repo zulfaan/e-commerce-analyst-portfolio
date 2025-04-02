@@ -36,7 +36,7 @@ class TransformTokpedExportData(luigi.Task):
         # Ekstrak kategori dari stock
         df_category = {
             'category_id' : [generate_category_id(i) for i in range(len(df_stock['category'].unique()))],
-            'category' : df_stock['category'].str.upper().dropna().unique()
+            'category' : df_stock['category'].apply(extract_category).unique()
         }
         df_category = pd.DataFrame(df_category)
 
