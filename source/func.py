@@ -3,6 +3,7 @@ from datetime import date
 from faker import Faker
 import hashlib
 import random
+import time
 
 
 def extract_category(name_product):
@@ -74,31 +75,32 @@ def generate_category_id(index):
     unique_hash = hashlib.md5(base_string.encode()).hexdigest()[:6]
     return f"ECAT{unique_hash.upper()}"
 
+fake = Faker('id_ID')
+
 def generate_customer_id(existing_ids):
     while True:
-        letters = 'CSTM'
-        numbers = ''.join(random.choices('0123456789', k=5))
-        customer_id = letters + numbers
+        unique_string = f"CSTM{random.randint(10000, 99999)}{time.time_ns()}"
+        customer_id = "CSTM" + hashlib.md5(unique_string.encode()).hexdigest()[:5].upper()
         if customer_id not in existing_ids:
             existing_ids.add(customer_id)
             return customer_id
 
-fake = Faker('id_ID')
-
 def generate_full_name(gender):
     first_name = fake.first_name_male() if gender == 'Laki-laki' else fake.first_name_female()
     last_name = fake.last_name()
-    middle_name = fake.first_name() if random.random() > 0.5 else ''
+    middle_name = fake.first_name() if random.random() > 0.5 else '' 
     full_name = ' '.join(filter(None, [first_name, middle_name, last_name]))
-
     return full_name
 
-def generate_order_id():
-    letters = 'ORDT'
-    numbers = ''.join(random.choices('0123456789', k=6))
-    order_id = letters + numbers
+def generate_order_id(existing_order_ids):
+    while True:
+        unique_string = f"{time.time_ns()}{random.randint(1000, 9999)}"
+        order_hash = hashlib.md5(unique_string.encode()).hexdigest()[:10]  # Ambil 10 karakter pertama
+        order_id = "ORDT" + order_hash.upper()  # Tambahkan prefix
 
-    return order_id
+        if order_id not in existing_order_ids:
+            existing_order_ids.add(order_id)
+            return order_id
 
 def generate_order_date():
     start_date = datetime(2024, 1, 1)

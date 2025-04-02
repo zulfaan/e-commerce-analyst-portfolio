@@ -16,17 +16,15 @@ class ExtractUserData(luigi.Task):
     def output(self):
         BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'clean-data'))
         os.makedirs(BASE_DIR, exist_ok=True)
-
         return luigi.LocalTarget(os.path.join(BASE_DIR, 'data_user_tokped.csv'))
     
     def run(self):
-
         df_category = pd.read_csv(self.input()[4].path)
         categories = df_category['category_id'].tolist()
         df_purchase = pd.read_csv(self.input()[0].path)
         purchase = df_purchase['product_id'].tolist()
 
-        def generate_customer_data(num_records=100):
+        def generate_customer_data(num_records=1000):
             data = []
             existing_ids = set()
             existing_names = set()
@@ -57,7 +55,7 @@ class ExtractUserData(luigi.Task):
     
             return pd.DataFrame(data)
         
-        user_df = generate_customer_data(1000)
+        user_df = generate_customer_data()
         user_df.to_csv(self.output().path, index=False)
 
 class ExtractOrderData(luigi.Task):
@@ -67,29 +65,27 @@ class ExtractOrderData(luigi.Task):
     def output(self):
         BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'clean-data'))
         os.makedirs(BASE_DIR, exist_ok=True)
-
         return luigi.LocalTarget(os.path.join(BASE_DIR, 'data_order_tokped.csv'))
     
     def run(self):
-
         df_product = pd.read_csv(self.input()[0][0].path)
         df_product['sold'] = df_product['sold'].astype(int)
         df_product = df_product[df_product['sold'] > 0]
-
         df_customer = pd.read_csv(self.input()[1].path)
-        customer_ids = df_customer['customer_id'].tolist() 
+        customer_ids = df_customer['customer_id'].tolist()
 
+        order_ids = set()  # Menyimpan ID order yang sudah digunakan
         shipping_methods = ['JNE', 'J&T', 'SiCepat']
         payment_methods = ['BCA', 'Mandiri', 'BNI', 'BRI', 'GoPay', 'OVO', 'DANA', 'COD']
 
         def create_order(customer_id, sold_tracker):
-            order_id = generate_order_id()
+            order_id = generate_order_id(order_ids)  # Panggil generate_order_id dengan order_ids yang ada
             order_date = generate_order_date()
             order_status = determine_order_status(order_date)
             shipping_method = random.choice(shipping_methods)
             payment_method = random.choice(payment_methods)
             
-            num_products = random.randint(1, 3)  # Maks 3 produk dalam satu order
+            num_products = random.randint(1, 3)
             available_products = [p for p, s in sold_tracker.items() if s > 0]
             random.shuffle(available_products)
             
@@ -113,7 +109,6 @@ class ExtractOrderData(luigi.Task):
                     'payment_method': payment_method,
                     'total_price': price_sale * quantity
                 })
-                
                 sold_tracker[product_id] -= quantity
             
             return order_data
@@ -121,7 +116,6 @@ class ExtractOrderData(luigi.Task):
         def generate_order_data(num_orders=3000):
             data = []
             sold_tracker = df_product.set_index('product_id')['sold'].astype(int).to_dict()
-            
             selected_customers = random.sample(customer_ids, 1000)
             
             for customer_id in selected_customers:
@@ -129,16 +123,9 @@ class ExtractOrderData(luigi.Task):
                 if order_data:
                     data.extend(order_data)
             
-            remaining_orders = num_orders - len(data)
-            for _ in range(remaining_orders):
-                customer_id = random.choice(customer_id)
-                order_data = create_order(customer_id, sold_tracker)
-                if order_data:
-                    data.extend(order_data)
-            
             return pd.DataFrame(data)
 
-        order_df = generate_order_data(3000)
+        order_df = generate_order_data()
         order_df.to_csv(self.output().path, index=False)
 
 class ExtractReviewOrder(luigi.Task):
@@ -148,17 +135,10 @@ class ExtractReviewOrder(luigi.Task):
     def output(self):
         BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'clean-data'))
         os.makedirs(BASE_DIR, exist_ok=True)
-
         return luigi.LocalTarget(os.path.join(BASE_DIR, 'data_review_order_tokped.csv'))
     
     def run(self):
-        df_product = pd.read_csv(self.input()[0][0].path)
         df_order = pd.read_csv(self.input()[1].path)
-
-        df_product = df_product[df_product['rating'] != 'No Rating'].copy()
-        df_product['rating'] = df_product['rating'].astype(float)
-        product_rating_map = df_product.set_index('product_id')['rating'].to_dict()
-
         review_texts = [
             'Tasnya sangat bagus dan kuat!',
             'Bahan berkualitas, jahitan rapi. Sangat puas!',
@@ -171,33 +151,20 @@ class ExtractReviewOrder(luigi.Task):
             'Bagus, tapi harap diperhatikan kualitas resletingnya.',
             'Modelnya trendi, saya suka!'
         ]
-
+        
         def generate_review(order):
-            order_id = order['order_id']
-            customer_id = order['customer_id']
-            product_id = order['product_id']
-            order_date = datetime.strptime(order['order_date'], '%Y-%m-%d').date()  # Konversi ke date
-            
-            max_rating = product_rating_map.get(product_id, 5)
-            rating = round(random.uniform(1, max_rating) * 2) / 2 
-            
             return {
-                'order_id': order_id,
-                'reviewer_id': customer_id,
-                'product_id': product_id,
+                'order_id': order['order_id'],
+                'reviewer_id': order['customer_id'],
+                'product_id': order['product_id'],
                 'review_text': random.choice(review_texts),
-                'rating': rating,
-                'review_date': fake.date_between(start_date=order_date)
+                'rating': round(random.uniform(1, 5) * 2) / 2,
+                'review_date': fake.date_between(start_date=datetime.strptime(order['order_date'], '%Y-%m-%d'))
             }
         
         df_review = df_order.apply(generate_review, axis=1)
-        df_review = pd.DataFrame(df_review.tolist())\
-        
+        df_review = pd.DataFrame(df_review.tolist())
         df_review.to_csv(self.output().path, index=False)
 
-
 if __name__ == '__main__':
-    luigi.build([ExtractUserData(),
-                 ExtractOrderData(),
-                 ExtractReviewOrder()],
-                 workers=1, local_scheduler=True)
+    luigi.build([ExtractUserData(), ExtractOrderData(), ExtractReviewOrder()], workers=1, local_scheduler=True)
