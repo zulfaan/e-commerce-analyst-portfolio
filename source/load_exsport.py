@@ -34,7 +34,7 @@ class LoadExsportExcel(luigi.Task):
         BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'database'))
         os.makedirs(BASE_DIR, exist_ok=True)
 
-        file_path = os.path.join(BASE_DIR, 'ecommerce_data.xlsx')
+        file_path = os.path.join(BASE_DIR, 'ecommerce_exsport.xlsx')
         return luigi.LocalTarget(file_path)  
     
     def run(self):
