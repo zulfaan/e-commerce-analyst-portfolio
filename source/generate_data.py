@@ -167,4 +167,7 @@ class ExtractReviewOrder(luigi.Task):
         df_review.to_csv(self.output().path, index=False)
 
 if __name__ == '__main__':
-    luigi.build([ExtractUserData(), ExtractOrderData(), ExtractReviewOrder()], workers=1, local_scheduler=True)
+    luigi.build([ExtractUserData(),
+                 ExtractOrderData(),
+                 ExtractReviewOrder()],
+                 workers=1, local_scheduler=True)
