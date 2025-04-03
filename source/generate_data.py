@@ -74,12 +74,12 @@ class ExtractOrderData(luigi.Task):
         df_customer = pd.read_csv(self.input()[1].path)
         customer_ids = df_customer['customer_id'].tolist()
 
-        order_ids = set()  # Menyimpan ID order yang sudah digunakan
+        order_ids = set()  
         shipping_methods = ['JNE', 'J&T', 'SiCepat']
         payment_methods = ['BCA', 'Mandiri', 'BNI', 'BRI', 'GoPay', 'OVO', 'DANA', 'COD']
 
         def create_order(customer_id, sold_tracker):
-            order_id = generate_order_id(order_ids)  # Panggil generate_order_id dengan order_ids yang ada
+            order_id = generate_order_id(order_ids)  
             order_date = generate_order_date()
             order_status = determine_order_status(order_date)
             shipping_method = random.choice(shipping_methods)
@@ -95,13 +95,16 @@ class ExtractOrderData(luigi.Task):
                     break
                 
                 product_id = available_products.pop()
+                color_id = available_products.pop()
                 quantity = random.randint(1, min(3, sold_tracker[product_id]))
                 price_sale = df_product.loc[df_product['product_id'] == product_id, 'price_sale'].values[0]
+                color_id = df_product.loc[df_product['product_id'] == product_id, 'color_id'].values[0]
                 
                 order_data.append({
                     'order_id': order_id,
                     'customer_id': customer_id,
                     'product_id': product_id,
+                    'color_id': color_id,
                     'quantity': quantity,
                     'order_date': order_date.strftime('%Y-%m-%d'),
                     'order_status': order_status,
@@ -125,7 +128,7 @@ class ExtractOrderData(luigi.Task):
             
             return pd.DataFrame(data)
 
-        order_df = generate_order_data()
+        order_df = generate_order_data(3000)
         order_df.to_csv(self.output().path, index=False)
 
 class ExtractReviewOrder(luigi.Task):

@@ -192,6 +192,7 @@ def create_tables():
             order_id VARCHAR(255) PRIMARY KEY,
             customer_id VARCHAR(255) REFERENCES df_user_tokped(customer_id),
             product_id VARCHAR(255) REFERENCES df_product_exsport(product_id),
+            color_id VARCHAR(255) REFERENCES df_color_exsport(color_id),
             quantity INT,
             order_date DATE,
             order_status VARCHAR(50),
