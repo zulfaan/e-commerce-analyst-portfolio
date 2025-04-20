@@ -1,0 +1,128 @@
+# 📊 E‑Commerce Data Analyst: Exsport Bag
+
+<a href="https://komarev.com/ghpvc/?username=zulfa-nurfajar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=zulfa-nurfajar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![Luigi](https://img.shields.io/badge/Luigi-1B6ACF?style=for-the-badge&logo=luigi&logoColor=white)](https://luigi.readthedocs.io/) 
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/) 
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) 
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+## 🚀 About the Project  
+This repository implements a full **ETL pipeline** and subsequent **data analysis** for Exsport Bag products on Tokopedia. The pipeline extracts raw data via web scraping, transforms and enriches it, loads the results into a PostgreSQL database and an Excel workbook, and performs exploratory and trend analyses in a Jupyter Notebook.
+
+---
+
+## 📂 Project Structure  
+```
+e-commerce-analyst-portfolio/
+│
+├── extract-raw-data/             # Raw CSVs from scraping tasks
+│   ├── exsport_tokped_raw.csv    
+│   └── exsport_stock_tokped.csv  
+│
+├── clean-data/                   # Cleaned & transformed CSVs
+│   ├── data_product_exsport.csv  
+│   ├── data_stock_exsport.csv    
+│   ├── data_name_exsport.csv     
+│   ├── data_color_exsport.csv    
+│   ├── data_category_exsport.csv 
+│   ├── data_order_tokped.csv     
+│   ├── data_review_order_tokped.csv
+│   └── data_user_tokped.csv      
+│
+├── database/                     # Final exports
+│   ├── ecommerce_exsport.xlsx    
+│   └── ecommerce_exsport_db.sql  
+│
+├── source/                       # ETL source code
+│   ├── extract_exsport.py        # Extract raw product and stock data
+│   ├── func.py                   # Helper functions (categorization, ID generation)
+│   ├── generate_data.py          # Generate synthetic user/order/review data
+│   ├── transform_exsport.py      # Clean, categorize, and transform data
+│   └── load_exsport.py           # Load data into PostgreSQL & Excel
+│
+├── validate-raw-data/           # Validation logs for raw data
+│   └── validate_data.txt         
+│
+├── ecommerce_data_analysis.ipynb # EDA and trend analysis notebook
+└── README.md                     # This file
+```
+
+---
+
+## 🔹 ETL Workflow Overview  
+
+1. **Extract** (`extract_exsport.py` via Luigi + Selenium)
+   - Scrapes dynamic product listings (name, link, price, discount, rating, sold count, image URL) across multiple pages.
+   - Handles infinite scrolling and JS-rendered content to ensure complete data capture.
+   - Outputs raw CSVs under `extract-raw-data/`.
+
+2. **Generate Synthetic Data** (`generate_data.py`)
+   - Enriches product data with synthetic stock levels, customer, order, and review datasets using Faker.
+   - Outputs additional CSVs simulating user behavior.
+
+3. **Transform** (`transform_exsport.py` via Luigi + Pandas)
+   - Cleans and normalizes text and numeric fields (prices, sold counts).
+   - Builds dimension tables (product, color, category) and fact tables following a star schema.
+   - Outputs cleaned CSVs under `clean-data/`.
+
+4. **Load & Export** (`load_exsport.py` via Luigi, psycopg2, OpenPyXL)
+   - Creates `ecommerce_exsport_db` and corresponding schemas in PostgreSQL.
+   - Bulk loads cleaned CSVs with upsert logic to ensure idempotence.
+   - Exports all tables into `ecommerce_exsport.xlsx` and a SQL dump for database portability.
+
+---
+
+## 🔍 Data Analysis Notebook  
+The `ecommerce_data_analysis.ipynb` notebook performs exploratory and trend analyses on the cleaned data:
+
+### 1. Category Sales Distribution
+- **Objective:** Identify top-selling product categories by total quantity sold.
+- **Approach:** Merge orders, stock, and category tables, then aggregate and sort by quantity.
+- **Visualization:** Horizontal bar chart highlighting the volume for each category.
+- **Insight:** Reveals which product categories drive the highest sales volumes.
+
+### 2. Monthly Sales Trends
+- **Objective:** Examine how sales volumes per category evolve over time.
+- **Approach:** Convert order dates to `year_month`, merge with product and category data, and group by period.
+- **Visualization:** Line plot comparing monthly sales trends across categories.
+- **Insight:** Highlights seasonal patterns and growth opportunities.
+
+### 3. Revenue by Category
+- **Objective:** Calculate total revenue generated by each category.
+- **Approach:** Compute `revenue = quantity * price_sale`, merge with category metadata, and summarize.
+- **Visualization:** Highlighted horizontal bar chart with category revenue, emphasizing the top performer.
+- **Insight:** Pinpoints the most profitable categories and informs inventory prioritization.
+
+All charts are generated using **Matplotlib** and **Seaborn**, showcasing the capability to transform raw sales data into actionable business insights.
+
+---
+
+## 💂 Tools & Technologies  
+- **Python** & **Luigi** for ETL orchestration  
+- **Selenium** for robust web scraping  
+- **Pandas** for data manipulation & cleaning  
+- **psycopg2** & **PostgreSQL** for relational storage  
+- **OpenPyXL** for Excel exports  
+- **Matplotlib** & **Seaborn** for data visualization  
+
+---
+
+## 🚀 Getting Started  
+1. **Install dependencies**: `pip install -r requirements.txt`  
+2. **Run the full pipeline**:
+   ```bash
+   luigi --module extract_exsport ExtractTokpedExsportData 
+   luigi --module generate_data TransformTokpedExportData  
+   luigi --module transform_exsport TransformTokpedExportData  
+   luigi --module load_exsport LoadExsportDatabase  
+   ```  
+3. **Explore analysis**: Open `ecommerce_data_analysis.ipynb` in Jupyter Notebook.  
+4. **Check outputs** in `clean-data/`, `database/`, and database engine.
+
+---
+
+🔥 **by Zulfa Nurfajar**
