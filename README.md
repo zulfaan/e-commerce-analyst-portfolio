@@ -1,8 +1,6 @@
 # 📊 E‑Commerce Data Analyst: Exsport Bag
 
-<a href="https://komarev.com/ghpvc/?username=zulfa-nurfajar">
-  <img align="right" src="https://komarev.com/ghpvc/?username=zulfa-nurfajar&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
 [![Luigi](https://img.shields.io/badge/Luigi-1B6ACF?style=for-the-badge&logo=luigi&logoColor=white)](https://luigi.readthedocs.io/) 
@@ -125,4 +123,4 @@ All charts are generated using **Matplotlib** and **Seaborn**, showcasing the ca
 
 ---
 
-🔥 **by Zulfa Nurfajar**
+🔥 **💙 by Zulfa Nurfajar**
