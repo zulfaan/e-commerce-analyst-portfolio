@@ -110,17 +110,21 @@ All charts are generated using **Matplotlib** and **Seaborn**, showcasing the ca
 ---
 
 ## 🚀 Getting Started  
-1. **Install dependencies**: `pip install -r requirements.txt`  
+1. **Ensure dependencies are installed**: install required Python packages:
+   ```bash
+   pip install luigi selenium pandas psycopg2 openpyxl faker
+   ```  
 2. **Run the full pipeline**:
    ```bash
-   luigi --module extract_exsport ExtractTokpedExsportData 
-   luigi --module generate_data TransformTokpedExportData  
-   luigi --module transform_exsport TransformTokpedExportData  
-   luigi --module load_exsport LoadExsportDatabase  
+   luigi --module extract_exsport ExtractTokpedExsportData
+   luigi --module generate_data TransformTokpedExportData
+   luigi --module transform_exsport TransformTokpedExportData
+   luigi --module load_exsport LoadExsportDatabase
    ```  
 3. **Explore analysis**: Open `ecommerce_data_analysis.ipynb` in Jupyter Notebook.  
 4. **Check outputs** in `clean-data/`, `database/`, and database engine.
 
 ---
 
-🔥 **💙 by Zulfa Nurfajar**
+**by Zulfa Nurfajar**
+
